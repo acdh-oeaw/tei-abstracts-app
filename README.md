@@ -18,3 +18,4 @@ To enhance functionality of this application, the data had to be slightly proces
 
 - derived a person index from the data by collecting all authors and created persName keys, either by taking the already assigned viaf number or created an md5 hash from the concatenated for- and surname plus prefix "genID" (`create-pers-list.xql`)
 - added md5 hashes as @key attributes to persName elements in the abstracts (`add.keys.xql`)
+- enhanced `tei:forename`elements with @type holding the names gender (`add-gender.xql`)
