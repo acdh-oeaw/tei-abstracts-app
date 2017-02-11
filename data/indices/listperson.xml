@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TEI-2016 Authors</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p>automatically derived with create-pers-list.xql</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <tei:listPerson xmlns:tei="http://www.tei-c.org/ns/1.0">
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/251032539">
+                            <tei:forename>Peter</tei:forename>
+                            <tei:surname>Andorfer</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID4d58d7742d9eee445968ee117a2fdc3a">
+                            <tei:forename>Dario</tei:forename>
+                            <tei:surname>Kampkaspar</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDc0b13dd39c11ccb17a1545fc3945e219">
+                            <tei:forename>Florentina</tei:forename>
+                            <tei:surname>Armaselu</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/162800591">
+                            <tei:forename>Piotr</tei:forename>
+                            <tei:surname>Bański</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/47146029530335821464">
+                            <tei:forename>Bertrand</tei:forename>
+                            <tei:surname>Gaiffe</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/285739999">
+                            <tei:forename>Patrice</tei:forename>
+                            <tei:surname>Lopez</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID573aa0a4ac2bdfc7ff8ec7b5336f7b81">
+                            <tei:forename>Simon</tei:forename>
+                            <tei:surname>Meoni</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/282014122">
+                            <tei:forename>Laurent</tei:forename>
+                            <tei:surname>Romary</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID2d68bb59e9ce4b04f2d0ca9e2efc5306">
+                            <tei:forename>Thomas</tei:forename>
+                            <tei:surname>Schmidt</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/160626279">
+                            <tei:forename>Peter</tei:forename>
+                            <tei:surname>Stadler</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/171746082">
+                            <tei:forename>Andreas</tei:forename>
+                            <tei:surname>Witt</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/295251101">
+                            <tei:forename>Piotr</tei:forename>
+                            <tei:surname>Bański</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/311166103">
+                            <tei:forename>Karlheinz</tei:forename>
+                            <tei:surname>Mörth</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/36375219">
+                            <tei:forename>Andreas</tei:forename>
+                            <tei:surname>Witt</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/265475928">
+                            <tei:forename>Michael</tei:forename>
+                            <tei:surname>Beißwenger</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID1c9689025a9e0513f5077c5c49c0a85f">
+                            <tei:forename>Eric</tei:forename>
+                            <tei:surname>Ehrhardt</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID7ea3c2797f5f9f991739b85d24d4b258">
+                            <tei:forename>Axel</tei:forename>
+                            <tei:surname>Herold</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key=" http://viaf.org/viaf/310691902">
+                            <tei:forename>Harald</tei:forename>
+                            <tei:surname>Lüngen</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/29663924">
+                            <tei:forename>Angelika</tei:forename>
+                            <tei:surname>Storrer</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/304323369">
+                            <tei:forename>Alejandro</tei:forename>
+                            <tei:surname>Bia</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDca0f08d12b0a257697f6d4126bac55e7">
+                            <tei:forename>Roman</tei:forename>
+                            <tei:surname>Bleier</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID3c4c619db649b523edce4de51c5cd2eb">
+                            <tei:forename>Richard</tei:forename>
+                            <tei:surname>Breen</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/199576452">
+                            <tei:forename>Richard</tei:forename>
+                            <tei:surname>Hadden</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
+                            <tei:forename>Jack Thompson</tei:forename>
+                            <tei:surname>Bowers</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/306105656">
+                            <tei:forename>Thierry</tei:forename>
+                            <tei:surname>Declerck</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDa52c15d700e84648e628400474bc9b5b">
+                            <tei:forename>Melanie</tei:forename>
+                            <tei:surname>Seltmann</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDcc75259c3ec8f76ca6db5a5ec6eecca0">
+                            <tei:forename>William Michael</tei:forename>
+                            <tei:surname>Broughton</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/78316782">
+                            <tei:forename>Hugh</tei:forename>
+                            <tei:surname>Cayless</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID0843aa04772d0fda90b691411f799efd">
+                            <tei:forename>Raffaele</tei:forename>
+                            <tei:surname>Viglianti</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/227725412">
+                            <tei:forename>Fabio</tei:forename>
+                            <tei:surname>Ciotti</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDf5ac59a6048b9b044e204ae067f13378">
+                            <tei:forename>James</tei:forename>
+                            <tei:surname>Cummings</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/205238621">
+                            <tei:forename>Jonathan</tei:forename>
+                            <tei:surname>Prag</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDfa4fc3095017aeaf2e73a8106de7304c">
+                            <tei:forename>James</tei:forename>
+                            <tei:surname>Chartrand</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID7dfe3e7f412051c1744c4ecf98f614be">
+                            <tei:forename>Michelle</tei:forename>
+                            <tei:surname>Dalmau</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID4d28a5d96f21b2abf42eb74d86d23985">
+                            <tei:forename>Meridith</tei:forename>
+                            <tei:surname>Beck Mink</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/222855969">
+                            <tei:forename>James</tei:forename>
+                            <tei:surname>Voelkel</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID103cf06f10937d6c53c42e11c0b0cca0">
+                            <tei:forename>John A.</tei:forename>
+                            <tei:surname>Walsh</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID630a8bce3920f3e688b7df3f516a66ff">
+                            <tei:forename>Wallace</tei:forename>
+                            <tei:surname>Hooper</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/56700335">
+                            <tei:forename>William R.</tei:forename>
+                            <tei:surname>Newman</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID88e0cde433405b56bf1c47b15a065322">
+                            <tei:forename>Archie</tei:forename>
+                            <tei:surname>Fields III</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID2e6ae182a5c78bd71c1d4e5a8cc9e285">
+                            <tei:forename>André</tei:forename>
+                            <tei:surname>De Tienne</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/303480271">
+                            <tei:forename>Stefan</tei:forename>
+                            <tei:surname>Dumont</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/305928516">
+                            <tei:forename>Susanne</tei:forename>
+                            <tei:surname>Haaf</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/205809746">
+                            <tei:forename>Tobias</tei:forename>
+                            <tei:surname>Kraft</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/40550920">
+                            <tei:forename>Alexander</tei:forename>
+                            <tei:surname>Czmiel</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID4bee645da5a0fbef20b457da89b9f79a">
+                            <tei:forename>Christian</tei:forename>
+                            <tei:surname>Thomas</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID01c7679f56d8fcea3b206899efa7d34c">
+                            <tei:forename>Matthias</tei:forename>
+                            <tei:surname>Boenig</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID014a63e42a6ac3160bdfff6d522ceb53">
+                            <tei:forename>Yasmin</tei:forename>
+                            <tei:surname>Faghihi</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID33303f3bd5db03e1042d500a9594c12f">
+                            <tei:forename>Tobias J.</tei:forename>
+                            <tei:surname>Jocham</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDe730f3a0bff2829021ff685e8784790e">
+                            <tei:forename>Greta</tei:forename>
+                            <tei:surname>Franzini</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDbc7d3c2b2f1b8bfd8a2058076f52af44">
+                            <tei:forename>Stefan E.</tei:forename>
+                            <tei:surname>Funk</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/311735519">
+                            <tei:forename>Thomas</tei:forename>
+                            <tei:surname>Kollatz</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID01bbfcea9fb2c048edcd5e22f6c5945d">
+                            <tei:forename>Oliver</tei:forename>
+                            <tei:surname>Schmid</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/818147270494635700004">
+                            <tei:forename>Sibylle</tei:forename>
+                            <tei:surname>Söring</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDe3382c4908c71a57dafaa1d593b00deb">
+                            <tei:forename>Ubbo</tei:forename>
+                            <tei:surname>Veentjer</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/59147905242279092527">
+                            <tei:forename>Nathan P.</tei:forename>
+                            <tei:surname>Gibson</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID04a7fa2e6546250906da1b20e28ef14f">
+                            <tei:forename>David A.</tei:forename>
+                            <tei:surname>Michelson</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/175982042">
+                            <tei:forename>Elena</tei:forename>
+                            <tei:surname>González-Blanco</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID332f850382a244b759ea52c5b11dfe06">
+                            <tei:forename>Antonio</tei:forename>
+                            <tei:surname>Robles-Gómez</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDa8b2c996594e3fc4c1902253da7bd045">
+                            <tei:forename>Salvador</tei:forename>
+                            <tei:surname>Ros</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/261749100">
+                            <tei:forename>Gimena</tei:forename>
+                            <tei:surname>Del Rio Riande</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDfa23e85501651362ef3b32ace2679fd3">
+                            <tei:forename>Roberto</tei:forename>
+                            <tei:surname>Hernández</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/296443412">
+                            <tei:forename>Miguel</tei:forename>
+                            <tei:surname>Urizar</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID85d8ee0698dca49483e2944a50ae9271">
+                            <tei:forename>Clara I.</tei:forename>
+                            <tei:surname>Martínez</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID933530518f9ff90a7017148989ef1fec">
+                            <tei:forename>Rafael</tei:forename>
+                            <tei:surname>Pastor</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID1fb4d2c70f9c34ef1c07b4ea61881fb7">
+                            <tei:forename>Jesús</tei:forename>
+                            <tei:surname>Cano</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDa828d27d13cfbcc6bb586ed3acdbfa50">
+                            <tei:forename>Agustín C.</tei:forename>
+                            <tei:surname>Caminero</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/31146030596135862230">
+                            <tei:forename>Vanessa</tei:forename>
+                            <tei:surname>Hannesschläger</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID4c349f0b28b7b2a9710fc4cc590c873e">
+                            <tei:forename>Desiree</tei:forename>
+                            <tei:surname>Hebenstreit</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDcc28d6e542fa7e9831776712fad2c466">
+                            <tei:forename>Arno</tei:forename>
+                            <tei:surname>Herberth</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/100576375">
+                            <tei:forename>Laura</tei:forename>
+                            <tei:surname>Tezarek</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/296142770">
+                            <tei:forename>Christian</tei:forename>
+                            <tei:surname>Zolles</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/312638971">
+                            <tei:forename>Matthew Lawrence</tei:forename>
+                            <tei:surname>Holford</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDcbaaf3be8fd1390a438737c14de79133">
+                            <tei:forename>Huw</tei:forename>
+                            <tei:surname>Jones</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDab3b6abc53f03e801808eaaf654746d1">
+                            <tei:forename>Margaret</tei:forename>
+                            <tei:surname>King</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/220145541821096601211">
+                            <tei:forename>Brian</tei:forename>
+                            <tei:surname>Rosenblum</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/5254585">
+                            <tei:forename>Robert</tei:forename>
+                            <tei:surname>Klugseder</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID8678448055e30497ab2ac093f2a7682d">
+                            <tei:forename>Christian</tei:forename>
+                            <tei:surname>Steiner</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDbdb55642a32858fc997a87c09b691d7a">
+                            <tei:forename>Judit</tei:forename>
+                            <tei:surname>Kodolányi</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/64289700">
+                            <tei:forename>Gaia</tei:forename>
+                            <tei:surname>Lembi</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/311203805">
+                            <tei:forename>Elli</tei:forename>
+                            <tei:surname>Mylonas</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/69143584">
+                            <tei:forename>Michael</tei:forename>
+                            <tei:surname>Satlow</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID1252f4807ab4fa146dcfa8fb7d0d29e3">
+                            <tei:forename>Sünna</tei:forename>
+                            <tei:surname>Looschen</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/203147266599235480662">
+                            <tei:forename>Ingo</tei:forename>
+                            <tei:surname>Börner</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID6fee57602759d898c9458be3ff2af12f">
+                            <tei:forename>Eugene W.</tei:forename>
+                            <tei:surname>Lyman II</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/249676043">
+                            <tei:forename>Daniel</tei:forename>
+                            <tei:surname>Schopper</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/197982363">
+                            <tei:forename>Patrick</tei:forename>
+                            <tei:surname>McAllister</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDc66f1c9c6a0b777e4f9226b51c054e84">
+                            <tei:forename>Anja</tei:forename>
+                            <tei:surname>Morgenstern</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID9ca45be867443c12e5f7b24c454c15ae">
+                            <tei:forename>Agnes</tei:forename>
+                            <tei:surname>Amminger</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/252742522">
+                            <tei:forename>Kiyonori</tei:forename>
+                            <tei:surname>Nagasaki</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/192915359">
+                            <tei:forename>Tetsuei</tei:forename>
+                            <tei:surname>Tsuda</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID4bd175502088a1edc63f40823adbc2ba">
+                            <tei:forename>A. Charles</tei:forename>
+                            <tei:surname>Muller</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/113240825">
+                            <tei:forename>Masahiro</tei:forename>
+                            <tei:surname>Shimoda</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/66207154">
+                            <tei:forename>Matija</tei:forename>
+                            <tei:surname>Ogrin</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/10709753">
+                            <tei:forename>Tomaž</tei:forename>
+                            <tei:surname>Erjavec</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID088c59a0e8db6a6115ceec5d87a67b23">
+                            <tei:forename>Sara</tei:forename>
+                            <tei:surname>Palmer</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDa166bb8c04fe44d1b253a85b242eb717">
+                            <tei:forename>Ariane</tei:forename>
+                            <tei:surname>Pinche</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/73669237">
+                            <tei:forename>Brian L.</tei:forename>
+                            <tei:surname>Pytlik Zillig</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/52846347">
+                            <tei:forename>Claudia</tei:forename>
+                            <tei:surname>Resch</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDf4c7c1680fd0a3bfe62fd1afb869c00b">
+                            <tei:forename>Eva</tei:forename>
+                            <tei:surname>Wohlfarter</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/43734505">
+                            <tei:forename>Anna</tei:forename>
+                            <tei:surname>Mader</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID696defac6a310023c5b5ba3bac7a5fc2">
+                            <tei:forename>Nora</tei:forename>
+                            <tei:surname>Fischer</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID6bf61aa867496ab524289d54fffe0b32">
+                            <tei:forename>Chris</tei:forename>
+                            <tei:surname>Rogers</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID8f2d52d2d3f397782dc04a1073b3a309">
+                            <tei:forename>Helena</tei:forename>
+                            <tei:surname>Bermudez Sabel</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/109145541733896601584">
+                            <tei:forename>Martina</tei:forename>
+                            <tei:surname>Scholger</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDab7306163dd9302fb67b9d731872f0b2">
+                            <tei:forename>Peter</tei:forename>
+                            <tei:surname>Stadler</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID9fa3da2b326008cac7ad8d140eafa2fa">
+                            <tei:forename>Kira</tei:forename>
+                            <tei:surname>Kovalenko</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/186172418">
+                            <tei:forename>Thierry</tei:forename>
+                            <tei:surname>Declerck</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/306137134">
+                            <tei:forename>Eveline</tei:forename>
+                            <tei:surname>Wandl-Vogt</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID5b53c4f161024460bd33dbeac96f62d6">
+                            <tei:forename>Daniela Monika</tei:forename>
+                            <tei:surname>Schulz</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/68770782">
+                            <tei:forename>Nils</tei:forename>
+                            <tei:surname>Geißler</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID40e88cf196801d011d30d80621198924">
+                            <tei:forename>Marcello</tei:forename>
+                            <tei:surname>Perathoner</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/47401803">
+                            <tei:forename>Martin</tei:forename>
+                            <tei:surname>Sievers</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDbd35792abb9bc4d7779b8f948266292b">
+                            <tei:forename>Daniil</tei:forename>
+                            <tei:surname>Skorinkin</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID60b15aa11ba208d959fe91cf815715f0">
+                            <tei:forename>Evgeny</tei:forename>
+                            <tei:surname>Mozhaev</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/307490314">
+                            <tei:forename>Magdalena</tei:forename>
+                            <tei:surname>Turska</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID46be19fa82cd78431b11b56b671bdc7f">
+                            <tei:forename>Wolfgang</tei:forename>
+                            <tei:surname>Meier</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDc7304170658c8617ef98d9c6a5233c8a">
+                            <tei:forename>Magdalena</tei:forename>
+                            <tei:surname>Turska</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID0bc4cf2cde8ab1075d0d0143323a53ba">
+                            <tei:forename>Lars</tei:forename>
+                            <tei:surname>Windauer</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/200939827">
+                            <tei:forename>Toshinori</tei:forename>
+                            <tei:surname>Uetani</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/300847613">
+                            <tei:forename>Sandrine</tei:forename>
+                            <tei:surname>Breuil</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID8f08c243f3053a0255178117a467dd47">
+                            <tei:forename>Mathieu</tei:forename>
+                            <tei:surname>Duboc</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID0f3747ce4532f861279266dff127ac15">
+                            <tei:forename>Guillaume</tei:forename>
+                            <tei:surname>Porte</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/172241593">
+                            <tei:forename>François</tei:forename>
+                            <tei:surname>Vignale</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/58911587">
+                            <tei:forename>Georg</tei:forename>
+                            <tei:surname>Vogeler</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID11237979dc945142afee8b752f5bf827">
+                            <tei:forename>Joseph</tei:forename>
+                            <tei:surname>Wang</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID9fe0ee1d81e02fcc579be00cd7d90469">
+                            <tei:forename>Joseph C.</tei:forename>
+                            <tei:surname>Wicentowski</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="http://viaf.org/viaf/70107717">
+                            <tei:forename>Tanja</tei:forename>
+                            <tei:surname>Wissik</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID74a373d257350a109678662cb287b875">
+                            <tei:forename>Dennis</tei:forename>
+                            <tei:surname>Zielke</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genIDcfc165fa73a755e549c4c0c44f6f3d41">
+                            <tei:forename>Alexander</tei:forename>
+                            <tei:surname>Petrus</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                    <tei:person>
+                        <tei:persName key="genID55c1be7621e04766d94a3fa709a78d67">
+                            <tei:forename>Mary Erica</tei:forename>
+                            <tei:surname>Zimmer</tei:surname>
+                        </tei:persName>
+                    </tei:person>
+                </tei:listPerson>
+            </div>
+        </body>
+    </text>
+</TEI>
