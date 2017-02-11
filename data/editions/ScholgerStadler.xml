@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>TEI2German Translatathon</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/109145541733896601584">
+                    <persName ref="http://viaf.org/viaf/109145541733896601584" key="http://viaf.org/viaf/109145541733896601584">
                         <forename>Martina</forename>
                         <surname>Scholger</surname>
                     </persName>
-                    <persName>
+                    <persName key="genIDab7306163dd9302fb67b9d731872f0b2">
                         <forename>Peter</forename>
                         <surname>Stadler</surname>
                     </persName>

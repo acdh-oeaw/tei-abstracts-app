@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>HowTo create your own digital edition web app — A blog</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/251032539">
+                    <persName ref="http://viaf.org/viaf/251032539" key="http://viaf.org/viaf/251032539">
                         <forename>Peter</forename>
                         <surname>Andorfer</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID4d58d7742d9eee445968ee117a2fdc3a">
                         <forename>Dario</forename>
                         <surname>Kampkaspar</surname>
                     </persName>

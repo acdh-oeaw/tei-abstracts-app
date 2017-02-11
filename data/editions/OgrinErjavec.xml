@@ -6,11 +6,11 @@
                 <title> Early Modern Slovenian Manuscripts Between Description, Critical Edition and
                Lexicon</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/66207154">
+                    <persName ref="http://viaf.org/viaf/66207154" key="http://viaf.org/viaf/66207154">
                         <forename>Matija</forename>
                         <surname>Ogrin</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/10709753">
+                    <persName ref="http://viaf.org/viaf/10709753" key="http://viaf.org/viaf/10709753">
                         <forename>Tomaž</forename>
                         <surname>Erjavec</surname>
                     </persName>

@@ -6,15 +6,15 @@
                 <title>Upconversion and Migration: Generating a TEI-EpiDoc Corpus of Sicilian
                Inscriptions</title>
                 <author>
-                    <persName>
+                    <persName key="genIDf5ac59a6048b9b044e204ae067f13378">
                         <forename>James</forename>
                         <surname>Cummings</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/205238621">
+                    <persName ref="http://viaf.org/viaf/205238621" key="http://viaf.org/viaf/205238621">
                         <forename>Jonathan</forename>
                         <surname>Prag</surname>
                     </persName>
-                    <persName>
+                    <persName key="genIDfa4fc3095017aeaf2e73a8106de7304c">
                         <forename>James</forename>
                         <surname>Chartrand</surname>
                     </persName>

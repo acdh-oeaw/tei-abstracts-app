@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>TEI markup for the 90-volume edition of Leo Tolstoy’s complete works</title>
                 <author>
-                    <persName>
+                    <persName key="genIDbd35792abb9bc4d7779b8f948266292b">
                         <forename>Daniil</forename>
                         <surname>Skorinkin</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID60b15aa11ba208d959fe91cf815715f0">
                         <forename>Evgeny</forename>
                         <surname>Mozhaev</surname>
                     </persName>

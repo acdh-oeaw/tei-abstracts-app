@@ -6,11 +6,11 @@
                 <title>Modeling a Body of Literature in TEI: Bibliotheca Hagiographica Syriaca
                Electronica</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/59147905242279092527">
+                    <persName ref="http://viaf.org/viaf/59147905242279092527" key="http://viaf.org/viaf/59147905242279092527">
                         <forename>Nathan P.</forename>
                         <surname>Gibson</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID04a7fa2e6546250906da1b20e28ef14f">
                         <forename>David A.</forename>
                         <surname>Michelson</surname>
                     </persName>

@@ -5,23 +5,23 @@
             <titleStmt>
                 <title>Converting and Representing Social Media Corpora into TEI: Schema and best practices from CLARIN-D</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/265475928">
+                    <persName ref="http://viaf.org/viaf/265475928" key="http://viaf.org/viaf/265475928">
                         <forename>Michael</forename>
                         <surname>Beißwenger</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID1c9689025a9e0513f5077c5c49c0a85f">
                         <forename>Eric</forename>
                         <surname>Ehrhardt</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID7ea3c2797f5f9f991739b85d24d4b258">
                         <forename>Axel</forename>
                         <surname>Herold</surname>
                     </persName>
-                    <persName ref=" http://viaf.org/viaf/310691902">
+                    <persName ref=" http://viaf.org/viaf/310691902" key=" http://viaf.org/viaf/310691902">
                         <forename>Harald</forename>
                         <surname>Lüngen</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/29663924">
+                    <persName ref="http://viaf.org/viaf/29663924" key="http://viaf.org/viaf/29663924">
                         <forename>Angelika</forename>
                         <surname>Storrer</surname>
                     </persName>

@@ -6,15 +6,15 @@
                 <title>
                     <gi>msDesc</gi> at Oxford and Cambridge</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/312638971">
+                    <persName ref="http://viaf.org/viaf/312638971" key="http://viaf.org/viaf/312638971">
                         <forename>Matthew Lawrence</forename>
                         <surname>Holford</surname>
                     </persName>
-                    <persName>
+                    <persName key="genIDcbaaf3be8fd1390a438737c14de79133">
                         <forename>Huw</forename>
                         <surname>Jones</surname>
                     </persName>
-                    <persName>
+                    <persName key="genIDf5ac59a6048b9b044e204ae067f13378">
                         <forename>James</forename>
                         <surname>Cummings</surname>
                     </persName>

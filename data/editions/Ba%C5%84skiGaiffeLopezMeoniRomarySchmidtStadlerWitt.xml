@@ -5,35 +5,35 @@
             <titleStmt>
                 <title>Wake up, standOff!</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/162800591">
+                    <persName ref="http://viaf.org/viaf/162800591" key="http://viaf.org/viaf/162800591">
                         <forename>Piotr</forename>
                         <surname>Bański</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/47146029530335821464">
+                    <persName ref="http://viaf.org/viaf/47146029530335821464" key="http://viaf.org/viaf/47146029530335821464">
                         <forename>Bertrand</forename>
                         <surname>Gaiffe</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/285739999">
+                    <persName ref="http://viaf.org/viaf/285739999" key="http://viaf.org/viaf/285739999">
                         <forename>Patrice</forename>
                         <surname>Lopez</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID573aa0a4ac2bdfc7ff8ec7b5336f7b81">
                         <forename>Simon</forename>
                         <surname>Meoni</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/282014122">
+                    <persName ref="http://viaf.org/viaf/282014122" key="http://viaf.org/viaf/282014122">
                         <forename>Laurent</forename>
                         <surname>Romary</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID2d68bb59e9ce4b04f2d0ca9e2efc5306">
                         <forename>Thomas</forename>
                         <surname>Schmidt</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/160626279">
+                    <persName ref="http://viaf.org/viaf/160626279" key="http://viaf.org/viaf/160626279">
                         <forename>Peter</forename>
                         <surname>Stadler</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/171746082">
+                    <persName ref="http://viaf.org/viaf/171746082" key="http://viaf.org/viaf/171746082">
                         <forename>Andreas</forename>
                         <surname>Witt</surname>
                     </persName>

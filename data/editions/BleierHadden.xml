@@ -6,11 +6,11 @@
                 <title>Capturing the crowd-sourcing process: storing different stages of crowd-sourced
                transcriptions in TEI</title>
                 <author>
-                    <persName>
+                    <persName key="genIDca0f08d12b0a257697f6d4126bac55e7">
                         <forename>Roman</forename>
                         <surname>Bleier</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/199576452">
+                    <persName ref="http://viaf.org/viaf/199576452" key="http://viaf.org/viaf/199576452">
                         <forename>Richard</forename>
                         <surname>Hadden</surname>
                     </persName>

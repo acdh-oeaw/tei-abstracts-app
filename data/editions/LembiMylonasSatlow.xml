@@ -5,15 +5,15 @@
             <titleStmt>
                 <title>Bibliography in the Inscriptions of Israel / Palestine Epigraphic Project</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/64289700">
+                    <persName ref="http://viaf.org/viaf/64289700" key="http://viaf.org/viaf/64289700">
                         <forename>Gaia</forename>
                         <surname>Lembi</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/311203805">
+                    <persName ref="http://viaf.org/viaf/311203805" key="http://viaf.org/viaf/311203805">
                         <forename>Elli</forename>
                         <surname>Mylonas</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/69143584">
+                    <persName ref="http://viaf.org/viaf/69143584" key="http://viaf.org/viaf/69143584">
                         <forename>Michael</forename>
                         <surname>Satlow</surname>
                     </persName>

@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>CETEIcean, a JavaScript library for isomorphic TEI to HTML transformation</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/78316782">
+                    <persName ref="http://viaf.org/viaf/78316782" key="http://viaf.org/viaf/78316782">
                         <forename>Hugh</forename>
                         <surname>Cayless</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID0843aa04772d0fda90b691411f799efd">
                         <forename>Raffaele</forename>
                         <surname>Viglianti</surname>
                     </persName>

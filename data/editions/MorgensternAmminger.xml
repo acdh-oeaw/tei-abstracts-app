@@ -6,11 +6,11 @@
                 <title>Biography as compilation: How to edit Georg Nikolaus Nissen’s <q>Biographie
                   W. A. Mozart’s</q> (1828) in TEI</title>
                 <author>
-                    <persName>
+                    <persName key="genIDc66f1c9c6a0b777e4f9226b51c054e84">
                         <forename>Anja</forename>
                         <surname>Morgenstern</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID9ca45be867443c12e5f7b24c454c15ae">
                         <forename>Agnes</forename>
                         <surname>Amminger</surname>
                     </persName>

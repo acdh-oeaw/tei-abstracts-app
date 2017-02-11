@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Tomayto, tomahto? Encoding variant taxonomies in TEI</title>
                 <author>
-                    <persName>
+                    <persName key="genID8f2d52d2d3f397782dc04a1073b3a309">
                         <forename>Helena</forename>
                         <surname>Bermudez Sabel</surname>
                     </persName>

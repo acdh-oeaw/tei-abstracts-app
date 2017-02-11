@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>TEI Processing Model Toolbox</title>
                 <author>
-                    <persName>
+                    <persName key="genIDc7304170658c8617ef98d9c6a5233c8a">
                         <forename>Magdalena</forename>
                         <surname>Turska</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID46be19fa82cd78431b11b56b671bdc7f">
                         <forename>Wolfgang</forename>
                         <surname>Meier</surname>
                     </persName>

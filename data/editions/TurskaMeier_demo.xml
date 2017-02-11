@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>Early Print: annotation module for TEI</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/307490314">
+                    <persName ref="http://viaf.org/viaf/307490314" key="http://viaf.org/viaf/307490314">
                         <forename>Magdalena</forename>
                         <surname>Turska</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID46be19fa82cd78431b11b56b671bdc7f">
                         <forename>Wolfgang</forename>
                         <surname>Meier</surname>
                     </persName>

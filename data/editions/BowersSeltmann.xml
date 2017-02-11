@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
                 <author>
-                    <persName>
+                    <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
                         <forename>Jack Thompson</forename>
                         <surname>Bowers</surname>
                     </persName>
-                    <persName>
+                    <persName key="genIDa52c15d700e84648e628400474bc9b5b">
                         <forename>Melanie</forename>
                         <surname>Seltmann</surname>
                     </persName>

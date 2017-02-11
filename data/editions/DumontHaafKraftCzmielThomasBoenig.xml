@@ -7,27 +7,27 @@
                   Reisen</q> as an Example for the Collective Subsequent Use of DTABf and
                ediarum</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/303480271">
+                    <persName ref="http://viaf.org/viaf/303480271" key="http://viaf.org/viaf/303480271">
                         <forename>Stefan</forename>
                         <surname>Dumont</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/305928516">
+                    <persName ref="http://viaf.org/viaf/305928516" key="http://viaf.org/viaf/305928516">
                         <forename>Susanne</forename>
                         <surname>Haaf</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/205809746">
+                    <persName ref="http://viaf.org/viaf/205809746" key="http://viaf.org/viaf/205809746">
                         <forename>Tobias</forename>
                         <surname>Kraft</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/40550920">
+                    <persName ref="http://viaf.org/viaf/40550920" key="http://viaf.org/viaf/40550920">
                         <forename>Alexander</forename>
                         <surname>Czmiel</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID4bee645da5a0fbef20b457da89b9f79a">
                         <forename>Christian</forename>
                         <surname>Thomas</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID01c7679f56d8fcea3b206899efa7d34c">
                         <forename>Matthias</forename>
                         <surname>Boenig</surname>
                     </persName>

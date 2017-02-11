@@ -5,19 +5,19 @@
             <titleStmt>
                 <title>Andreas Okopenko: diaries from the poet’s estate (hybrid edition)</title>
                 <author>
-                    <persName>
+                    <persName key="genID4c349f0b28b7b2a9710fc4cc590c873e">
                         <forename>Desiree</forename>
                         <surname>Hebenstreit</surname>
                     </persName>
-                    <persName>
+                    <persName key="genIDcc28d6e542fa7e9831776712fad2c466">
                         <forename>Arno</forename>
                         <surname>Herberth</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/100576375">
+                    <persName ref="http://viaf.org/viaf/100576375" key="http://viaf.org/viaf/100576375">
                         <forename>Laura</forename>
                         <surname>Tezarek</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/296142770">
+                    <persName ref="http://viaf.org/viaf/296142770" key="http://viaf.org/viaf/296142770">
                         <forename>Christian</forename>
                         <surname>Zolles</surname>
                     </persName>

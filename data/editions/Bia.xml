@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>TEI document and schema visualization and modeling using mindmaps</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/304323369">
+                    <persName ref="http://viaf.org/viaf/304323369" key="http://viaf.org/viaf/304323369">
                         <forename>Alejandro</forename>
                         <surname>Bia</surname>
                     </persName>

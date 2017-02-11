@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Creating a maintainable cataloging workflow and infrastructure using TEI</title>
                 <author>
-                    <persName>
+                    <persName key="genID6bf61aa867496ab524289d54fffe0b32">
                         <forename>Chris</forename>
                         <surname>Rogers</surname>
                     </persName>

@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>Database of Belarusian Periodicals</title>
                 <author>
-                    <persName>
+                    <persName key="genID1252f4807ab4fa146dcfa8fb7d0d29e3">
                         <forename>Sünna</forename>
                         <surname>Looschen</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/203147266599235480662">
+                    <persName ref="http://viaf.org/viaf/203147266599235480662" key="http://viaf.org/viaf/203147266599235480662">
                         <forename>Ingo</forename>
                         <surname>Börner</surname>
                     </persName>

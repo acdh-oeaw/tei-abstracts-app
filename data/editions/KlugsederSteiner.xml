@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>Cantus Network — a semantically enriched digital edition of libri ordinarii of the Salzburg metropolitan province</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/5254585">
+                    <persName ref="http://viaf.org/viaf/5254585" key="http://viaf.org/viaf/5254585">
                         <forename>Robert</forename>
                         <surname>Klugseder</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID8678448055e30497ab2ac093f2a7682d">
                         <forename>Christian</forename>
                         <surname>Steiner</surname>
                     </persName>

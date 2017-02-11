@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>STEP Transcriptor: a comprehensive TEI-XML compliant transcription app</title>
                 <author>
-                    <persName>
+                    <persName key="genID2e6ae182a5c78bd71c1d4e5a8cc9e285">
                         <forename>André</forename>
                         <surname>De Tienne</surname>
                     </persName>

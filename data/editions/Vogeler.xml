@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Encoding Text about Things</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/58911587">
+                    <persName ref="http://viaf.org/viaf/58911587" key="http://viaf.org/viaf/58911587">
                         <forename>Georg</forename>
                         <surname>Vogeler</surname>
                     </persName>

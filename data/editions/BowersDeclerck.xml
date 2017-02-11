@@ -6,11 +6,11 @@
                 <title>TEI and lemon: a comparative study on the lexical encoding and
                interoperability</title>
                 <author>
-                    <persName>
+                    <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
                         <forename>Jack Thompson</forename>
                         <surname>Bowers</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/306105656">
+                    <persName ref="http://viaf.org/viaf/306105656" key="http://viaf.org/viaf/306105656">
                         <forename>Thierry</forename>
                         <surname>Declerck</surname>
                     </persName>

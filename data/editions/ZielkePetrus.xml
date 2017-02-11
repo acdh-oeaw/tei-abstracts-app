@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>Automating the validation of TEI metadata processing</title>
                 <author>
-                    <persName>
+                    <persName key="genID74a373d257350a109678662cb287b875">
                         <forename>Dennis</forename>
                         <surname>Zielke</surname>
                     </persName>
-                    <persName>
+                    <persName key="genIDcfc165fa73a755e549c4c0c44f6f3d41">
                         <forename>Alexander</forename>
                         <surname>Petrus</surname>
                     </persName>

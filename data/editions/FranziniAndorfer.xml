@@ -6,11 +6,11 @@
                 <title>The Digital Editions Catalogue App: A web application to browse, curate and
                analyze digital editions</title>
                 <author>
-                    <persName>
+                    <persName key="genIDe730f3a0bff2829021ff685e8784790e">
                         <forename>Greta</forename>
                         <surname>Franzini</surname>
                     </persName>
-                    <persName ref="http://viaf.org/viaf/251032539">
+                    <persName ref="http://viaf.org/viaf/251032539" key="http://viaf.org/viaf/251032539">
                         <forename>Peter</forename>
                         <surname>Andorfer</surname>
                     </persName>

@@ -72,7 +72,7 @@ let $href := concat('show.html','?document=', app:getDocName($node))
  :)
 declare function app:registerBasedSearch_hits($node as node(), $model as map(*), $searchkey as xs:string?, $path as xs:string?)
 {
-for $title in collection(concat($config:app-root, '/data/editions'))//tei:TEI[.//tei:author[.//*[@ref=$searchkey]]]
+for $title in collection(concat($config:app-root, '/data/editions'))//tei:TEI[.//tei:author[.//*[@key=$searchkey]]]
     let $doc := document-uri(root($title))
     let $type := tokenize($doc,'/')[(last() - 1)]
     let $params := concat("&amp;directory=", $type, "&amp;stylesheet=", $type)

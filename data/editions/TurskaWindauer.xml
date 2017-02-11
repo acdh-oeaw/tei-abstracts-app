@@ -5,11 +5,11 @@
             <titleStmt>
                 <title>eXistdb: more than a database</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/307490314">
+                    <persName ref="http://viaf.org/viaf/307490314" key="http://viaf.org/viaf/307490314">
                         <forename>Magdalena</forename>
                         <surname>Turska</surname>
                     </persName>
-                    <persName>
+                    <persName key="genID0bc4cf2cde8ab1075d0d0143323a53ba">
                         <forename>Lars</forename>
                         <surname>Windauer</surname>
                     </persName>

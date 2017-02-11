@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>We are TEI. You will be assimilated!</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/227725412">
+                    <persName ref="http://viaf.org/viaf/227725412" key="http://viaf.org/viaf/227725412">
                         <forename>Fabio</forename>
                         <surname>Ciotti</surname>
                     </persName>

@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>ACDH Tool Gallery 2.2: TEI Basics – A gentle introduction to Text Encoding</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/70107717">
+                    <persName ref="http://viaf.org/viaf/70107717" key="http://viaf.org/viaf/70107717">
                         <forename>Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>

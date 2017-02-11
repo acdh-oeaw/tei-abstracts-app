@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>From DOCX via TEI to Literature Map</title>
                 <author>
-                    <persName instant="false" full="yes">
+                    <persName instant="false" full="yes" key="genID11237979dc945142afee8b752f5bf827">
                         <forename full="yes">Joseph</forename>
                         <surname full="yes">Wang</surname>
                     </persName>

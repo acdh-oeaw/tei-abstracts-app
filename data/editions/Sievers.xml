@@ -9,7 +9,7 @@
                   both worlds very early.</note>
                 </title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/47401803" xml:id="mars">
+                    <persName ref="http://viaf.org/viaf/47401803" xml:id="mars" key="http://viaf.org/viaf/47401803">
                         <forename>Martin</forename>
                         <surname>Sievers</surname>
                     </persName>

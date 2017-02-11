@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>EuRED: XML-TEI in database structure</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/172241593">
+                    <persName ref="http://viaf.org/viaf/172241593" key="http://viaf.org/viaf/172241593">
                         <forename>François</forename>
                         <surname>Vignale</surname>
                     </persName>

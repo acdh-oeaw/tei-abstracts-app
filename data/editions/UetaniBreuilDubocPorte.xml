@@ -5,25 +5,25 @@
             <titleStmt>
                 <title>The BVH in Tours and the <q>Bibliotheques françoises</q> project</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/200939827">
+                    <persName ref="http://viaf.org/viaf/200939827" key="http://viaf.org/viaf/200939827">
                         <forename>Toshinori</forename>
                         <surname>Uetani</surname>
                     </persName>
                 </author>
                 <author>
-                    <persName ref="http://viaf.org/viaf/300847613">
+                    <persName ref="http://viaf.org/viaf/300847613" key="http://viaf.org/viaf/300847613">
                         <forename>Sandrine</forename>
                         <surname>Breuil</surname>
                     </persName>
                 </author>
                 <author>
-                    <persName>
+                    <persName key="genID8f08c243f3053a0255178117a467dd47">
                         <forename>Mathieu</forename>
                         <surname>Duboc</surname>
                     </persName>
                 </author>
                 <author>
-                    <persName>
+                    <persName key="genID0f3747ce4532f861279266dff127ac15">
                         <forename>Guillaume</forename>
                         <surname>Porte</surname>
                     </persName>
