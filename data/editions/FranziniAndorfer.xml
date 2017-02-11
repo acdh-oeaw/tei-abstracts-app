@@ -7,42 +7,42 @@
                analyze digital editions</title>
                 <author>
                     <persName key="genIDe730f3a0bff2829021ff685e8784790e">
-                        <forename>Greta</forename>
+                        <forename type="female">Greta</forename>
                         <surname>Franzini</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/251032539" key="http://viaf.org/viaf/251032539">
-                        <forename>Peter</forename>
+                        <forename type="male">Peter</forename>
                         <surname>Andorfer</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -68,11 +68,11 @@
                      analyze digital editions</title>
                         <author>
                             <persName>
-                                <forename>Greta</forename>
+                                <forename type="female">Greta</forename>
                                 <surname>Franzini</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/251032539">
-                                <forename>Peter</forename>
+                                <forename type="male">Peter</forename>
                                 <surname>Andorfer</surname>
                             </persName>
                         </author>
@@ -80,26 +80,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -167,19 +167,19 @@
                         <analytic>
                             <author>
                                 <persName>
-                                    <forename>Greta</forename>
+                                    <forename type="female">Greta</forename>
                                     <surname>Franzini</surname>
                                 </persName>
                             </author>
                             <author>
                                 <persName>
-                                    <forename>S.</forename>
+                                    <forename type="no-match">S.</forename>
                                     <surname>Mahony</surname>
                                 </persName>
                             </author>
                             <author>
                                 <persName>
-                                    <forename>Melissa</forename>
+                                    <forename type="female">Melissa</forename>
                                     <surname>Terras</surname>
                                 </persName>
                             </author>
@@ -188,13 +188,13 @@
                         <monogr>
                             <editor>
                                 <persName>
-                                    <forename>Elena</forename>
+                                    <forename type="female">Elena</forename>
                                     <surname>Pierazzo</surname>
                                 </persName>
                             </editor>
                             <editor>
                                 <persName>
-                                    <forename>Matthew
+                                    <forename type="no-match">Matthew
                            James</forename>
                                     <surname>Driscoll</surname>
                                 </persName>

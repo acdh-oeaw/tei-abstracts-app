@@ -6,39 +6,39 @@
                 <title>ACDH Tool Gallery 2.2: TEI Basics – A gentle introduction to Text Encoding</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/70107717" key="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -61,7 +61,7 @@
                         <title>ACDH Tool Gallery 2.2: TEI Basics – A gentle introduction to Text Encoding</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </author>
@@ -69,26 +69,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>

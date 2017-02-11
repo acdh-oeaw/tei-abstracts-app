@@ -6,39 +6,39 @@
                 <title>We are TEI. You will be assimilated!</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/227725412" key="http://viaf.org/viaf/227725412">
-                        <forename>Fabio</forename>
+                        <forename type="male">Fabio</forename>
                         <surname>Ciotti</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -61,7 +61,7 @@
                         <title>We are TEI. You will be assimilated!</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/227725412">
-                                <forename>Fabio</forename>
+                                <forename type="male">Fabio</forename>
                                 <surname>Ciotti</surname>
                             </persName>
                         </author>
@@ -69,26 +69,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -213,7 +213,7 @@
                         <author>
                             <persName>
                                 <surname>Bański</surname>
-                                <forename>Piotr</forename>
+                                <forename type="male">Piotr</forename>
                             </persName>
                         </author>
                         <title>Why TEI standoff annotation doesn’t quite work: and why you might want to
@@ -233,13 +233,13 @@
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <forename>Lou</forename>
+                                <forename type="male">Lou</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Popham</surname>
-                                <forename>Michael</forename>
+                                <forename type="male">Michael</forename>
                             </persName>
                         </author>
                         <title>Putting Our Headers Together: A Report on the TEI Header Meeting 12
@@ -259,13 +259,13 @@
                         <author>
                             <persName>
                                 <surname>Ciotti</surname>
-                                <forename>Fabio</forename>
+                                <forename type="male">Fabio</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Tomasi</surname>
-                                <forename>Francesca</forename>
+                                <forename type="female">Francesca</forename>
                             </persName>
                         </author>
                         <title>Formal ontologies, Linked Data and TEI semantics</title>
@@ -283,7 +283,7 @@
                         <author>
                             <persName>
                                 <surname>Eide</surname>
-                                <forename>Øyvind</forename>
+                                <forename type="no-match">Øyvind</forename>
                             </persName>
                         </author>
                         <title>Ontologies, Data Modeling, and TEI</title>
@@ -313,13 +313,13 @@
                         <author>
                             <persName>
                                 <surname>Ore</surname>
-                                <forename>Christian-Emil</forename>
+                                <forename type="no-match">Christian-Emil</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Eide</surname>
-                                <forename>Øyvind</forename>
+                                <forename type="no-match">Øyvind</forename>
                             </persName>
                         </author>
                         <title>TEI and cultural heritage ontologies: Exchange of information?</title>
@@ -338,7 +338,7 @@
                         <author>
                             <persName>
                                 <surname>Schmidt</surname>
-                                <forename>Desmond</forename>
+                                <forename type="male">Desmond</forename>
                             </persName>
                         </author>
                         <title>Towards an Interoperable Digital Scholarly Edition</title>
@@ -357,14 +357,14 @@
                         <author>
                             <persName>
                                 <surname>Sperberg-McQueen</surname>
-                                <forename>C.
+                                <forename type="no-match">C.
                         M.</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <forename>Lou</forename>
+                                <forename type="male">Lou</forename>
                             </persName>
                         </author>
                         <title>The design of the TEI encoding scheme</title>
@@ -382,13 +382,13 @@
                         <author>
                             <persName>
                                 <surname>Wedervang-Jensen</surname>
-                                <forename>Eva</forename>
+                                <forename type="female">Eva</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Driscoll</surname>
-                                <forename>Matthew</forename>
+                                <forename type="male">Matthew</forename>
                             </persName>
                         </author>
                         <title>Report on XML Mark-up of Biographical and Prosopographical data</title>

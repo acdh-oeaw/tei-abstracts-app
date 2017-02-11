@@ -7,42 +7,42 @@
                broadsheets</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/52846347" key="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/249676043" key="http://viaf.org/viaf/249676043">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -68,11 +68,11 @@
                      broadsheets</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/249676043">
-                                <forename>Daniel</forename>
+                                <forename type="male">Daniel</forename>
                                 <surname>Schopper</surname>
                             </persName>
                         </author>
@@ -80,26 +80,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -181,7 +181,7 @@
                         <author>
                             <persName>
                                 <surname>Evans</surname>
-                                <forename>Richard
+                                <forename type="no-match">Richard
                         J.</forename>
                             </persName>
                         </author>
@@ -198,7 +198,7 @@
                         <author>
                             <persName>
                                 <surname>King</surname>
-                                <forename>Peter</forename>
+                                <forename type="male">Peter</forename>
                             </persName>
                         </author>
                         <title>
@@ -219,7 +219,7 @@
                         <author>
                             <persName>
                                 <surname>Spierenburg</surname>
-                                <forename>Pieter</forename>
+                                <forename type="male">Pieter</forename>
                             </persName>
                         </author>
                         <title>Violence and punishment: civilizing the body through time</title>
@@ -235,7 +235,7 @@
                         <editor>
                             <persName>
                                 <surname>Ward</surname>
-                                <forename>Richard</forename>
+                                <forename type="male">Richard</forename>
                             </persName>
                         </editor>
                         <title>A Global History of Execution and the Criminal Corpse. Palgrave Historical

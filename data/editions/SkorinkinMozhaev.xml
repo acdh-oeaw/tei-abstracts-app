@@ -6,42 +6,42 @@
                 <title>TEI markup for the 90-volume edition of Leo Tolstoy’s complete works</title>
                 <author>
                     <persName key="genIDbd35792abb9bc4d7779b8f948266292b">
-                        <forename>Daniil</forename>
+                        <forename type="no-match">Daniil</forename>
                         <surname>Skorinkin</surname>
                     </persName>
                     <persName key="genID60b15aa11ba208d959fe91cf815715f0">
-                        <forename>Evgeny</forename>
+                        <forename type="no-match">Evgeny</forename>
                         <surname>Mozhaev</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -67,11 +67,11 @@
                      works</title>
                         <author>
                             <persName>
-                                <forename>Daniil</forename>
+                                <forename type="no-match">Daniil</forename>
                                 <surname>Skorinkin</surname>
                             </persName>
                             <persName>
-                                <forename>Evgeny</forename>
+                                <forename type="no-match">Evgeny</forename>
                                 <surname>Mozhaev</surname>
                             </persName>
                         </author>
@@ -79,26 +79,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>

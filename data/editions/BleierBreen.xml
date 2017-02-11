@@ -6,43 +6,43 @@
                 <title>Documenting Transmission: The Analysis of the Folk Process using Versioning Machine 5.0</title>
                 <author>
                     <persName key="genIDca0f08d12b0a257697f6d4126bac55e7">
-                        <forename>Roman</forename>
+                        <forename type="male">Roman</forename>
                         <surname>Bleier</surname>
                     </persName>
                     <persName key="genID3c4c619db649b523edce4de51c5cd2eb">
-                        <forename>Richard</forename>
+                        <forename type="male">Richard</forename>
                         <surname>Breen</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -65,11 +65,11 @@
                         <title>Documenting Transmission: The Analysis of the Folk Process using Versioning Machine 5.0</title>
                         <author>
                             <persName>
-                                <forename>Roman</forename>
+                                <forename type="male">Roman</forename>
                                 <surname>Bleier</surname>
                             </persName>
                             <persName>
-                                <forename>Richard</forename>
+                                <forename type="male">Richard</forename>
                                 <surname>Breen</surname>
                             </persName>
                         </author>
@@ -77,26 +77,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>

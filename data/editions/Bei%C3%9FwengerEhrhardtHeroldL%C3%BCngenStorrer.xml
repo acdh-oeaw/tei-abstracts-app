@@ -6,55 +6,55 @@
                 <title>Converting and Representing Social Media Corpora into TEI: Schema and best practices from CLARIN-D</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/265475928" key="http://viaf.org/viaf/265475928">
-                        <forename>Michael</forename>
+                        <forename type="male">Michael</forename>
                         <surname>Beißwenger</surname>
                     </persName>
                     <persName key="genID1c9689025a9e0513f5077c5c49c0a85f">
-                        <forename>Eric</forename>
+                        <forename type="male">Eric</forename>
                         <surname>Ehrhardt</surname>
                     </persName>
                     <persName key="genID7ea3c2797f5f9f991739b85d24d4b258">
-                        <forename>Axel</forename>
+                        <forename type="male">Axel</forename>
                         <surname>Herold</surname>
                     </persName>
                     <persName ref=" http://viaf.org/viaf/310691902" key=" http://viaf.org/viaf/310691902">
-                        <forename>Harald</forename>
+                        <forename type="male">Harald</forename>
                         <surname>Lüngen</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/29663924" key="http://viaf.org/viaf/29663924">
-                        <forename>Angelika</forename>
+                        <forename type="female">Angelika</forename>
                         <surname>Storrer</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -77,23 +77,23 @@
                         <title>Converting and Representing Social Media Corpora into TEI: Schema and best practices from CLARIN-D</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/265475928">
-                                <forename>Michael</forename>
+                                <forename type="male">Michael</forename>
                                 <surname>Beißwenger</surname>
                             </persName>
                             <persName>
-                                <forename>Eric</forename>
+                                <forename type="male">Eric</forename>
                                 <surname>Ehrhardt</surname>
                             </persName>
                             <persName>
-                                <forename>Axel</forename>
+                                <forename type="male">Axel</forename>
                                 <surname>Herold</surname>
                             </persName>
                             <persName ref=" http://viaf.org/viaf/310691902">
-                                <forename>Harald</forename>
+                                <forename type="male">Harald</forename>
                                 <surname>Lüngen</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/29663924">
-                                <forename>Angelika</forename>
+                                <forename type="female">Angelika</forename>
                                 <surname>Storrer</surname>
                             </persName>
                         </author>
@@ -101,26 +101,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -221,31 +221,31 @@
                         <author>
                             <persName>
                                 <surname>Beißwenger</surname>
-                                <forename>Michael</forename>
+                                <forename type="male">Michael</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Ermakova</surname>
-                                <forename>Maria</forename>
+                                <forename type="female">Maria</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Geyken</surname>
-                                <forename>Alexander</forename>
+                                <forename type="male">Alexander</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Lemnitzer</surname>
-                                <forename>Lothar</forename>
+                                <forename type="male">Lothar</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Storrer</surname>
-                                <forename>Angelika</forename>
+                                <forename type="female">Angelika</forename>
                             </persName>
                         </author>
                         <title>A TEI Schema for the Representation of Computermediated
@@ -265,49 +265,49 @@
                         <author>
                             <persName>
                                 <surname>Chanier</surname>
-                                <forename>Thierry</forename>
+                                <forename type="no-match">Thierry</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Poudat</surname>
-                                <forename>Celine</forename>
+                                <forename type="female">Celine</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Sagot</surname>
-                                <forename>Benoit</forename>
+                                <forename type="no-match">Benoit</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Antoniadis</surname>
-                                <forename>Georges</forename>
+                                <forename type="male">Georges</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Wigham</surname>
-                                <forename>Ciara</forename>
+                                <forename type="female">Ciara</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Hriba</surname>
-                                <forename>Linda</forename>
+                                <forename type="female">Linda</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Longhi</surname>
-                                <forename>Julien</forename>
+                                <forename type="no-match">Julien</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Seddah</surname>
-                                <forename>Djamé</forename>
+                                <forename type="no-match">Djamé</forename>
                             </persName>
                         </author>
                         <title>The CoMeRe corpus for French: structuring and annotating heterogeneous CMC
@@ -328,13 +328,13 @@
                         <author>
                             <persName>
                                 <surname>Margaretha</surname>
-                                <forename>Eliza</forename>
+                                <forename type="female">Eliza</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Lüngen</surname>
-                                <forename>Harald</forename>
+                                <forename type="male">Harald</forename>
                             </persName>
                         </author>
                         <title>Building Linguistic Corpora from Wikipedia Articles and Discussions</title>

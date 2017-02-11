@@ -6,75 +6,75 @@
                 <title>TEIScribe: A graphic tool for composing and testing TEI documents in the context of the EVI-LINHD environment</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/175982042" key="http://viaf.org/viaf/175982042">
-                        <forename>Elena</forename>
+                        <forename type="female">Elena</forename>
                         <surname>González-Blanco</surname>
                     </persName>
                     <persName key="genID332f850382a244b759ea52c5b11dfe06">
-                        <forename>Antonio</forename>
+                        <forename type="male">Antonio</forename>
                         <surname>Robles-Gómez</surname>
                     </persName>
                     <persName key="genIDa8b2c996594e3fc4c1902253da7bd045">
-                        <forename>Salvador</forename>
+                        <forename type="male">Salvador</forename>
                         <surname>Ros</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/261749100" key="http://viaf.org/viaf/261749100">
-                        <forename>Gimena</forename>
+                        <forename type="no-match">Gimena</forename>
                         <surname>Del Rio Riande</surname>
                     </persName>
                     <persName key="genIDfa23e85501651362ef3b32ace2679fd3">
-                        <forename>Roberto</forename>
+                        <forename type="male">Roberto</forename>
                         <surname>Hernández</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/296443412" key="http://viaf.org/viaf/296443412">
-                        <forename>Miguel</forename>
+                        <forename type="male">Miguel</forename>
                         <surname>Urizar</surname>
                     </persName>
                     <persName key="genID85d8ee0698dca49483e2944a50ae9271">
-                        <forename>Clara I.</forename>
+                        <forename type="no-match">Clara I.</forename>
                         <surname>Martínez</surname>
                     </persName>
                     <persName key="genID933530518f9ff90a7017148989ef1fec">
-                        <forename>Rafael</forename>
+                        <forename type="male">Rafael</forename>
                         <surname>Pastor</surname>
                     </persName>
                     <persName key="genID1fb4d2c70f9c34ef1c07b4ea61881fb7">
-                        <forename>Jesús</forename>
+                        <forename type="no-match">Jesús</forename>
                         <surname>Cano</surname>
                     </persName>
                     <persName key="genIDa828d27d13cfbcc6bb586ed3acdbfa50">
-                        <forename>Agustín C.</forename>
+                        <forename type="no-match">Agustín C.</forename>
                         <surname>Caminero</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -97,43 +97,43 @@
                         <title>TEIScribe: A graphic tool for composing and testing TEI documents in the context of the EVI-LINHD environment</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/175982042">
-                                <forename>Elena</forename>
+                                <forename type="female">Elena</forename>
                                 <surname>González-Blanco</surname>
                             </persName>
                             <persName>
-                                <forename>Antonio</forename>
+                                <forename type="male">Antonio</forename>
                                 <surname>Robles-Gómez</surname>
                             </persName>
                             <persName>
-                                <forename>Salvador</forename>
+                                <forename type="male">Salvador</forename>
                                 <surname>Ros</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/261749100">
-                                <forename>Gimena</forename>
+                                <forename type="no-match">Gimena</forename>
                                 <surname>Del Rio Riande</surname>
                             </persName>
                             <persName>
-                                <forename>Roberto</forename>
+                                <forename type="male">Roberto</forename>
                                 <surname>Hernández</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/296443412">
-                                <forename>Miguel</forename>
+                                <forename type="male">Miguel</forename>
                                 <surname>Urizar</surname>
                             </persName>
                             <persName>
-                                <forename>Clara I.</forename>
+                                <forename type="no-match">Clara I.</forename>
                                 <surname>Martínez</surname>
                             </persName>
                             <persName>
-                                <forename>Rafael</forename>
+                                <forename type="male">Rafael</forename>
                                 <surname>Pastor</surname>
                             </persName>
                             <persName>
-                                <forename>Jesús</forename>
+                                <forename type="no-match">Jesús</forename>
                                 <surname>Cano</surname>
                             </persName>
                             <persName>
-                                <forename>Agustín C.</forename>
+                                <forename type="no-match">Agustín C.</forename>
                                 <surname>Caminero</surname>
                             </persName>
                         </author>
@@ -141,26 +141,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -262,7 +262,7 @@
                             <persName>
                                 <surname>Baranda
                         Leturio</surname>
-                                <forename>Nieves</forename>
+                                <forename type="no-match">Nieves</forename>
                             </persName>
                         </author>
                         <title>BIESES project. BIografía de EScritoras ESpañolas</title>
@@ -277,13 +277,13 @@
                         <author>
                             <persName>
                                 <surname>Carusi</surname>
-                                <forename>Annamaria</forename>
+                                <forename type="female">Annamaria</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Reimer</surname>
-                                <forename>Torsten</forename>
+                                <forename type="no-match">Torsten</forename>
                             </persName>
                         </author>
                         <title>Virtual Research Environment Collaborative Landscape Study. A JISC funded
@@ -301,7 +301,7 @@
                         <author>
                             <persName>
                                 <surname>González-Blanco</surname>
-                                <forename>Elena</forename>
+                                <forename type="female">Elena</forename>
                             </persName>
                         </author>
                         <title>Un nuevo camino hacia las humanidades digitales. El laboratorio de
@@ -323,7 +323,7 @@
                             <persName>
                                 <surname>Del Río
                         Riande</surname>
-                                <forename>Gimena</forename>
+                                <forename type="no-match">Gimena</forename>
                             </persName>
                         </author>
                         <title>Humanidades Digitales. Construcciones locales en contextos globales</title>
@@ -343,27 +343,27 @@
                             <persName>
                                 <surname>Del Río
                         Riande</surname>
-                                <forename>Gimena</forename>
+                                <forename type="no-match">Gimena</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>González-Blanco
                            García</surname>
-                                <forename>Elena</forename>
+                                <forename type="female">Elena</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Martínez
                         Cantón</surname>
-                                <forename>Clara</forename>
+                                <forename type="female">Clara</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Escribano</surname>
-                                <forename>J.</forename>
+                                <forename type="no-match">J.</forename>
                             </persName>
                         </author>
                         <title>EVI-LINHD. A Virtual Research Environment for the Spanish-speaking
@@ -381,7 +381,7 @@
                         <author>
                             <persName>
                                 <surname>Spadini</surname>
-                                <forename>Elena</forename>
+                                <forename type="female">Elena</forename>
                             </persName>
                         </author>
                         <title>TEI and web-based editing tools</title>

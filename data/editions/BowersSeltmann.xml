@@ -6,43 +6,43 @@
                 <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
                 <author>
                     <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
-                        <forename>Jack Thompson</forename>
+                        <forename type="no-match">Jack Thompson</forename>
                         <surname>Bowers</surname>
                     </persName>
                     <persName key="genIDa52c15d700e84648e628400474bc9b5b">
-                        <forename>Melanie</forename>
+                        <forename type="female">Melanie</forename>
                         <surname>Seltmann</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -65,11 +65,11 @@
                         <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
                         <author>
                             <persName>
-                                <forename>Jack Thompson</forename>
+                                <forename type="no-match">Jack Thompson</forename>
                                 <surname>Bowers</surname>
                             </persName>
                             <persName>
-                                <forename>Melanie</forename>
+                                <forename type="female">Melanie</forename>
                                 <surname>Seltmann</surname>
                             </persName>
                         </author>
@@ -77,26 +77,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -190,13 +190,13 @@
                         <author>
                             <persName>
                                 <surname>Bowers</surname>
-                                <forename>Jack</forename>
+                                <forename type="male">Jack</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Romary</surname>
-                                <forename>Laurent</forename>
+                                <forename type="male">Laurent</forename>
                             </persName>
                         </author>
                         <title>Deep encoding of etymological information in TEI</title>
@@ -214,7 +214,7 @@
                         <author>
                             <persName>
                                 <surname>Romary</surname>
-                                <forename>Laurent</forename>
+                                <forename type="male">Laurent</forename>
                             </persName>
                         </author>
                         <title>TBX goes TEI: Implementing a TBX basic extension for the Text Encoding
@@ -233,19 +233,19 @@
                         <author>
                             <persName>
                                 <surname>Schopper</surname>
-                                <forename>Daniel</forename>
+                                <forename type="male">Daniel</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Bowers</surname>
-                                <forename>Jack</forename>
+                                <forename type="male">Jack</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Wandl-Vogt</surname>
-                                <forename>Eveline</forename>
+                                <forename type="female">Eveline</forename>
                             </persName>
                         </author>
                         <title>dboe@TEI: remodelling a database of dialects into a rich LOD

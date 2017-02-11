@@ -6,38 +6,38 @@
                 <title>From DOCX via TEI to Literature Map</title>
                 <author>
                     <persName instant="false" full="yes" key="genID11237979dc945142afee8b752f5bf827">
-                        <forename full="yes">Joseph</forename>
+                        <forename full="yes" type="male">Joseph</forename>
                         <surname full="yes">Wang</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347" instant="false" full="yes">
-                        <forename full="yes">Claudia</forename>
+                        <forename full="yes" type="female">Claudia</forename>
                         <surname full="yes">Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany" instant="false" full="yes">
-                        <forename full="yes">Vanessa</forename>
+                        <forename full="yes" type="female">Vanessa</forename>
                         <surname full="yes">Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717" instant="false" full="yes">
-                        <forename full="yes">Tanja</forename>
+                        <forename full="yes" type="female">Tanja</forename>
                         <surname full="yes">Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" instant="false" full="yes">
-                        <forename full="yes">Vanessa</forename>
+                        <forename full="yes" type="female">Vanessa</forename>
                         <surname full="yes">Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani" instant="false" full="yes">
-                        <forename full="yes">Daniel</forename>
+                        <forename full="yes" type="male">Daniel</forename>
                         <surname full="yes">Schopper</surname>
                     </persName>
                 </respStmt>
@@ -62,7 +62,7 @@
                         <title>From DOCX via TEI to Literature Map</title>
                         <author>
                             <persName instant="false" full="yes">
-                                <forename full="yes">Joseph</forename>
+                                <forename full="yes" type="male">Joseph</forename>
                                 <surname full="yes">Wang</surname>
                             </persName>
                         </author>
@@ -70,26 +70,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347" instant="false" full="yes">
-                                <forename full="yes">Claudia</forename>
+                                <forename full="yes" type="female">Claudia</forename>
                                 <surname full="yes">Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230" instant="false" full="yes">
-                                <forename full="yes">Vanessa</forename>
+                                <forename full="yes" type="female">Vanessa</forename>
                                 <surname full="yes">Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717" instant="false" full="yes">
-                                <forename full="yes">Tanja</forename>
+                                <forename full="yes" type="female">Tanja</forename>
                                 <surname full="yes">Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName instant="false" full="yes">
-                                <forename full="yes">Sandra</forename>
+                                <forename full="yes" type="female">Sandra</forename>
                                 <surname full="yes">Lehecka</surname>
                             </persName>
                         </respStmt>

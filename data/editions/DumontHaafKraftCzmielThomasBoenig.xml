@@ -8,58 +8,58 @@
                ediarum</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/303480271" key="http://viaf.org/viaf/303480271">
-                        <forename>Stefan</forename>
+                        <forename type="male">Stefan</forename>
                         <surname>Dumont</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/305928516" key="http://viaf.org/viaf/305928516">
-                        <forename>Susanne</forename>
+                        <forename type="female">Susanne</forename>
                         <surname>Haaf</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/205809746" key="http://viaf.org/viaf/205809746">
-                        <forename>Tobias</forename>
+                        <forename type="male">Tobias</forename>
                         <surname>Kraft</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/40550920" key="http://viaf.org/viaf/40550920">
-                        <forename>Alexander</forename>
+                        <forename type="male">Alexander</forename>
                         <surname>Czmiel</surname>
                     </persName>
                     <persName key="genID4bee645da5a0fbef20b457da89b9f79a">
-                        <forename>Christian</forename>
+                        <forename type="male">Christian</forename>
                         <surname>Thomas</surname>
                     </persName>
                     <persName key="genID01c7679f56d8fcea3b206899efa7d34c">
-                        <forename>Matthias</forename>
+                        <forename type="male">Matthias</forename>
                         <surname>Boenig</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -86,27 +86,27 @@
                      ediarum</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/303480271">
-                                <forename>Stefan</forename>
+                                <forename type="male">Stefan</forename>
                                 <surname>Dumont</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/305928516">
-                                <forename>Susanne</forename>
+                                <forename type="female">Susanne</forename>
                                 <surname>Haaf</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/205809746">
-                                <forename>Tobias</forename>
+                                <forename type="male">Tobias</forename>
                                 <surname>Kraft</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/40550920">
-                                <forename>Alexander</forename>
+                                <forename type="male">Alexander</forename>
                                 <surname>Czmiel</surname>
                             </persName>
                             <persName>
-                                <forename>Christian</forename>
+                                <forename type="male">Christian</forename>
                                 <surname>Thomas</surname>
                             </persName>
                             <persName>
-                                <forename>Matthias</forename>
+                                <forename type="male">Matthias</forename>
                                 <surname>Boenig</surname>
                             </persName>
                         </author>
@@ -114,26 +114,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -214,19 +214,19 @@
                                 <author>
                                     <persName>
                                         <surname>Haaf</surname>
-                                        <forename>Susanne</forename>
+                                        <forename type="female">Susanne</forename>
                                     </persName>
                                 </author>
                                 <author>
                                     <persName>
                                         <surname>Geyken</surname>
-                                        <forename>Alexander</forename>
+                                        <forename type="male">Alexander</forename>
                                     </persName>
                                 </author>
                                 <author>
                                     <persName>
                                         <surname>Wiegand</surname>
-                                        <forename>Frank</forename>
+                                        <forename type="male">Frank</forename>
                                     </persName>
                                 </author>
                                 <title>The DTA <q>Base Format</q>: A TEI Subset for the Compilation
@@ -248,13 +248,13 @@
                                 <author>
                                     <persName>
                                         <surname>Dumont</surname>
-                                        <forename>Stefan</forename>
+                                        <forename type="male">Stefan</forename>
                                     </persName>
                                 </author>
                                 <author>
                                     <persName>
                                         <surname>Fechner</surname>
-                                        <forename>Martin</forename>
+                                        <forename type="male">Martin</forename>
                                     </persName>
                                 </author>
                                 <title> Bridging the Gap: Greater Usability for TEI encoding</title>

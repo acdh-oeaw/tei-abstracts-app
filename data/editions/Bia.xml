@@ -6,39 +6,39 @@
                 <title>TEI document and schema visualization and modeling using mindmaps</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/304323369" key="http://viaf.org/viaf/304323369">
-                        <forename>Alejandro</forename>
+                        <forename type="male">Alejandro</forename>
                         <surname>Bia</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -61,7 +61,7 @@
                         <title>TEI document and schema visualization and modeling using mindmaps</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/304323369">
-                                <forename>Alejandro</forename>
+                                <forename type="male">Alejandro</forename>
                                 <surname>Bia</surname>
                             </persName>
                         </author>
@@ -69,26 +69,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -193,13 +193,13 @@
                             <author>
                                 <persName>
                                     <surname>Bia</surname>
-                                    <forename>Alejandro</forename>
+                                    <forename type="male">Alejandro</forename>
                                 </persName>
                             </author>
                             <author>
                                 <persName>
                                     <surname>Rodríguez-Sala</surname>
-                                    <forename>Jesús
+                                    <forename type="no-match">Jesús
                            Javier</forename>
                                 </persName>
                             </author>
@@ -219,13 +219,13 @@
                             <author>
                                 <persName>
                                     <surname>Bia</surname>
-                                    <forename>Alejandro</forename>
+                                    <forename type="male">Alejandro</forename>
                                 </persName>
                             </author>
                             <author>
                                 <persName>
                                     <surname>Ñeco García</surname>
-                                    <forename>Ramón
+                                    <forename type="no-match">Ramón
                         Pedro</forename>
                                 </persName>
                             </author>
@@ -233,7 +233,7 @@
                                 <persName>
                                     <surname>Pérez
                         Beltrán</surname>
-                                    <forename>Jorge</forename>
+                                    <forename type="male">Jorge</forename>
                                 </persName>
                             </author>
                             <title>Integración de recursos PLE mediante mapas mentales</title>
@@ -251,7 +251,7 @@
                             <author>
                                 <persName>
                                     <surname>Bia</surname>
-                                    <forename>Alejandro</forename>
+                                    <forename type="male">Alejandro</forename>
                                 </persName>
                             </author>
                             <title>Down to TEI: use of extended markdown to speed-up the creation of TEI
@@ -270,7 +270,7 @@
                             <author>
                                 <persName>
                                     <surname>Bia</surname>
-                                    <forename>Alejandro</forename>
+                                    <forename type="male">Alejandro</forename>
                                 </persName>
                             </author>
                             <title>Digital Humanities: towards theory and applications</title>

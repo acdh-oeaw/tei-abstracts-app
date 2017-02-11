@@ -6,39 +6,39 @@
                 <title>Encoding Text about Things</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/58911587" key="http://viaf.org/viaf/58911587">
-                        <forename>Georg</forename>
+                        <forename type="male">Georg</forename>
                         <surname>Vogeler</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename>Claudia</forename>
+                        <forename type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename>Tanja</forename>
+                        <forename type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename>Vanessa</forename>
+                        <forename type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename>Daniel</forename>
+                        <forename type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -61,7 +61,7 @@
                         <title>Encoding Text about Things</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/58911587">
-                                <forename>Georg</forename>
+                                <forename type="male">Georg</forename>
                                 <surname>Vogeler</surname>
                             </persName>
                         </author>
@@ -69,26 +69,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename>Claudia</forename>
+                                <forename type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename>Vanessa</forename>
+                                <forename type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename>Tanja</forename>
+                                <forename type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename>Sandra</forename>
+                                <forename type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -179,13 +179,13 @@
                         <author>
                             <persName>
                                 <surname>Langefors</surname>
-                                <forename>Börje</forename>
+                                <forename type="no-match">Börje</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Dahlbom</surname>
-                                <forename>Bo</forename>
+                                <forename type="male">Bo</forename>
                             </persName>
                         </author>
                         <title>Essays on Infology. Summing up and planning for the future</title>
@@ -201,7 +201,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <forename>Manfred</forename>
+                                <forename type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>Data Bases vs. Critical Editions</title>
@@ -220,7 +220,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <forename>Manfred</forename>
+                                <forename type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>Datenbasen als Editionsformen</title>
@@ -229,13 +229,13 @@
                         <editor>
                             <persName>
                                 <surname>Schwob</surname>
-                                <forename>Anton</forename>
+                                <forename type="male">Anton</forename>
                             </persName>
                         </editor>
                         <editor>
                             <persName>
                                 <surname>Kranich-Hofbauer</surname>
-                                <forename>Karin</forename>
+                                <forename type="female">Karin</forename>
                             </persName>
                         </editor>
                         <title>Historische Edition und Computer</title>
@@ -251,7 +251,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <forename>Manfred</forename>
+                                <forename type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>Gibt es eine fachspezifische Datenverarbeitung in den historischen
@@ -261,14 +261,14 @@
                         <editor>
                             <persName>
                                 <surname>Kaufhold</surname>
-                                <forename>Karl
+                                <forename type="no-match">Karl
                         Heinrich</forename>
                             </persName>
                         </editor>
                         <editor>
                             <persName>
                                 <surname>Schneider</surname>
-                                <forename>Jürgen</forename>
+                                <forename type="no-match">Jürgen</forename>
                             </persName>
                         </editor>
                         <title>Geschichtswissenschaft und elektronische Datenverarbeitung</title>
@@ -288,7 +288,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <forename>Manfred</forename>
+                                <forename type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>What is a text within the Digital Humanities, or some of them, at
