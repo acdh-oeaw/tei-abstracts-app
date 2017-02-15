@@ -14,6 +14,7 @@ let $female := collection(concat($config:app-root, '/data/indices'))//tei:forena
 let $nomatch := collection(concat($config:app-root, '/data/indices'))//tei:forename[@type='no-match']
 return
     <authors>
+        <header>Gender Distribution amongst Author's</header>
         <allAuthors>{$allAuthors}</allAuthors>
         <male>
             <amount>{count($male)}</amount>

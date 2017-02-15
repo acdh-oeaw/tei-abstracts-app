@@ -3,4 +3,133 @@
     <script src="../resources/js/highcharts/highcharts.js"/>
     <script src="../resources/js/highcharts/highcharts-3d.js"/>
     <script src="../resources/js/highcharts/exporting.js"/>
+    
+    
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel-group">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" href="#collapse1">Gender Distribution amongst Authors</a>
+                        </h4>
+                    </div>
+                    <div id="collapse1" class="panel-collapse">
+                        <div class="panel-body" id="chart1">Panel Body</div>
+                        <div class="panel-footer">Panel Footer</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="panel-group">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" href="#collapse2">Texts by Gender</a>
+                        </h4>
+                    </div>
+                    <div id="collapse2" class="panel-collapse">
+                        <div class="panel-body" id="chart2">Panel Body</div>
+                        <div class="panel-footer">Panel Footer</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        
+        $(document).ready(function() {
+            $.getJSON( "../analyze/gender-distribution.xql", function( data ) {
+                console.log(data.allAuthors) ;
+                console.log(data.male.amount) ;
+                console.log(data.male.names) ;
+                
+                $('#chart1').highcharts({
+                chart: {
+                
+                type: 'pie',
+                options3d: {
+                enabled: true,
+                alpha: 45
+                }
+                },
+                title: {
+                text: ""
+                },
+                subtitle: {
+                text: data.header
+                },
+                plotOptions: {
+                pie: {
+                innerSize: 50,
+                depth: 40
+                }
+                },
+                series: [{
+                name: "Authors",
+                data:
+                [{
+                name: 'female',
+                y: parseFloat(data.female.amount)
+                }, {
+                name: 'male',
+                y: parseFloat(data.male.amount)
+                }, {
+                name: 'nomatch',
+                y: parseFloat(data.nomatch.amount)
+                }]
+                }]
+                });  
+            });
+            
+            $.getJSON( "../analyze/text-gender.xql", function( data ) {
+            console.log(data.male) ;
+            console.log(data.female) ;
+            console.log(data.balanced) ;
+            console.log(data.details) ;
+            $('#chart2').highcharts({
+            chart: {
+            
+            type: 'pie',
+            options3d: {
+            enabled: true,
+            alpha: 45
+            }
+            },
+            title: {
+            text: ""
+            },
+            subtitle: {
+            text: data.header
+            },
+            plotOptions: {
+            pie: {
+            innerSize: 50,
+            depth: 40
+            }
+            },
+            series: [{
+            name: "Texts",
+            data:
+            [{
+            name: 'male',
+            y: parseFloat(data.male)
+            }, {
+            name: 'female',
+            y: parseFloat(data.female)
+            }, {
+            name: 'balanced',
+            y: parseFloat(data.balanced)
+            },
+            {
+            name: 'unclear',
+            y: parseFloat(data.unclear)
+            }]
+            }]
+            });  
+            });
+        });
+    </script>
 </div>

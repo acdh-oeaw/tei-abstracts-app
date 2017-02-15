@@ -39,6 +39,7 @@ let $balanced := count($temp//result/gender[text()='balanced'])
 let $unclear := count($temp//result/gender[text()='unclear'])
 return
     <hansi>
+        <header>Texts by Gender</header>
         <male>{$maletexts}</male>
         <female>{$femaletexts}</female>
         <balanced>{$balanced}</balanced>
