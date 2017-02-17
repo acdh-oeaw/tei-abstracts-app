@@ -6,47 +6,47 @@
                 <title>Bibliography in the Inscriptions of Israel / Palestine Epigraphic Project</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/64289700" key="http://viaf.org/viaf/64289700">
-                        <forename type="female">Gaia</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gaia</tei:forename>
                         <surname>Lembi</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/311203805" key="http://viaf.org/viaf/311203805">
-                        <forename type="female">Elli</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elli</tei:forename>
                         <surname>Mylonas</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/69143584" key="http://viaf.org/viaf/69143584">
-                        <forename type="male">Michael</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Michael</tei:forename>
                         <surname>Satlow</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename type="female">Claudia</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename type="female">Vanessa</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename type="female">Tanja</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename type="female">Vanessa</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename type="male">Daniel</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -69,15 +69,15 @@
                         <title>Bibliography in the Inscriptions of Israel / Palestine Epigraphic Project</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/64289700">
-                                <forename type="female">Gaia</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gaia</tei:forename>
                                 <surname>Lembi</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/311203805">
-                                <forename type="female">Elli</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elli</tei:forename>
                                 <surname>Mylonas</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/69143584">
-                                <forename type="male">Michael</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Michael</tei:forename>
                                 <surname>Satlow</surname>
                             </persName>
                         </author>
@@ -85,26 +85,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename type="female">Claudia</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename type="female">Vanessa</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename type="female">Tanja</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename type="female">Sandra</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -219,25 +219,25 @@
                         <author>
                             <persName>
                                 <surname>Bański</surname>
-                                <forename type="male">Piotr</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Piotr</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Majewski</surname>
-                                <forename type="male">Stefan</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Stefan</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Stührenberg</surname>
-                                <forename type="male">Maik</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Maik</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Werthmann</surname>
-                                <forename type="female">Antonina</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Antonina</tei:forename>
                             </persName>
                         </author>
                         <title>Building and Maintaining the TEI LingSIG Bibliography</title>
@@ -258,37 +258,37 @@
                         <author>
                             <persName>
                                 <surname>Elliott</surname>
-                                <forename type="male">Tom</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Tom</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Bodard</surname>
-                                <forename type="male">Gabriel</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Gabriel</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Mylonas</surname>
-                                <forename type="female">Elli</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elli</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Stoyanova</surname>
-                                <forename type="female">Simona</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Simona</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Tupman</surname>
-                                <forename type="female">Charlotte</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Charlotte</tei:forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Vanderbilt</surname>
-                                <forename type="male">Scott</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Scott</tei:forename>
                             </persName>
                         </author>
                         <author>et al.</author>
@@ -304,7 +304,7 @@
                         <author>
                             <persName>
                                 <surname>Rotger</surname>
-                                <forename type="male">Carlos</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Carlos</tei:forename>
                             </persName>
                         </author>
                         <title>Using the Zotero API to Render Formatted Bibliography on a Webpage</title>
@@ -321,7 +321,7 @@
                     <monogr>
                         <editor>
                             <persName>
-                                <forename type="male">Michael</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Michael</tei:forename>
                                 <surname>Satlow</surname>
                             </persName>
                         </editor>

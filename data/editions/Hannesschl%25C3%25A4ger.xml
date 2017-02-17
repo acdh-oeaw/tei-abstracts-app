@@ -3,16 +3,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TEI and lemon: a comparative study on the lexical encoding and
-               interoperability</title>
+                <title>Common Creativity international. CC-licensing and other options for TEI-based
+               digital editions in an international context</title>
                 <author>
-                    <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Jack Thompson</tei:forename>
-                        <surname>Bowers</surname>
-                    </persName>
-                    <persName ref="http://viaf.org/viaf/306105656" key="http://viaf.org/viaf/306105656">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thierry</tei:forename>
-                        <surname>Declerck</surname>
+                    <persName ref="http://viaf.org/viaf/31146030596135862230" key="http://viaf.org/viaf/31146030596135862230">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <surname>Hannesschläger</surname>
                     </persName>
                 </author>
                 <editor>
@@ -64,16 +60,12 @@
             <sourceDesc>
                 <biblStruct>
                     <analytic>
-                        <title>TEI and lemon: a comparative study on the lexical encoding and
-                     interoperability</title>
+                        <title>Common Creativity international. CC-licensing and other options for
+                     TEI-based digital editions in an international context</title>
                         <author>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Jack Thompson</tei:forename>
-                                <surname>Bowers</surname>
-                            </persName>
-                            <persName ref="http://viaf.org/viaf/306105656">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thierry</tei:forename>
-                                <surname>Declerck</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <surname>Hannesschläger</surname>
                             </persName>
                         </author>
                     </analytic>
@@ -111,15 +103,15 @@
                             <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                             <date when="2016-09-20">September 2016</date>
                         </imprint>
-                        <biblScope unit="page">53-54</biblScope>
+                        <biblScope unit="page">77-78</biblScope>
                     </monogr>
                 </biblStruct>
                 <listEvent>
                     <event when="2016-05-15" type="submission">
-                        <desc>Submitted for review by the authors.</desc>
+                        <desc>Submitted for review by the author.</desc>
                     </event>
-                    <event when="2016-07-12" type="finalUpload">
-                        <desc>Submitted for publication by the authors.</desc>
+                    <event when="2016-07-20" type="finalUpload">
+                        <desc>Submitted for publication by the author.</desc>
                     </event>
                 </listEvent>
             </sourceDesc>
@@ -138,10 +130,9 @@
                     <term>paper</term>
                 </keywords>
                 <keywords>
-                    <term>TEI</term>
-                    <term>lemon-ontolex</term>
-                    <term>lexical encoding</term>
-                    <term>interoperability</term>
+                    <term>Creative Commons</term>
+                    <term>licensing</term>
+                    <term>legal issues</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -149,7 +140,7 @@
             <listChange>
                 <change when="2016-11-04" who="#dani">Converted from InDesign (XML export to TEI
                P5).</change>
-                <change when="2016-11-21" who="#vany">TEIHeader edited, encoding of text, footnotes and
+                <change when="2016-11-21" who="#vany">TEIHeader edited, encoding of text and
                bibliographic information, extension of bibliographic information.</change>
                 <change when="2017-01-18" who="#vany">Keywords added.</change>
             </listChange>
@@ -157,84 +148,89 @@
     </teiHeader>
     <text>
         <body>
-            <p>In this study, we examine questions pertaining to interoperability between the Text
-            Encoding Initiative (TEI) Guidelines for encoding dictionaries<note type="footnote">
-                    <ref target="http://www.tei-c.org/release/doc/tei-p5-doc/de/html/DI.html">http://www.tei-c.org/release/doc/tei-p5-doc/de/html/DI.html</ref>
-                </note> and the
-            lexicon model for ontologies (lemon), which has been developed in the context of the W3C
-            OntologyLexica Community Group. The OntoLex Community Group Specification<note type="footnote">
-                    <ref target="http://www.w3.org/community/ontolex/wiki/Final_Model_Specification">http://www.w3.org/community/ontolex/wiki/Final_Model_Specification</ref>
-                </note>
-            contains a section dedicated to clarifying the systems relation to other models of
-            lexical encoding, which covers SKOS(-XL), LMF (Lexical Markup Framework), and the Open
-            Annotation standard but lacks a comparison with TEI. We think that such a comparison is
-            needed; also since issues of bringing the TEI into the world of Linked Open Data and
-            making use of ontologies have continued to gain interest within the TEI community. </p>
-            <p>In our study, we focus on both TEI and the different modules of lemon in aspects of
-            their technical data models, as well as their respective capacities to adequately
-            express certain linguistic features. For this purpose, we have encoded examples in both
-            systems from multiple sources, including historical and dialectal dictionaries, in which
-            we give particular focus on compounds and different types of variation in the lexical
-            entries. In identifying the non-compatible aspects of these systems, we seek to point
-            out and discuss some of the potential linguistic and technical benefits and potential
-            downsides of using each system for one’s lexical data, also taking into consideration
-            aspects related to the publication of lexicographic data in the Linked Data cloud. </p>
+            <p>The digital space has not only boosted inter- and transdisciplinary, but also inter- and
+            transnational scholarly work in the field of the humanities and beyond. The development
+            of the TEI Guidelines, which provide a common standard for encoding texts across
+            national and disciplinary borders, is one of the most influential reactions to the new
+            form of scholarly work founded on the possibilities provided by the internet. Similarly,
+            the need for a legal framework that allows international cooperation and collaboration
+            has become urgent.</p>
+            <p>Creative Commons licenses were designed as a reaction to the emerging creative
+            production online, which transcends national boundaries. Their aim is to ease sharing
+            and reusing creative content across the borders of national copyright laws. This mission
+            has been widely successful as CC-licenses are today the most frequently used licenses
+            for digital content among international creatives as well as scholars working in the
+            field of Digital Humanities.</p>
+            <p>However, when it comes to licensing, scholars are often uncertain about the right choice
+            as CC are not the only option: For instance, ODC licenses are often applied to
+            databases. For scholarly content, DiPP (Digital Peer Publishing with DPPL-licenses) has
+            become popular especially in the German-speaking area. One of the reasons for the latter
+            is that CC-licenses are specifically designed to match the World Intellectual Property
+            Organization WIPO’s aims and have to be ported to become compatible with national
+            copyright legislations, while DiPP was designed in Germany and corresponds to German
+            copyright.</p>
+            <p>In this talk, the different options for licensing TEI-based scholarly projects will be
+            explored. Currently available markup in TEI to encode responsibility as well as examples
+            of projects using different licenses will be discussed. The main questions to be
+            answered are: Why do we need free licenses? What license best fits my intentions and
+            content? And why would I have to restrict reuse of my data?</p>
             <listBibl>
                 <head>References</head>
+                <bibl>
+                    <title>Creative Commons</title>
+                    <ref target="https://creativecommons.org">https://creativecommons.org/</ref>
+                </bibl>
+                <bibl>
+                    <title>DiPP - Digital Peer Publishing</title>
+                    <ref target="http://www.dipp.nrw.de/">http://www.dipp.nrw.de/</ref>
+                </bibl>
                 <biblStruct>
-                    <analytic>
-                        <author>
-                            <persName>
-                                <surname>Declerck</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thierry</tei:forename>
-                            </persName>
-                        </author>
-                        <author>
-                            <persName>
-                                <surname>Mörth</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Karlheinz</tei:forename>
-                            </persName>
-                        </author>
-                        <title>Towards a Sense-based Access to Related Online Lexical Resources</title>
-                    </analytic>
                     <monogr>
-                        <title>Proceedings of Euralex 2016</title>
+                        <author>
+                            <persName>
+                                <surname>Klimpel</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Paul</tei:forename>
+                            </persName>
+                        </author>
+                        <title>Free knowledge thanks to creative commons licenses. Why a non-commercial
+                     clause often won’t serve your needs</title>
                         <imprint>
-                            <date>2016</date>
+                            <publisher>Wikimedia Deutschland / iRights.info / CC DE</publisher>
+                            <date>2013</date>
                         </imprint>
                     </monogr>
+                    <ref target="https://www.wikimedia.de/w/images.homepage/1/15/CC-NC_Leitfaden_2013_engl.pdf">https://www.wikimedia.de/w/images.homepage/1/15/CC-NC_Leitfaden_2013_engl.pdf</ref>
                 </biblStruct>
                 <biblStruct>
-                    <analytic>
-                        <author>
-                            <persName>
-                                <surname>Schopper</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
-                            </persName>
-                        </author>
-                        <author>
-                            <persName>
-                                <surname>Bowers</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jack</tei:forename>
-                            </persName>
-                        </author>
-                        <author>
-                            <persName>
-                                <surname>Wandl-Vogt</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eveline</tei:forename>
-                            </persName>
-                        </author>
-                        <title>dboe@TEI: remodeling a database of dialects into a rich LOD
-                     resource</title>
-                    </analytic>
                     <monogr>
-                        <title>TEI conference 2015</title>
+                        <author>
+                            <persName>
+                                <surname>Klimpel</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Paul</tei:forename>
+                            </persName>
+                        </author>
+                        <author>
+                            <persName>
+                                <surname>Weitzmann</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">John H.</tei:forename>
+                            </persName>
+                        </author>
+                        <title>Forschen in der digitalen Welt. Juristische Handreichung für die Geisteswissenschaften</title>
                         <imprint>
-                            <pubPlace>Lyon, France</pubPlace>
+                            <pubPlace>Göttingen</pubPlace>
+                            <publisher>DARIAH-DE</publisher>
                             <date>2015</date>
                         </imprint>
                     </monogr>
+                    <series>
+                        <title>DARIAH-DE Working papers</title>
+                        <biblScope unit="issue">12</biblScope>
+                    </series>
+                    <ref target="https://irights.info/wp-content/uploads/2015/08/Forschen-in-der-digitalen-Welt-Juristische-Handreichung-Geisteswissenschaften-dwp-2015-12.pdf">https://irights.info/wp-content/uploads/2015/08/Forschen-in-der-digitalen-Welt-Juristische-Handreichung-Geisteswissenschaften-dwp-2015-12.pdf</ref>
                 </biblStruct>
+                <bibl>
+                    <title>Open Data Commons: Legal Tools for Open Data</title>. <ref target="http://opendatacommons.org/">http://opendatacommons.org/</ref>
+                </bibl>
             </listBibl>
         </body>
     </text>

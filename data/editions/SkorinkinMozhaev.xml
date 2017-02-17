@@ -6,42 +6,42 @@
                 <title>TEI markup for the 90-volume edition of Leo Tolstoy’s complete works</title>
                 <author>
                     <persName key="genIDbd35792abb9bc4d7779b8f948266292b">
-                        <forename type="male">Daniil</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniil</tei:forename>
                         <surname>Skorinkin</surname>
                     </persName>
                     <persName key="genID60b15aa11ba208d959fe91cf815715f0">
-                        <forename type="male">Evgeny</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Evgeny</tei:forename>
                         <surname>Mozhaev</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename type="female">Claudia</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename type="female">Vanessa</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename type="female">Tanja</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename type="female">Vanessa</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename type="male">Daniel</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -67,11 +67,11 @@
                      works</title>
                         <author>
                             <persName>
-                                <forename type="male">Daniil</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniil</tei:forename>
                                 <surname>Skorinkin</surname>
                             </persName>
                             <persName>
-                                <forename type="male">Evgeny</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Evgeny</tei:forename>
                                 <surname>Mozhaev</surname>
                             </persName>
                         </author>
@@ -79,26 +79,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename type="female">Claudia</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename type="female">Vanessa</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename type="female">Tanja</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename type="female">Sandra</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>

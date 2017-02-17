@@ -7,42 +7,42 @@
                Electronica</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/59147905242279092527" key="http://viaf.org/viaf/59147905242279092527">
-                        <forename type="no-match">Nathan P.</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Nathan P.</tei:forename>
                         <surname>Gibson</surname>
                     </persName>
                     <persName key="genID04a7fa2e6546250906da1b20e28ef14f">
-                        <forename type="no-match">David A.</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">David A.</tei:forename>
                         <surname>Michelson</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename type="female">Claudia</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename type="female">Vanessa</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename type="female">Tanja</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename type="female">Vanessa</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename type="male">Daniel</forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -68,11 +68,11 @@
                      Electronica</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/59147905242279092527">
-                                <forename type="no-match">Nathan P.</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Nathan P.</tei:forename>
                                 <surname>Gibson</surname>
                             </persName>
                             <persName>
-                                <forename type="no-match">David A.</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">David A.</tei:forename>
                                 <surname>Michelson</surname>
                             </persName>
                         </author>
@@ -80,26 +80,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename type="female">Claudia</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename type="female">Vanessa</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename type="female">Tanja</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename type="female">Sandra</forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>

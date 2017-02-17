@@ -3,45 +3,53 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TEI2German Translatathon</title>
+                <title>Lexical information in the TEI: modeling and markup</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/109145541733896601584" key="http://viaf.org/viaf/109145541733896601584">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Martina</tei:forename>
-                        <surname>Scholger</surname>
+                    <persName ref="http://viaf.org/viaf/295251101" key="http://viaf.org/viaf/295251101">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Piotr</tei:forename>
+                        <surname>Bański</surname>
                     </persName>
-                    <persName key="genIDab7306163dd9302fb67b9d731872f0b2">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Peter</tei:forename>
-                        <surname>Stadler</surname>
+                    <persName ref="http://viaf.org/viaf/311166103" key="http://viaf.org/viaf/311166103">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Karlheinz</tei:forename>
+                        <surname>Mörth</surname>
+                    </persName>
+                    <persName ref="http://viaf.org/viaf/282014122" key="http://viaf.org/viaf/282014122">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</tei:forename>
+                        <surname>Romary</surname>
+                    </persName>
+                    <persName ref="http://viaf.org/viaf/36375219" key="http://viaf.org/viaf/36375219">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Andreas</tei:forename>
+                        <surname>Witt</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claudia</tei:forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Tanja</tei:forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Daniel</tei:forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -63,41 +71,49 @@
             <sourceDesc>
                 <biblStruct>
                     <analytic>
-                        <title>TEI2German Translatathon</title>
+                        <title>Lexical information in the TEI: modeling and markup</title>
                         <author>
-                            <persName ref="http://viaf.org/viaf/109145541733896601584">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Martina</tei:forename>
-                                <surname>Scholger</surname>
+                            <persName ref="http://viaf.org/viaf/295251101">
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Piotr</tei:forename>
+                                <surname>Bański</surname>
                             </persName>
-                            <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Peter</tei:forename>
-                                <surname>Stadler</surname>
+                            <persName ref="http://viaf.org/viaf/311166103">
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Karlheinz</tei:forename>
+                                <surname>Mörth</surname>
+                            </persName>
+                            <persName ref="http://viaf.org/viaf/282014122">
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Laurent</tei:forename>
+                                <surname>Romary</surname>
+                            </persName>
+                            <persName ref="http://viaf.org/viaf/36375219">
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Andreas</tei:forename>
+                                <surname>Witt</surname>
                             </persName>
                         </author>
                     </analytic>
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claudia</tei:forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</tei:forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Tanja</tei:forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sandra</tei:forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -109,14 +125,14 @@
                             <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                             <date when="2016-09-20">September 2016</date>
                         </imprint>
-                        <biblScope unit="page">183</biblScope>
+                        <biblScope unit="page">175</biblScope>
                     </monogr>
                 </biblStruct>
                 <listEvent>
-                    <event when="2016-07-19" type="submission">
+                    <event when="2016-08-02" type="submission">
                         <desc>Submitted for review by the authors.</desc>
                     </event>
-                    <event when="2016-07-19" type="finalUpload">
+                    <event when="2016-08-02" type="finalUpload">
                         <desc>Submitted for publication by the authors.</desc>
                     </event>
                 </listEvent>
@@ -136,8 +152,8 @@
                     <term>workshop</term>
                 </keywords>
                 <keywords>
-                    <term>translation</term>
-                    <term>German</term>
+                    <term>linguistics</term>
+                    <term>lexical information modelling</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -152,17 +168,25 @@
     </teiHeader>
     <text>
         <body>
-            <p>The workshop is an open call for the German-speaking community to improve the TEI by
-            providing concise and fitting translations of the descriptive texts of the TEI P5
-            guidelines’ specs. The goal of the workshop is to translate <gi>desc</gi> and
-               <gi>gloss</gi> elements and feed these back into the TEI specifications. The setting
-            will be hands-on and interactive. This event will be specifically targeted at the
-            German-speaking community, which will most likely be a substantial part of the audience
-            at Vienna, with iterations for other languages envisioned at subsequent TEI events. We
-            aim to add and improve translations in areas that are identified as the first session of
-            the translatathon, so that it might become possible to have coherent translations for an
-            identified set of tags. This will be supported by supplemental material that groups the
-            existing tags by module and / or area of interest, to make the progress visible.</p>
+            <p>Quite a while has passed since the rewrite of the chapter on Dictionaries in the TEI
+            Guidelines, and many projects have since then adopted the new proposals. They have also
+            generated some new discussion (e.g. in the case of the generalized usage of <gi>cit</gi>
+            and <gi>quote</gi>) and are still in the process of getting refined (with the
+            grammatical information section recently having become more compact). Requests for new
+            features and improvement are continually processed by the TEI Council and discussed by
+            the community in the GitHub tickets.</p>
+            <p>In the meantime, Subcommittee 4 of the ISO Technical Committee 37 has published its
+            recommendations for the encoding of lexical databases (ISO LMF), accompanied by a
+            serialization that hasn’t become widespread in the field. The Subcommittee is in the
+            process of revising the LMF, with an eye to both improvements in the model and to its
+            TEI serialization, which, subject to the TEI Council’s approval, might potentially yield
+            a new version of the <q>Dictionaries</q> chapter.</p>
+            <p>The workshop, organized as an extension of the Linguistics SIG meeting, will report on
+            the history of lexical description in the TEI, the current state of the art, and the
+            envisioned developments. An essential projected part of the workshop will be a
+            discussion of the currently hottest topics (among others, the emerging serialization of
+            ISO LMF in the TEI, its envisioned coverage, feature set, and the timeline / milestones
+            for the expert / developer group).</p>
         </body>
     </text>
 </TEI>

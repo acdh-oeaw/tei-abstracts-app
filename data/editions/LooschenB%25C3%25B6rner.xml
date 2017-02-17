@@ -3,15 +3,15 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
+                <title>Database of Belarusian Periodicals</title>
                 <author>
-                    <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Jack Thompson</tei:forename>
-                        <surname>Bowers</surname>
+                    <persName key="genID1252f4807ab4fa146dcfa8fb7d0d29e3">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sünna</tei:forename>
+                        <surname>Looschen</surname>
                     </persName>
-                    <persName key="genIDa52c15d700e84648e628400474bc9b5b">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Melanie</tei:forename>
-                        <surname>Seltmann</surname>
+                    <persName ref="http://viaf.org/viaf/203147266599235480662" key="http://viaf.org/viaf/203147266599235480662">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ingo</tei:forename>
+                        <surname>Börner</surname>
                     </persName>
                 </author>
                 <editor>
@@ -62,15 +62,15 @@
             <sourceDesc>
                 <biblStruct>
                     <analytic>
-                        <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
+                        <title>Database of Belarusian Periodicals</title>
                         <author>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Jack Thompson</tei:forename>
-                                <surname>Bowers</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sünna</tei:forename>
+                                <surname>Looschen</surname>
                             </persName>
-                            <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Melanie</tei:forename>
-                                <surname>Seltmann</surname>
+                            <persName ref="http://viaf.org/viaf/203147266599235480662">
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ingo</tei:forename>
+                                <surname>Börner</surname>
                             </persName>
                         </author>
                     </analytic>
@@ -107,15 +107,15 @@
                             <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                             <date when="2016-09-20">September 2016</date>
                         </imprint>
-                        <biblScope unit="page">55-56</biblScope>
+                        <biblScope unit="page">139-140</biblScope>
                     </monogr>
                 </biblStruct>
                 <listEvent>
-                    <event when="2016-05-14" type="submission">
+                    <event when="2016-05-15" type="submission">
                         <desc>Submitted for review by the authors.</desc>
                     </event>
-                    <event when="2016-07-27" type="consent">
-                        <desc>Consent to publication by the authors.</desc>
+                    <event when="2016-07-15" type="finalUpload">
+                        <desc>Submitted for publication by the authors.</desc>
                     </event>
                 </listEvent>
             </sourceDesc>
@@ -131,131 +131,137 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term>paper</term>
+                    <term>poster</term>
                 </keywords>
                 <keywords>
-                    <term>linguistics</term>
-                    <term>lexicography</term>
-                    <term>dialectology</term>
-                    <term>etymology</term>
+                    <term>Belarusian periodicals</term>
+                    <term>field theory</term>
+                    <term>encoding tables of content</term>
                 </keywords>
             </textClass>
         </profileDesc>
         <revisionDesc>
             <listChange>
-                <change when="2016-11-04" who="#dani">Converted from InDesign (XML export to TEI P5).</change>
-                <change when="2016-11-21" who="#vany">TEIHeader edited, encoding of text, footnotes and bibliographic information, extension of bibliographic information.</change>
+                <change when="2016-11-04" who="#dani">Converted from InDesign (XML export to TEI
+               P5).</change>
+                <change when="2016-11-24" who="#vany">TEIHeader edited, encoding of text, footnotes and
+               bibliographic information, extension of bibliographic information.</change>
                 <change when="2017-01-18" who="#vany">Keywords added.</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <p>The project <q>exploreAT! exploring Austria’s culture through the language
-               glass</q> aims to explore a collection of heterogeneous 20th century data of
-            Bavarian dialects from the former area of the Austro-Hungarian Empire. Within the
-            project, specific topics such as bread, colors, and plants, and their cultural
-            associations, are investigated in greater detail. Schopper, Bowers and Wandl-Vogt<note type="footnote">
-                    <ptr target="#schopperetal"/>
-                </note>
-            described the process and some unique issues in converting the Database of Bavarian
-            dialects in Austria (DBOE) from a TUSTEP database format to a basic XML format and its
-            supporting resources into an LOD compatible TEI.</p>
-            <p>This paper discusses issues related to the digital modeling of the data from subproject
-               <q>explore.bread.AT! exploring Austria’s bread culture dialectally</q>; among
-            the goals of which are to: extract culturally and linguistically relevant information
-            about bread related topics that may be specific to a given place or time, and enhance
-            the linguistic and semantic description of the dataset using standards, including adding
-            etymological markup and analysis as per Bowers and Romary<note type="footnote">
-                    <ptr target="#bowersromary"/>
-                </note>.</p>
-            <p> As is the case with much of the rest of the DBOE, this dataset originates from a set of
-            questionnaires, which are a complicated mixture of semasiological (term-based) and
-            onomasiological (concept-based) phrasing, and the content and formatting of the original
-            database entries reflect this. In approaching the modeling of this dataset using markup
-            standards beyond basic XML, we compare and discuss how the data does and doesn’t fit
-            within the semasiological model of the TEI dictionary, and where it may fit within a
-            TBXTEI hybrid<note type="footnote">
-                    <ptr target="#romary"/>
-                </note> combining certain aspects of the onomasiological model of TBX and the
-            former.</p>
-            <p>Thus in addition to shedding light on the dialectal data from
-               <q>explore.bread.AT!</q>, the issues discussed can be seen as a
-            representative look into core issues present in the remodeling of the larger legacy
-            database.</p>
+            <p>The proposed poster presents the prototype of the <q>Database of Belarusian
+               Periodicals</q>, developed at the University of Oldenburg in cooperation with the
+            Belarusian State University, Minsk.</p>
+            <p>The digitization of four central literary periodicals (Maladnyak, Polymya, Uzvishsha and
+            Kalos’se) from 1920 / 1930ies Belarus aims at two main goals:</p>
+            <list type="ordered">
+                <item>a broad and simplified accessibility of central literary institutions of that time
+               for the scientific community – an important step towards a systematic scientific
+               evaluation of this matter;</item>
+                <item>a manageable database for detailed and possibly statistical analyses of various
+               aspects concerning the institutional landscape, including, but not limited to, the
+               following: the inter-relation of the periodicals’ authors, inter-dependencies of
+               publication place, ideological framework and literary and / or aesthetical standards,
+               frequency of publications, distribution of literary subgenres, etc.</item>
+            </list>
+            <p>Data capture is performed in XML on the basis of the TEI Guidelines. The poster
+            specifically discusses the application of the Guidelines to the encoding of table of
+            contents of periodicals, which constitute the projects’ main data source.</p>
+            <p>The database itself is implemented as an application for the open-source XML database
+            eXistdb. An extensive range of search queries can be performed on the collection, which
+            allow to obtain quantitative characteristics of the periodicals and their contributing
+            authors.</p>
+            <p>Regarding the project’s theoretical background (i.e. addressing philological questions
+            about Belarusian literature – which up until now has received limited international
+            attention – from a field theoretical perspective established by French sociologist
+            Pierre Bourdieu<note type="footnote">
+                    <ptr target="#bourdieu #vanrees"/>
+                </note>), the
+            database promises new findings and insights on processes of value assignment and
+            consecration in a less stable literary field<note type="footnote">
+                    <ptr target="#kohler"/>
+                </note>. On a broader level, it seeks to generate objective material for the
+            historiographical evaluation of literary processes.</p>
             <listBibl>
                 <head>References</head>
-                <biblStruct xml:id="bowersromary">
-                    <analytic>
-                        <author>
-                            <persName>
-                                <surname>Bowers</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jack</tei:forename>
-                            </persName>
-                        </author>
-                        <author>
-                            <persName>
-                                <surname>Romary</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</tei:forename>
-                            </persName>
-                        </author>
-                        <title>Deep encoding of etymological information in TEI</title>
-                    </analytic>
+                <biblStruct xml:id="bourdieu">
                     <monogr>
-                        <note>Manuscript submitted for publication</note>
-                        <imprint>
-                            <date>(2016)</date>
-                        </imprint>
-                    </monogr>
-                    <ref target="https://hal.inria.fr/hal-01296498">https://hal.inria.fr/hal-01296498</ref>
-                </biblStruct>
-                <biblStruct xml:id="romary">
-                    <analytic>
                         <author>
                             <persName>
-                                <surname>Romary</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</tei:forename>
+                                <surname>Bourdieu</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Pierre</tei:forename>
                             </persName>
                         </author>
-                        <title>TBX goes TEI: Implementing a TBX basic extension for the Text Encoding
-                     Initiative Guidelines</title>
-                    </analytic>
-                    <monogr>
-                        <title>Terminology and Knowledge Engineering (TKE)</title>
+                        <title>The rules of art: genesis and structure of the literary field</title>
+                        <edition>Reprint</edition>
                         <imprint>
-                            <pubPlace>Berlin, Germany</pubPlace>
+                            <pubPlace>Cambridge</pubPlace>
+                            <publisher>Polity Press</publisher>
                             <date>2014</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
-                <biblStruct xml:id="schopperetal">
+                <biblStruct xml:id="kohler">
                     <analytic>
                         <author>
                             <persName>
-                                <surname>Schopper</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                                <surname>Kohler</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gun-Britt</tei:forename>
                             </persName>
                         </author>
-                        <author>
-                            <persName>
-                                <surname>Bowers</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jack</tei:forename>
-                            </persName>
-                        </author>
-                        <author>
-                            <persName>
-                                <surname>Wandl-Vogt</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eveline</tei:forename>
-                            </persName>
-                        </author>
-                        <title>dboe@TEI: remodelling a database of dialects into a rich LOD
-                     resource</title>
+                        <title>Westbelarussische Literatur und Belarussisches Literaturfeld (1921-1939).
+                     Versuch einer Standortbestimmung</title>
                     </analytic>
                     <monogr>
-                        <title>TEI conference 2015</title>
+                        <title>Wiener Slavistisches Jahrbuch, Neue Folge 3</title>
                         <imprint>
-                            <pubPlace>Lyon, France</pubPlace>
+                            <biblScope unit="pp">135-176</biblScope>
                             <date>2015</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct xml:id="vanrees">
+                    <analytic>
+                        <author>
+                            <persName>
+                                <surname>Van
+                     Rees</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Kees</tei:forename>
+                            </persName>
+                        </author>
+                        <title>Field, Capital and Habitus: A Relational Approach to ‘Small‘
+                     Literatures</title>
+                    </analytic>
+                    <monogr>
+                        <editor>
+                            <persName>
+                                <surname>Kohler</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gun-Britt</tei:forename>
+                            </persName>
+                        </editor>
+                        <editor>
+                            <persName>
+                                <surname>Navumenka</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Pavel
+                        I.</tei:forename>
+                            </persName>
+                        </editor>
+                        <editor>
+                            <persName>
+                                <surname>Grüttemeier</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ralf</tei:forename>
+                            </persName>
+                        </editor>
+                        <title>Kleinheit als Spezifik: Beiträge zu einer feldtheoretischen Analyse der
+                     belarussischen Literatur im Kontext ‘kleiner‘ slavischer Literaturen</title>
+                        <imprint>
+                            <pubPlace>Oldenburg</pubPlace>
+                            <publisher>BIS-Verlag</publisher>
+                            <biblScope unit="pp">15-56</biblScope>
+                            <date>2012</date>
                         </imprint>
                     </monogr>
                 </biblStruct>

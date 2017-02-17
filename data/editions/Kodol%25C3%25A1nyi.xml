@@ -3,11 +3,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Creating a maintainable cataloging workflow and infrastructure using TEI</title>
+                <title>Móricz Digital Edition — Possibilities and connections of a correspondence
+               material</title>
                 <author>
-                    <persName key="genID6bf61aa867496ab524289d54fffe0b32">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Chris</tei:forename>
-                        <surname>Rogers</surname>
+                    <persName key="genIDbdb55642a32858fc997a87c09b691d7a">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Judit</tei:forename>
+                        <surname>Kodolányi</surname>
                     </persName>
                 </author>
                 <editor>
@@ -17,7 +18,7 @@
                     </persName>
                 </editor>
                 <editor>
-                    <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
+                    <persName ref="http://viaf.org/viaf/31146030596135862230">
                         <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                         <surname>Hannesschläger</surname>
                     </persName>
@@ -59,12 +60,12 @@
             <sourceDesc>
                 <biblStruct>
                     <analytic>
-                        <title>Creating a maintainable cataloging workflow and infrastructure using
-                     TEI</title>
+                        <title>Móricz Digital Edition — Possibilities and connections of a correspondence
+                     material</title>
                         <author>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Chris</tei:forename>
-                                <surname>Rogers</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Judit</tei:forename>
+                                <surname>Kodolányi</surname>
                             </persName>
                         </author>
                     </analytic>
@@ -76,7 +77,7 @@
                             </persName>
                         </editor>
                         <editor>
-                            <persName ref="http://viaf.org/viaf/31146030596135862230">
+                            <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
                                 <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
@@ -102,14 +103,14 @@
                             <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                             <date when="2016-09-20">September 2016</date>
                         </imprint>
-                        <biblScope unit="page">97</biblScope>
+                        <biblScope unit="page">83-84</biblScope>
                     </monogr>
                 </biblStruct>
                 <listEvent>
-                    <event when="2016-05-24" type="submission">
+                    <event when="2016-05-15" type="submission">
                         <desc>Submitted for review by the author.</desc>
                     </event>
-                    <event when="2016-07-28" type="finalUpload">
+                    <event when="2016-07-19" type="finalUpload">
                         <desc>Submitted for publication by the author.</desc>
                     </event>
                 </listEvent>
@@ -129,11 +130,9 @@
                     <term>paper</term>
                 </keywords>
                 <keywords>
-                    <term>manuscript</term>
-                    <term>cataloguing</term>
-                    <term>libraries</term>
-                    <term>tools</term>
-                    <term>workflows</term>
+                    <term>letters</term>
+                    <term>correspondence</term>
+                    <term>critical edition</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -148,24 +147,27 @@
     </teiHeader>
     <text>
         <body>
-            <p>For some time, we at Bodleian Digital Library Systems and Services (BDLSS) have
-            struggled to maintain a number of TEI-based manuscript catalogues, based on a custom
-            built indexing and display system for which the code has diverged significantly between
-            implementations.</p>
-            <p>To resolve this, we have embarked on a project to create a new infrastructure and
-            end-to-end workflow for delivering and maintaining TEI-based catalogues moving forward.
-            The aim is to make life considerably easier for both developers and cataloguers. The
-            tools and documentation development as part of the project will be made open-source for
-            other institutions to use and feed into.</p>
-            <p>As part of this work, we have engaged in an extensive program of user requirements
-            gathering, and are currently in the process of devising the technical architecture of
-            our new solution.</p>
-            <p>This presentation would explore the results of our requirements gathering exercise, and
-            the insights gained around preferred workflows for catalogue creators, eagerness to
-            engage directly with code, and ideas for exposing the data in novel ways. As part of the
-            requirements gathering exercise, we also conducted a market review, talking to
-            organizations in the UK and the US about how they currently use TEI. We will discuss
-            these findings, and look forward to the technical solution we will be putting in place.</p>
+            <p>The presentation explores the possibilities and characteristics of the digitalization by
+            TEI XML coding of a substantial sized correspondence, based on the lessons of a
+            currently pursued project. In the framework of the Petőfi Literary Museum of Budapest,
+            since February 2016, we have been processing the correspondence of the 20th century
+            Hungarian prose writer Zsigmond Móricz. We have some 3,000 letters to be processed, from
+            the quarter century extending to 1923, and covering half of his artistic career. The aim
+            is the preparation of a digital edition that includes the criteria for a critical
+            edition for professional audiences, such as annotation and text variants as well as the
+            advantages offered by a digital edition, while also offering an enjoyable reading to the
+            general reader. The research regards the correspondence as a special corpus of texts,
+            which consists of various units possessing peculiar metadata and independent references.
+            These create an organic system of multiple connections among the units and with external
+            data. One of the main objects of the programme is the recovery and integration of these
+            connections, and their presentation and accessibility on a publicly accessible webpage,
+            not simply on the level of metadata but also in their embeddedness in the text. We are
+            also concentrating on connecting the product of our work to the major databases.</p>
+            <p>It is important that the structure of processing is based on the peculiar nature of the
+            accumulation of literary legacies. The lecture intends to demonstrate the formal
+            framework that we have created in the interest of uniform integration of new units and
+            handling of the description of correspondence. At the present phase, we are working on
+            the specific methods applicable to the material, suitable for scientific markup.</p>
         </body>
     </text>
 </TEI>

@@ -3,11 +3,20 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Creating a maintainable cataloging workflow and infrastructure using TEI</title>
+                <title>Building a collaborative editorial workbench for legal texts with complex
+               structures</title>
                 <author>
-                    <persName key="genID6bf61aa867496ab524289d54fffe0b32">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Chris</tei:forename>
-                        <surname>Rogers</surname>
+                    <persName key="genID5b53c4f161024460bd33dbeac96f62d6">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Daniela Monika</tei:forename>
+                        <surname>Schulz</surname>
+                    </persName>
+                    <persName ref="http://viaf.org/viaf/68770782" key="http://viaf.org/viaf/68770782">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Nils</tei:forename>
+                        <surname>Geißler</surname>
+                    </persName>
+                    <persName key="genID40e88cf196801d011d30d80621198924">
+                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Marcello</tei:forename>
+                        <surname>Perathoner</surname>
                     </persName>
                 </author>
                 <editor>
@@ -59,12 +68,20 @@
             <sourceDesc>
                 <biblStruct>
                     <analytic>
-                        <title>Creating a maintainable cataloging workflow and infrastructure using
-                     TEI</title>
+                        <title>Building a collaborative editorial workbench for legal texts with complex
+                     structures</title>
                         <author>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Chris</tei:forename>
-                                <surname>Rogers</surname>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Daniela Monika</tei:forename>
+                                <surname>Schulz</surname>
+                            </persName>
+                            <persName ref="http://viaf.org/viaf/68770782">
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Nils</tei:forename>
+                                <surname>Geißler</surname>
+                            </persName>
+                            <persName>
+                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Marcello</tei:forename>
+                                <surname>Perathoner</surname>
                             </persName>
                         </author>
                     </analytic>
@@ -102,15 +119,15 @@
                             <pubPlace ref="http://d-nb.info/gnd/4066009-6">Vienna</pubPlace>
                             <date when="2016-09-20">September 2016</date>
                         </imprint>
-                        <biblScope unit="page">97</biblScope>
+                        <biblScope unit="page">101-102</biblScope>
                     </monogr>
                 </biblStruct>
                 <listEvent>
-                    <event when="2016-05-24" type="submission">
-                        <desc>Submitted for review by the author.</desc>
+                    <event when="2016-05-13" type="submission">
+                        <desc>Submitted for review by the authors.</desc>
                     </event>
-                    <event when="2016-07-28" type="finalUpload">
-                        <desc>Submitted for publication by the author.</desc>
+                    <event when="2016-07-19" type="finalUpload">
+                        <desc>Submitted for publication by the authors.</desc>
                     </event>
                 </listEvent>
             </sourceDesc>
@@ -129,11 +146,11 @@
                     <term>paper</term>
                 </keywords>
                 <keywords>
-                    <term>manuscript</term>
-                    <term>cataloguing</term>
-                    <term>libraries</term>
-                    <term>tools</term>
-                    <term>workflows</term>
+                    <term>encoding problems</term>
+                    <term>XSLT-processing-pipelines</term>
+                    <term>collation</term>
+                    <term>collaborative editing</term>
+                    <term>WordPress</term>
                 </keywords>
             </textClass>
         </profileDesc>
@@ -148,24 +165,34 @@
     </teiHeader>
     <text>
         <body>
-            <p>For some time, we at Bodleian Digital Library Systems and Services (BDLSS) have
-            struggled to maintain a number of TEI-based manuscript catalogues, based on a custom
-            built indexing and display system for which the code has diverged significantly between
-            implementations.</p>
-            <p>To resolve this, we have embarked on a project to create a new infrastructure and
-            end-to-end workflow for delivering and maintaining TEI-based catalogues moving forward.
-            The aim is to make life considerably easier for both developers and cataloguers. The
-            tools and documentation development as part of the project will be made open-source for
-            other institutions to use and feed into.</p>
-            <p>As part of this work, we have engaged in an extensive program of user requirements
-            gathering, and are currently in the process of devising the technical architecture of
-            our new solution.</p>
-            <p>This presentation would explore the results of our requirements gathering exercise, and
-            the insights gained around preferred workflows for catalogue creators, eagerness to
-            engage directly with code, and ideas for exposing the data in novel ways. As part of the
-            requirements gathering exercise, we also conducted a market review, talking to
-            organizations in the UK and the US about how they currently use TEI. We will discuss
-            these findings, and look forward to the technical solution we will be putting in place.</p>
+            <p>The <q>Capitularia</q>-project is concerned with the (hybrid) edition of decrees
+            by Frankish rulers, an important source for various aspects of early medieval European
+            history. Due to the manner of dissemination, these legal texts are only extant within
+            often quite sundry compilations. The modeling of an overarching structure to depict and
+            reference the single textual units in their various manifestations within the
+            manuscripts hence poses one of the biggest challenges for the TEI encoding.</p>
+            <p>
+                <q>Capitularia</q> is a long term project (2014-2029) funded by the North
+            Rhine-Westphalian Academy of Sciences and Humanities and is being prepared in close
+            collaboration with the <q>Cologne Center for eHumanities</q> and the
+               <q>Monumenta Germaniae Historica</q> as well as other partners. Since the
+            cooperators are scattered, a central platform for internal communication as well as for
+            the distribution of resources among staff is essential to facilitate successful
+            cooperation. WordPress was selected as CMS, serving not only for the web publication,
+            but also as a collaborative editorial workbench. Features already included (e.g. search
+            facilities, multilingualism) were enhanced, new functionalities added, such as the
+               <q>Capitularia XSL Processor</q> plugin that allows for the transformation of
+            XML files to HTML within the CMS. This transformation is the final step of a
+            sophisticated XSLT processing pipeline that has been custom-built. The
+               <q>Capitularia Page Generator</q> enables automated generation of pages. In
+            order to facilitate the editorial work with the numerous textual witnesses, collation is
+            backed by variance scores available in the backend. This functionality is based on
+            CollateX with the algorithms included in the <q>Capitularia Collation</q>
+            plugin.</p>
+            <p>The paper will present straits of encoding capitularies as examples of texts with a
+            complex and varying structure, as well as our approach to deal with these issues. We
+            would also like to discuss further ideas for the future development of a collaborative
+            workbench within the CMS.</p>
         </body>
     </text>
 </TEI>
