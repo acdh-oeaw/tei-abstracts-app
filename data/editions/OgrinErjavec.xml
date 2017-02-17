@@ -7,11 +7,11 @@
                Lexicon</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/66207154" key="http://viaf.org/viaf/66207154">
-                        <forename type="no-match">Matija</forename>
+                        <forename type="male">Matija</forename>
                         <surname>Ogrin</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/10709753" key="http://viaf.org/viaf/10709753">
-                        <forename type="no-match">Tomaž</forename>
+                        <forename type="male">Tomaž</forename>
                         <surname>Erjavec</surname>
                     </persName>
                 </author>
@@ -68,11 +68,11 @@
                      and Lexicon</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/66207154">
-                                <forename type="no-match">Matija</forename>
+                                <forename type="male">Matija</forename>
                                 <surname>Ogrin</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/10709753">
-                                <forename type="no-match">Tomaž</forename>
+                                <forename type="male">Tomaž</forename>
                                 <surname>Erjavec</surname>
                             </persName>
                         </author>

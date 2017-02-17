@@ -6,11 +6,11 @@
                 <title>TEI markup for the 90-volume edition of Leo Tolstoy’s complete works</title>
                 <author>
                     <persName key="genIDbd35792abb9bc4d7779b8f948266292b">
-                        <forename type="no-match">Daniil</forename>
+                        <forename type="male">Daniil</forename>
                         <surname>Skorinkin</surname>
                     </persName>
                     <persName key="genID60b15aa11ba208d959fe91cf815715f0">
-                        <forename type="no-match">Evgeny</forename>
+                        <forename type="male">Evgeny</forename>
                         <surname>Mozhaev</surname>
                     </persName>
                 </author>
@@ -67,11 +67,11 @@
                      works</title>
                         <author>
                             <persName>
-                                <forename type="no-match">Daniil</forename>
+                                <forename type="male">Daniil</forename>
                                 <surname>Skorinkin</surname>
                             </persName>
                             <persName>
-                                <forename type="no-match">Evgeny</forename>
+                                <forename type="male">Evgeny</forename>
                                 <surname>Mozhaev</surname>
                             </persName>
                         </author>

@@ -26,15 +26,20 @@ declare variable $genderize := "https://api.genderize.io/?name=";
         }
  :)
 
-for $forename in collection(concat($config:app-root, '/data/'))//tei:forename
+let $seq := collection(concat($config:app-root, '/data/'))//tei:forename
+(:return count($seq):)
+for $forename in subsequence($seq, 26) 
     let $name := $forename/text()
-    let $url := $base||$path||encode-for-uri($name)
-(:    let $url := $genderize||encode-for-uri($name):)
+(:    let $url := $base||$path||encode-for-uri($name):)
+    let $url := $genderize||encode-for-uri($name)
     let $request := httpclient:get(xs:anyURI($url),  true(), <Headers/>)
     let $json : = util:base64-decode($request//httpclient:body/text())
     let $parsed := parse-json($json)
-    let $gender := try{
-        $parsed?results(1)?sex?sex} catch * {'no-match'}
-    let $new:= update insert attribute type {$gender} into $forename
-    return $gender
-
+    let $gender := $parsed?gender
+    let $result := if($gender eq 'male')
+        then "male"
+        else if($gender eq 'female')
+        then 'female'
+        else "no-match"
+    let $new:= update insert attribute type {$result} into $forename
+    return $result

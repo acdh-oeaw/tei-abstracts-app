@@ -6,7 +6,7 @@
                 <title>Writing under the Magnifying Glass. Encoding the Text in Progress</title>
                 <author>
                     <persName key="genIDc0b13dd39c11ccb17a1545fc3945e219">
-                        <forename type="no-match">Florentina</forename>
+                        <forename type="female">Florentina</forename>
                         <surname>Armaselu</surname>
                     </persName>
                 </author>
@@ -61,7 +61,7 @@
                         <title>Writing under the Magnifying Glass. Encoding the Text in Progress</title>
                         <author>
                             <persName>
-                                <forename type="no-match">Florentina</forename>
+                                <forename type="female">Florentina</forename>
                                 <surname>Armaselu</surname>
                             </persName>
                         </author>
@@ -203,7 +203,7 @@
                         <author>
                             <surname type="current">Armaselu</surname>
                             <surname type="former">Vasilescu</surname>
-                            <forename type="no-match">Florentina</forename>
+                            <forename type="female">Florentina</forename>
                         </author>
                         <title>Le livre sous la loupe: Nouvelles formes d’écriture électronique</title>
                         <ref target="https://papyrus.bib.umontreal.ca/xmlui/handle/1866/3964">Papyrus.
@@ -220,7 +220,7 @@
                         <author>
                             <persName>
                                 <surname>Armaselu</surname>
-                                <forename type="no-match">Florentina</forename>
+                                <forename type="female">Florentina</forename>
                             </persName>
                         </author>
                         <title>The Layered Text. From Textual Zoom, Text Network Analysis and Text
@@ -264,13 +264,13 @@
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <forename type="male">Lou</forename>
+                                <forename type="female">Lou</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Jannidis</surname>
-                                <forename type="no-match">Fotis</forename>
+                                <forename type="male">Fotis</forename>
                             </persName>
                         </author>
                         <author>
@@ -282,7 +282,7 @@
                         <author>
                             <persName>
                                 <surname>Rehbein</surname>
-                                <forename type="no-match">Malte</forename>
+                                <forename type="male">Malte</forename>
                             </persName>
                         </author>
                         <title>An Encoding Model for Genetic Editions</title>

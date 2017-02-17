@@ -1,7 +1,7 @@
 # Web App to publish the Abstracts of TEI-2016
 
 The purpose of this application is to publish the in XML/TEI encoded abstracts of the [TEI-Conference 2016}(http://tei2016.acdh.oeaw.ac.at/). The abstracts were taken from the GitHub-Repo [TEI2016abstracts](https://github.com/acdh-oeaw/TEI2016abstracts). 
-The application is based upon **[generic-de-web-app](https://github.com/acdh-oeaw/generic-de-web-app)**.
+The application is based upon **[generec-de-web-app](https://github.com/acdh-oeaw/generic-de-web-app)**.
 
 ## Install
 
@@ -18,4 +18,7 @@ To enhance functionality of this application, the data had to be slightly proces
 
 - derived a person index from the data by collecting all authors and created persName keys, either by taking the already assigned viaf number or created an md5 hash from the concatenated for- and surname plus prefix "genID" (`create-pers-list.xql`)
 - added md5 hashes as @key attributes to persName elements in the abstracts (`add.keys.xql`)
-- enhanced `tei:forename`elements with @type holding the names gender (`add-gender.xql`)
+
+## Data enrichment
+
+The scripts ```add-gender-genderize-listpers.xql``` and ```add-gender-genderize-editions.xqll``` map all forenames in the corpus towards their gender. Therefore the names are sent to the service [genderize.io](https://genderize.io/). Since the number of daily requests must not exeed 1000, editions and indices are processed seperatly. 

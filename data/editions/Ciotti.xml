@@ -233,7 +233,7 @@
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <forename type="male">Lou</forename>
+                                <forename type="female">Lou</forename>
                             </persName>
                         </author>
                         <author>
@@ -283,7 +283,7 @@
                         <author>
                             <persName>
                                 <surname>Eide</surname>
-                                <forename type="no-match">Øyvind</forename>
+                                <forename type="male">Øyvind</forename>
                             </persName>
                         </author>
                         <title>Ontologies, Data Modeling, and TEI</title>
@@ -319,7 +319,7 @@
                         <author>
                             <persName>
                                 <surname>Eide</surname>
-                                <forename type="no-match">Øyvind</forename>
+                                <forename type="male">Øyvind</forename>
                             </persName>
                         </author>
                         <title>TEI and cultural heritage ontologies: Exchange of information?</title>
@@ -364,7 +364,7 @@
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <forename type="male">Lou</forename>
+                                <forename type="female">Lou</forename>
                             </persName>
                         </author>
                         <title>The design of the TEI encoding scheme</title>

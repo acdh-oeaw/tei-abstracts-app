@@ -6,7 +6,7 @@
                 <title>EuRED: XML-TEI in database structure</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/172241593" key="http://viaf.org/viaf/172241593">
-                        <forename type="no-match">François</forename>
+                        <forename type="male">François</forename>
                         <surname>Vignale</surname>
                     </persName>
                 </author>
@@ -62,7 +62,7 @@
                         <title>EuRED: XML-TEI in database structure</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/172241593">
-                                <forename type="no-match">François</forename>
+                                <forename type="male">François</forename>
                                 <surname>Vignale</surname>
                             </persName>
                         </author>

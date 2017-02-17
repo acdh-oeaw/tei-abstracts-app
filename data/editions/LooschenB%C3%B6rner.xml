@@ -10,7 +10,7 @@
                         <surname>Looschen</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/203147266599235480662" key="http://viaf.org/viaf/203147266599235480662">
-                        <forename type="no-match">Ingo</forename>
+                        <forename type="male">Ingo</forename>
                         <surname>Börner</surname>
                     </persName>
                 </author>
@@ -69,7 +69,7 @@
                                 <surname>Looschen</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/203147266599235480662">
-                                <forename type="no-match">Ingo</forename>
+                                <forename type="male">Ingo</forename>
                                 <surname>Börner</surname>
                             </persName>
                         </author>
@@ -209,7 +209,7 @@
                         <author>
                             <persName>
                                 <surname>Kohler</surname>
-                                <forename type="no-match">Gun-Britt</forename>
+                                <forename type="female">Gun-Britt</forename>
                             </persName>
                         </author>
                         <title>Westbelarussische Literatur und Belarussisches Literaturfeld (1921-1939).
@@ -229,7 +229,7 @@
                             <persName>
                                 <surname>Van
                      Rees</surname>
-                                <forename type="no-match">Kees</forename>
+                                <forename type="male">Kees</forename>
                             </persName>
                         </author>
                         <title>Field, Capital and Habitus: A Relational Approach to ‘Small‘
@@ -239,7 +239,7 @@
                         <editor>
                             <persName>
                                 <surname>Kohler</surname>
-                                <forename type="no-match">Gun-Britt</forename>
+                                <forename type="female">Gun-Britt</forename>
                             </persName>
                         </editor>
                         <editor>

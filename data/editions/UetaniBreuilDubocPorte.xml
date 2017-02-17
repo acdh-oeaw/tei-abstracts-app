@@ -12,13 +12,13 @@
                 </author>
                 <author>
                     <persName ref="http://viaf.org/viaf/300847613" key="http://viaf.org/viaf/300847613">
-                        <forename type="no-match">Sandrine</forename>
+                        <forename type="female">Sandrine</forename>
                         <surname>Breuil</surname>
                     </persName>
                 </author>
                 <author>
                     <persName key="genID8f08c243f3053a0255178117a467dd47">
-                        <forename type="no-match">Mathieu</forename>
+                        <forename type="male">Mathieu</forename>
                         <surname>Duboc</surname>
                     </persName>
                 </author>
@@ -86,13 +86,13 @@
                         </author>
                         <author>
                             <persName ref="http://viaf.org/viaf/300847613">
-                                <forename type="no-match">Sandrine</forename>
+                                <forename type="female">Sandrine</forename>
                                 <surname>Breuil</surname>
                             </persName>
                         </author>
                         <author>
                             <persName>
-                                <forename type="no-match">Mathieu</forename>
+                                <forename type="male">Mathieu</forename>
                                 <surname>Duboc</surname>
                             </persName>
                         </author>

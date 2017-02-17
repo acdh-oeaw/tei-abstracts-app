@@ -18,7 +18,7 @@
                         <surname>Muller</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/113240825" key="http://viaf.org/viaf/113240825">
-                        <forename type="no-match">Masahiro</forename>
+                        <forename type="male">Masahiro</forename>
                         <surname>Shimoda</surname>
                     </persName>
                 </author>
@@ -85,7 +85,7 @@
                                 <surname>Muller</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/113240825">
-                                <forename type="no-match">Masahiro</forename>
+                                <forename type="male">Masahiro</forename>
                                 <surname>Shimoda</surname>
                             </persName>
                         </author>

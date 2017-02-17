@@ -16,7 +16,9 @@ let $female := count($titleStmt//tei:author//tei:forename[@type='female'])
 let $nomatch := count($titleStmt//tei:author//tei:forename[@type='no-match'])
 let $gender := if ($male gt $female and $male gt $nomatch) 
     then 'male' 
-    else if ($female gt $nomatch and $female gt $nomatch)
+    else if ($female eq $male and $female+$male gt $nomatch)
+    then 'balanced'
+    else if ($female gt $nomatch)
     then 'female'
     else if ($male eq $female and $male+$female gt $nomatch)
     then 'balanced'

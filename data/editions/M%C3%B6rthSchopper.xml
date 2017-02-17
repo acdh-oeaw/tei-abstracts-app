@@ -6,7 +6,7 @@
                 <title>Wiki2TEI: Wikipedias as sources for language research</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/311166103" key="http://viaf.org/viaf/311166103">
-                        <forename type="no-match">Karlheinz</forename>
+                        <forename type="male">Karlheinz</forename>
                         <surname>Mörth</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/249676043" key="http://viaf.org/viaf/249676043">
@@ -65,7 +65,7 @@
                         <title>Wiki2TEI: Wikipedias as sources for language research</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/311166103">
-                                <forename type="no-match">Karlheinz</forename>
+                                <forename type="male">Karlheinz</forename>
                                 <surname>Mörth</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/249676043">

@@ -11,7 +11,7 @@
                         <surname>Bowers</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/306105656" key="http://viaf.org/viaf/306105656">
-                        <forename type="no-match">Thierry</forename>
+                        <forename type="male">Thierry</forename>
                         <surname>Declerck</surname>
                     </persName>
                 </author>
@@ -72,7 +72,7 @@
                                 <surname>Bowers</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/306105656">
-                                <forename type="no-match">Thierry</forename>
+                                <forename type="male">Thierry</forename>
                                 <surname>Declerck</surname>
                             </persName>
                         </author>
@@ -186,13 +186,13 @@
                         <author>
                             <persName>
                                 <surname>Declerck</surname>
-                                <forename type="no-match">Thierry</forename>
+                                <forename type="male">Thierry</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Mörth</surname>
-                                <forename type="no-match">Karlheinz</forename>
+                                <forename type="male">Karlheinz</forename>
                             </persName>
                         </author>
                         <title>Towards a Sense-based Access to Related Online Lexical Resources</title>

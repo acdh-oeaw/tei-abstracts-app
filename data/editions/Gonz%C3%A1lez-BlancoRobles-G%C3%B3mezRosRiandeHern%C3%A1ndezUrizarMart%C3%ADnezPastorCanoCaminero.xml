@@ -18,7 +18,7 @@
                         <surname>Ros</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/261749100" key="http://viaf.org/viaf/261749100">
-                        <forename type="no-match">Gimena</forename>
+                        <forename type="female">Gimena</forename>
                         <surname>Del Rio Riande</surname>
                     </persName>
                     <persName key="genIDfa23e85501651362ef3b32ace2679fd3">
@@ -38,7 +38,7 @@
                         <surname>Pastor</surname>
                     </persName>
                     <persName key="genID1fb4d2c70f9c34ef1c07b4ea61881fb7">
-                        <forename type="no-match">Jesús</forename>
+                        <forename type="male">Jesús</forename>
                         <surname>Cano</surname>
                     </persName>
                     <persName key="genIDa828d27d13cfbcc6bb586ed3acdbfa50">
@@ -109,7 +109,7 @@
                                 <surname>Ros</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/261749100">
-                                <forename type="no-match">Gimena</forename>
+                                <forename type="female">Gimena</forename>
                                 <surname>Del Rio Riande</surname>
                             </persName>
                             <persName>
@@ -129,7 +129,7 @@
                                 <surname>Pastor</surname>
                             </persName>
                             <persName>
-                                <forename type="no-match">Jesús</forename>
+                                <forename type="male">Jesús</forename>
                                 <surname>Cano</surname>
                             </persName>
                             <persName>
@@ -262,7 +262,7 @@
                             <persName>
                                 <surname>Baranda
                         Leturio</surname>
-                                <forename type="no-match">Nieves</forename>
+                                <forename type="female">Nieves</forename>
                             </persName>
                         </author>
                         <title>BIESES project. BIografía de EScritoras ESpañolas</title>
@@ -283,7 +283,7 @@
                         <author>
                             <persName>
                                 <surname>Reimer</surname>
-                                <forename type="no-match">Torsten</forename>
+                                <forename type="male">Torsten</forename>
                             </persName>
                         </author>
                         <title>Virtual Research Environment Collaborative Landscape Study. A JISC funded
@@ -323,7 +323,7 @@
                             <persName>
                                 <surname>Del Río
                         Riande</surname>
-                                <forename type="no-match">Gimena</forename>
+                                <forename type="female">Gimena</forename>
                             </persName>
                         </author>
                         <title>Humanidades Digitales. Construcciones locales en contextos globales</title>
@@ -343,7 +343,7 @@
                             <persName>
                                 <surname>Del Río
                         Riande</surname>
-                                <forename type="no-match">Gimena</forename>
+                                <forename type="female">Gimena</forename>
                             </persName>
                         </author>
                         <author>

@@ -6,7 +6,7 @@
                 <title>Bibliography in the Inscriptions of Israel / Palestine Epigraphic Project</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/64289700" key="http://viaf.org/viaf/64289700">
-                        <forename type="no-match">Gaia</forename>
+                        <forename type="female">Gaia</forename>
                         <surname>Lembi</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/311203805" key="http://viaf.org/viaf/311203805">
@@ -69,7 +69,7 @@
                         <title>Bibliography in the Inscriptions of Israel / Palestine Epigraphic Project</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/64289700">
-                                <forename type="no-match">Gaia</forename>
+                                <forename type="female">Gaia</forename>
                                 <surname>Lembi</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/311203805">
@@ -231,7 +231,7 @@
                         <author>
                             <persName>
                                 <surname>Stührenberg</surname>
-                                <forename type="no-match">Maik</forename>
+                                <forename type="male">Maik</forename>
                             </persName>
                         </author>
                         <author>
