@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Genderize Names</title>
+            <author>
+               <persName>
+                  <forename>Peter</forename>
+                  <surname>Andorfer</surname>
+               </persName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>ACDH-OeAW</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2017"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2016-08-02">
+                  <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License applies
+                     to this text.</p>
+                  <p>The license was added for the print version of this text on August 2, 2016.</p>
+                  <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>How we genderized forenames</head>
+            <p>We want to know the gender-distribution amongst the participants/authors of the TEI conference 2016. But since we have not asked the contributors about their gender, we are confronted with a lack of data. But since we have tagged the author's forenames it shouldn't be too hard to deduce the person's gender from the person's name. Or to be more precise, to deduce the gender which a name is mostly associated with. Just to be clear, we are not making guesses about the gender of the authors. We are making guesses about the gender of the names of the authors.</p>
+            <p>Making guess about the gender of a forename is quite easy if you can base your
+               guesses upon some empirical evidence. Evidence like list of names of persons which
+               declared their gender. We started with <ref target="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/">such a list</ref> provided by <persName>Mark Kantrowitz</persName>, used e.g. in
+               the <ref target="http://www.nltk.org/">NLTK package</ref>. Unfortunately there is
+               hardly any documentation about deciding which name matches which gender. Therefore we
+               looked for another resource and found <ref target="https://genderize.io/">genderizo.io</ref>, a web service to <q>determine the gender of a first name</q>. They at least claim they assembled their data from social network profiles and they provide an API to their data, so we went with them.
+            </p>
+            <p>
+               Finding an adequate dataset was hard, using it was easy by writing a simple xQuery script which 
+               <list>
+                  <item>iterates over all forename-elements,</item>
+                  <item>takes the text node of each element,</item>
+                  <item>builds a URL out of it,</item>
+                  <item>sending a GET-request to the <ref target="https://genderize.io/">genderizo.io</ref>-API,</item>
+                  <item>parses the response,</item>
+                  <item>and adds the parsed response in form of a type attribute to the forename attribute.</item>
+               </list>
+               The only slightly annoying thing was the 1000-request-per-day-for-free-limit set up by <ref target="https://genderize.io/">genderizo.io</ref>, which forced us to split this script in parts.
+            </p>
+         </div>
+         <div>
+            <head>What we did then</head>
+            <p>Having our data enriched, the fun part starts. First we wanted to know the gender distribution amongst the author's forenames. This question was answered by <hi>gender-distribution.xql</hi>. A script which also feeds the matching visualization.</p>
+            <p>We also wanted to know for each abstracts to which gender the authors forenames are related to. This question could be answerd with the script <hi>text-gender.xql</hi>. And this script feeds also its matching visualization.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

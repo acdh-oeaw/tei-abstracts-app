@@ -4,39 +4,54 @@
     <script src="../resources/js/highcharts/highcharts-3d.js"/>
     <script src="../resources/js/highcharts/exporting.js"/>
     
-    
-    <div class="row">
-        <div class="col-md-6">
-            <div class="panel-group">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" href="#collapse1">Gender Distribution amongst Authors</a>
-                        </h4>
-                    </div>
-                    <div id="collapse1" class="panel-collapse">
-                        <div class="panel-body" id="chart1">Panel Body</div>
-                        <div class="panel-footer">Panel Footer</div>
+    <div class="panel panel-default" style="text-align:center;">
+        <div class="panel-heading">
+            <h2>Forenames and Gender</h2>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="panel-group">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapse1">Gender Distribution amongst the Forenames of the Authors</a>
+                                </h4>
+                            </div>
+                            <div id="collapse1" class="panel-collapse">
+                                <div class="panel-body" id="chart1">Panel Body</div>
+                                <div class="panel-footer">
+                                    <a href="../analyze/gender-distribution.xql">data source</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="panel-group">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapse2">Texts by Gender of Authors Forenames</a>
+                                </h4>
+                            </div>
+                            <div id="collapse2" class="panel-collapse">
+                                <div class="panel-body" id="chart2">Panel Body</div>
+                                <div class="panel-footer">
+                                    <a href="../analyze/text-gender.xql">data source</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h4/>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="panel-group">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" href="#collapse2">Texts by Gender</a>
-                        </h4>
-                    </div>
-                    <div id="collapse2" class="panel-collapse">
-                        <div class="panel-body" id="chart2">Panel Body</div>
-                        <div class="panel-footer">Panel Footer</div>
-                    </div>
-                </div>
-            </div>
+        <div class="panel-footer">
+            <a href="show.html?document=genderize.xml&amp;directory=meta&amp;stylesheet=editions">read more</a>
         </div>
     </div>
+    
     
     <script type="text/javascript">
         
