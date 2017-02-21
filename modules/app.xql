@@ -121,32 +121,10 @@ declare function app:listPlace($node as node(), $model as map(*)) {
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName[@type="modern"]}</a>
+                <a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName}</a>
             </td>
-            <td>{for $altName in $place//tei:placeName[@type="ancient"] return <li>{$altName}</li>}</td>
             <td>{$place//tei:idno}</td>
             <td><geo>{replace($place//tei:geo/text(),',','|')}</geo></td>
-        </tr>
-};
-
-(:~
- : creates a basic coin-index derived from the  '/data/indices/listcoin.xml'
- :)
-declare function app:listCoin($node as node(), $model as map(*)) {
-    let $hitHtml := "hits.html?searchkey=coi:"
-    for $item in doc(concat($config:app-root, '/data/indices/listcoin.xml'))//tei:item
-    order by $item//tei:name[1]
-        return
-        <tr>
-            <td>
-                <a href="{concat($hitHtml,data($item/@xml:id))}">{$item/tei:name}</a>
-            </td>
-            <td>{$item//tei:name[2]}</td>
-            <td>{$item//tei:material}</td>
-            <td>{$item//tei:origPlace}</td>
-            <td>{$item//tei:date}</td>
-            <td>{$item//tei:desc[@type='obverse']}</td>
-            <td>{$item//tei:desc[@type='reverse']}</td>
         </tr>
 };
  

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of places </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This list was mostly automatically derived from some manual conftool export and processed further with a python script</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="country_AT">
+                    <placeName>Austria</placeName>
+                    <location>
+                        <geo>13.3333, 47.3333</geo>
+                    </location>
+                    <idno type="getty">1000062</idno>
+                </place>
+                <place xml:id="country_CH">
+                    <placeName>Switzerland</placeName>
+                    <location>
+                        <geo>8, 47</geo>
+                    </location>
+                    <idno type="getty">7011731</idno>
+                </place>
+                <place xml:id="country_LU">
+                    <placeName>Luxembourg</placeName>
+                    <location>
+                        <geo>6.1667, 49.75</geo>
+                    </location>
+                    <idno type="getty">7003514</idno>
+                </place>
+                <place xml:id="country_DE">
+                    <placeName>Germany</placeName>
+                    <location>
+                        <geo>10.5, 51.5</geo>
+                    </location>
+                    <idno type="getty">7000084</idno>
+                </place>
+               
+                <place xml:id="country_ES">
+                    <placeName>Spain</placeName>
+                    <location>
+                        <geo/>
+                    </location>
+                    <idno type="getty">1000062</idno>
+                </place>
+                
+                <place xml:id="country_IE">
+                    <placeName>Ireland</placeName>
+                    <location>
+                        <geo>-8, 53</geo>
+                    </location>
+                    <idno type="getty">1000078</idno>
+                </place>
+               
+                <place xml:id="country_UK">
+                    <placeName>United Kingdom</placeName>
+                    <location>
+                        <geo>-4.5, 54</geo>
+                    </location>
+                    <idno type="getty">7008591</idno>
+                </place>
+                
+                <place xml:id="country_US">
+                    <placeName>United States of America</placeName>
+                    <location>
+                        <geo>-98, 38</geo>
+                    </location>
+                    <idno type="getty">7012149</idno>
+                </place>
+                <place xml:id="country_IT">
+                    <placeName>Italy</placeName>
+                    <location>
+                        <geo>12.8333, 42.8333</geo>
+                    </location>
+                    <idno type="getty">1000080</idno>
+                </place>
+                <place xml:id="country_SI">
+                    <placeName>Slovenia</placeName>
+                    <location>
+                        <geo>15.1667, 46.25</geo>
+                    </location>
+                    <idno type="getty">7006670</idno>
+                </place>
+                
+                <place xml:id="country_FR">
+                    <placeName>France</placeName>
+                    <location>
+                        <geo>2, 46</geo>
+                    </location>
+                    <idno type="getty">1000070</idno>
+                </place>
+              
+                <place xml:id="country_HU">
+                    <placeName>Hungary</placeName>
+                    <location>
+                        <geo>20, 47</geo>
+                    </location>
+                    <idno type="getty">7006278</idno>
+                </place>
+                <place xml:id="country_RU">
+                    <placeName>Russian Federation</placeName>
+                    <location>
+                        <geo>47, 60</geo>
+                    </location>
+                    <idno type="getty">7002435</idno>
+                </place>
+                <place xml:id="country_JP">
+                    <placeName>Japan</placeName>
+                    <location>
+                        <geo>-91.3, 38.2333</geo>
+                    </location>
+                    <idno type="getty">2059221</idno>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>
