@@ -86,8 +86,8 @@
         var place_name = $(value).find('li').first().text().trim();
         var coordinates = $(value).find('geo').first().text().trim().split('|');
         //alert(coordinates);
-        var lng_value = (coordinates[0]);
-        var lat_value = (coordinates[1]);
+        var lng_value = (coordinates[1]);
+        var lat_value = (coordinates[0]);
         //alert(lng_value);
         var getty_id = $(value).find('idno').first().text().trim();
         var place = {

@@ -50,7 +50,7 @@
                 <place xml:id="country_ES">
                     <placeName>Spain</placeName>
                     <location>
-                        <geo/>
+                        <geo>-4, 40</geo>
                     </location>
                     <idno type="getty">1000062</idno>
                 </place>
@@ -74,7 +74,7 @@
                 <place xml:id="country_US">
                     <placeName>United States of America</placeName>
                     <location>
-                        <geo>-98, 38</geo>
+                        <geo>-98.5, 39.76</geo>
                     </location>
                     <idno type="getty">7012149</idno>
                 </place>
@@ -118,7 +118,7 @@
                 <place xml:id="country_JP">
                     <placeName>Japan</placeName>
                     <location>
-                        <geo>-91.3, 38.2333</geo>
+                        <geo>139.75309, 35.68536</geo>
                     </location>
                     <idno type="getty">2059221</idno>
                 </place>
