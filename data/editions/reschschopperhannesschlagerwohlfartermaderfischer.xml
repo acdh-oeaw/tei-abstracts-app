@@ -7,58 +7,58 @@
                interdisciplinary studies with the TEI Guidelines</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/52846347" key="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/249676043" key="http://viaf.org/viaf/249676043">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" key="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                     <persName key="genIDf4c7c1680fd0a3bfe62fd1afb869c00b">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eva</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eva</forename>
                         <surname>Wohlfarter</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/43734505" key="http://viaf.org/viaf/43734505">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Anna</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Anna</forename>
                         <surname>Mader</surname>
                     </persName>
                     <persName key="genID696defac6a310023c5b5ba3bac7a5fc2">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Nora</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Nora</forename>
                         <surname>Fischer</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -84,27 +84,27 @@
                      interdisciplinary studies with the TEI Guidelines</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/249676043">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                                 <surname>Schopper</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eva</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eva</forename>
                                 <surname>Wohlfarter</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/43734505">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Anna</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Anna</forename>
                                 <surname>Mader</surname>
                             </persName>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Nora</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Nora</forename>
                                 <surname>Fischer</surname>
                             </persName>
                         </author>
@@ -112,26 +112,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -224,13 +224,13 @@
                         <editor>
                             <persName>
                                 <surname>Resch</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                             </persName>
                         </editor>
                         <editor>
                             <persName>
                                 <surname>Czeitschner</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Ulrike</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Ulrike</forename>
                             </persName>
                         </editor>
                         <title>ABaC:us – Austrian Baroque Corpus</title>
@@ -247,13 +247,13 @@
                         <author>
                             <persName>
                                 <surname>Burger</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Harald</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Harald</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Luginbühl</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Martin</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Martin</forename>
                             </persName>
                         </author>
                         <title>Mediensprache</title>
@@ -269,13 +269,13 @@
                         <author>
                             <persName>
                                 <surname>Reisner</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Andrea</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Andrea</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Schiemer</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Alfred</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Alfred</forename>
                             </persName>
                         </author>
                         <title>Das Wien(n)erische Diarium und die Entstehung der periodischen
@@ -295,13 +295,13 @@
                         <author>
                             <persName>
                                 <surname>Resch</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Czeitschner</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Ulrike</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Ulrike</forename>
                             </persName>
                         </author>
                         <title>Morphosyntaktische Annotation historischer deutscher Texte: Das Austrian
@@ -321,7 +321,7 @@
                         <author>
                             <persName>
                                 <surname>Schröder</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thomas</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thomas</forename>
                             </persName>
                         </author>
                         <title>Die ersten Zeitungen</title>
@@ -336,7 +336,7 @@
                         <author>
                             <persName>
                                 <surname>Seitschek</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Stefan</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Stefan</forename>
                             </persName>
                         </author>
                         <title>Religiöse Praxis am Wiener Hof: Das Beispiel der medialen

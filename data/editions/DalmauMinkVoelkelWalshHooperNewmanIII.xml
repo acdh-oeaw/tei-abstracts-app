@@ -6,62 +6,62 @@
                 <title>The Authoritative Bibliography for the Chymistry of Isaac Newton</title>
                 <author>
                     <persName key="genID7dfe3e7f412051c1744c4ecf98f614be">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Michelle</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Michelle</forename>
                         <surname>Dalmau</surname>
                     </persName>
                     <persName key="genID4d28a5d96f21b2abf42eb74d86d23985">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Meridith</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Meridith</forename>
                         <surname>Beck Mink</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/222855969" key="http://viaf.org/viaf/222855969">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">James</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">James</forename>
                         <surname>Voelkel</surname>
                     </persName>
                     <persName key="genID103cf06f10937d6c53c42e11c0b0cca0">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">John A.</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">John A.</forename>
                         <surname>Walsh</surname>
                     </persName>
                     <persName key="genID630a8bce3920f3e688b7df3f516a66ff">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Wallace</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Wallace</forename>
                         <surname>Hooper</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/56700335" key="http://viaf.org/viaf/56700335">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">William R.</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">William R.</forename>
                         <surname>Newman</surname>
                     </persName>
                     <persName key="genID88e0cde433405b56bf1c47b15a065322">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Archie</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Archie</forename>
                         <surname>Fields III</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -86,31 +86,31 @@
                         <title>The Authoritative Bibliography for the Chymistry of Isaac Newton</title>
                         <author>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Michelle</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Michelle</forename>
                                 <surname>Dalmau</surname>
                             </persName>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Meridith</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Meridith</forename>
                                 <surname>Beck Mink</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/222855969">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">James</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">James</forename>
                                 <surname>Voelkel</surname>
                             </persName>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">John A.</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">John A.</forename>
                                 <surname>Walsh</surname>
                             </persName>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Wallace</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Wallace</forename>
                                 <surname>Hooper</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/56700335">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">William R.</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">William R.</forename>
                                 <surname>Newman</surname>
                             </persName>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Archie</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Archie</forename>
                                 <surname>Fields III</surname>
                             </persName>
                         </author>
@@ -118,26 +118,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>

@@ -6,39 +6,39 @@
                 <title>Writing under the Magnifying Glass. Encoding the Text in Progress</title>
                 <author>
                     <persName key="genIDc0b13dd39c11ccb17a1545fc3945e219">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</forename>
                         <surname>Armaselu</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -61,7 +61,7 @@
                         <title>Writing under the Magnifying Glass. Encoding the Text in Progress</title>
                         <author>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</forename>
                                 <surname>Armaselu</surname>
                             </persName>
                         </author>
@@ -69,26 +69,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -203,7 +203,7 @@
                         <author>
                             <surname type="current">Armaselu</surname>
                             <surname type="former">Vasilescu</surname>
-                            <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</tei:forename>
+                            <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</forename>
                         </author>
                         <title>Le livre sous la loupe: Nouvelles formes d’écriture électronique</title>
                         <ref target="https://papyrus.bib.umontreal.ca/xmlui/handle/1866/3964">Papyrus.
@@ -220,7 +220,7 @@
                         <author>
                             <persName>
                                 <surname>Armaselu</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</forename>
                             </persName>
                         </author>
                         <title>The Layered Text. From Textual Zoom, Text Network Analysis and Text
@@ -230,7 +230,7 @@
                         <editor>
                             <persName>
                                 <surname>Bornet</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Cyril</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Cyril</forename>
                             </persName>
                         </editor>
                         <title>Digital Humanities Conference, Lausanne, Switzerland, 7-12 July 2014. Book
@@ -248,7 +248,7 @@
                         <author>
                             <persName>
                                 <surname>Barthes</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Roland</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Roland</forename>
                             </persName>
                         </author>
                         <title>Camera Lucida. Reflections on Photography. Translated by Richard
@@ -264,25 +264,25 @@
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Lou</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Lou</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Jannidis</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fotis</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fotis</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Pierazzo</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Rehbein</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Malte</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Malte</forename>
                             </persName>
                         </author>
                         <title>An Encoding Model for Genetic Editions</title>
@@ -300,7 +300,7 @@
                         <author>
                             <persName>
                                 <surname>Iser</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Wolfgang</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Wolfgang</forename>
                             </persName>
                         </author>
                         <title>The Implied Reader: Patterns of Communication in Prose Fiction from Bunyan
@@ -317,7 +317,7 @@
                         <author>
                             <persName>
                                 <surname>Marcus</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Solomon</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Solomon</forename>
                             </persName>
                         </author>
                         <title>Poetica matematică (Mathematical poetics)</title>
@@ -333,7 +333,7 @@
                         <author>
                             <persName>
                                 <surname>Shannon</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claude E.</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claude E.</forename>
                             </persName>
                         </author>
                         <title>A mathematical theory of communication</title>

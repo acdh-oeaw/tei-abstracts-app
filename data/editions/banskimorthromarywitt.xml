@@ -6,50 +6,50 @@
                 <title>Lexical information in the TEI: modeling and markup</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/295251101" key="http://viaf.org/viaf/295251101">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Piotr</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Piotr</forename>
                         <surname>Bański</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/311166103" key="http://viaf.org/viaf/311166103">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Karlheinz</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Karlheinz</forename>
                         <surname>Mörth</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/282014122" key="http://viaf.org/viaf/282014122">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</forename>
                         <surname>Romary</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/36375219" key="http://viaf.org/viaf/36375219">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Andreas</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Andreas</forename>
                         <surname>Witt</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claudia</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Tanja</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Daniel</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -74,19 +74,19 @@
                         <title>Lexical information in the TEI: modeling and markup</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/295251101">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Piotr</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Piotr</forename>
                                 <surname>Bański</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/311166103">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Karlheinz</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Karlheinz</forename>
                                 <surname>Mörth</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/282014122">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Laurent</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Laurent</forename>
                                 <surname>Romary</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/36375219">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Andreas</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Andreas</forename>
                                 <surname>Witt</surname>
                             </persName>
                         </author>
@@ -94,26 +94,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Tanja</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sandra</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>

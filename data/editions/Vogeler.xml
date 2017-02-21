@@ -6,39 +6,39 @@
                 <title>Encoding Text about Things</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/58911587" key="http://viaf.org/viaf/58911587">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Georg</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Georg</forename>
                         <surname>Vogeler</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -61,7 +61,7 @@
                         <title>Encoding Text about Things</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/58911587">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Georg</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Georg</forename>
                                 <surname>Vogeler</surname>
                             </persName>
                         </author>
@@ -69,26 +69,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -179,13 +179,13 @@
                         <author>
                             <persName>
                                 <surname>Langefors</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Börje</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Börje</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Dahlbom</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Bo</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Bo</forename>
                             </persName>
                         </author>
                         <title>Essays on Infology. Summing up and planning for the future</title>
@@ -201,7 +201,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>Data Bases vs. Critical Editions</title>
@@ -220,7 +220,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>Datenbasen als Editionsformen</title>
@@ -229,13 +229,13 @@
                         <editor>
                             <persName>
                                 <surname>Schwob</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Anton</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Anton</forename>
                             </persName>
                         </editor>
                         <editor>
                             <persName>
                                 <surname>Kranich-Hofbauer</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Karin</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Karin</forename>
                             </persName>
                         </editor>
                         <title>Historische Edition und Computer</title>
@@ -251,7 +251,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>Gibt es eine fachspezifische Datenverarbeitung in den historischen
@@ -261,14 +261,14 @@
                         <editor>
                             <persName>
                                 <surname>Kaufhold</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Karl
-                        Heinrich</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Karl
+                        Heinrich</forename>
                             </persName>
                         </editor>
                         <editor>
                             <persName>
                                 <surname>Schneider</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jürgen</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jürgen</forename>
                             </persName>
                         </editor>
                         <title>Geschichtswissenschaft und elektronische Datenverarbeitung</title>
@@ -288,7 +288,7 @@
                         <author>
                             <persName>
                                 <surname>Thaller</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Manfred</forename>
                             </persName>
                         </author>
                         <title>What is a text within the Digital Humanities, or some of them, at

@@ -6,39 +6,39 @@
                 <title>We are TEI. You will be assimilated!</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/227725412" key="http://viaf.org/viaf/227725412">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fabio</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fabio</forename>
                         <surname>Ciotti</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</tei:forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -61,7 +61,7 @@
                         <title>We are TEI. You will be assimilated!</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/227725412">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fabio</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fabio</forename>
                                 <surname>Ciotti</surname>
                             </persName>
                         </author>
@@ -69,26 +69,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -213,7 +213,7 @@
                         <author>
                             <persName>
                                 <surname>Bański</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Piotr</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Piotr</forename>
                             </persName>
                         </author>
                         <title>Why TEI standoff annotation doesn’t quite work: and why you might want to
@@ -233,13 +233,13 @@
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Lou</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Lou</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Popham</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Michael</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Michael</forename>
                             </persName>
                         </author>
                         <title>Putting Our Headers Together: A Report on the TEI Header Meeting 12
@@ -259,13 +259,13 @@
                         <author>
                             <persName>
                                 <surname>Ciotti</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fabio</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fabio</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Tomasi</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Francesca</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Francesca</forename>
                             </persName>
                         </author>
                         <title>Formal ontologies, Linked Data and TEI semantics</title>
@@ -283,7 +283,7 @@
                         <author>
                             <persName>
                                 <surname>Eide</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Øyvind</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Øyvind</forename>
                             </persName>
                         </author>
                         <title>Ontologies, Data Modeling, and TEI</title>
@@ -313,13 +313,13 @@
                         <author>
                             <persName>
                                 <surname>Ore</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Christian-Emil</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Christian-Emil</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Eide</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Øyvind</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Øyvind</forename>
                             </persName>
                         </author>
                         <title>TEI and cultural heritage ontologies: Exchange of information?</title>
@@ -338,7 +338,7 @@
                         <author>
                             <persName>
                                 <surname>Schmidt</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Desmond</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Desmond</forename>
                             </persName>
                         </author>
                         <title>Towards an Interoperable Digital Scholarly Edition</title>
@@ -357,14 +357,14 @@
                         <author>
                             <persName>
                                 <surname>Sperberg-McQueen</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">C.
-                        M.</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">C.
+                        M.</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Burnard</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Lou</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Lou</forename>
                             </persName>
                         </author>
                         <title>The design of the TEI encoding scheme</title>
@@ -382,13 +382,13 @@
                         <author>
                             <persName>
                                 <surname>Wedervang-Jensen</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eva</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eva</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Driscoll</surname>
-                                <tei:forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Matthew</tei:forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Matthew</forename>
                             </persName>
                         </author>
                         <title>Report on XML Mark-up of Biographical and Prosopographical data</title>
