@@ -157,7 +157,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
-                            <tei:forename type="no-match">Jack Thompson</tei:forename>
+                            <tei:forename type="male">Jack Thompson</tei:forename>
                             <tei:surname>Bowers</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -175,7 +175,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genIDcc75259c3ec8f76ca6db5a5ec6eecca0">
-                            <tei:forename type="no-match">William Michael</tei:forename>
+                            <tei:forename type="male">William Michael</tei:forename>
                             <tei:surname>Broughton</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -235,7 +235,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID103cf06f10937d6c53c42e11c0b0cca0">
-                            <tei:forename type="no-match">John A.</tei:forename>
+                            <tei:forename type="male">John A.</tei:forename>
                             <tei:surname>Walsh</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -247,7 +247,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="http://viaf.org/viaf/56700335">
-                            <tei:forename type="no-match">William R.</tei:forename>
+                            <tei:forename type="male">William R.</tei:forename>
                             <tei:surname>Newman</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -307,7 +307,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID33303f3bd5db03e1042d500a9594c12f">
-                            <tei:forename type="no-match">Tobias J.</tei:forename>
+                            <tei:forename type="male">Tobias J.</tei:forename>
                             <tei:surname>Jocham</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -319,7 +319,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genIDbc7d3c2b2f1b8bfd8a2058076f52af44">
-                            <tei:forename type="no-match">Stefan E.</tei:forename>
+                            <tei:forename type="male">Stefan E.</tei:forename>
                             <tei:surname>Funk</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -343,19 +343,19 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genIDe3382c4908c71a57dafaa1d593b00deb">
-                            <tei:forename type="no-match">Ubbo</tei:forename>
+                            <tei:forename type="male">Ubbo</tei:forename>
                             <tei:surname>Veentjer</tei:surname>
                         </tei:persName>
                     </tei:person>
                     <tei:person>
                         <tei:persName key="http://viaf.org/viaf/59147905242279092527">
-                            <tei:forename type="no-match">Nathan P.</tei:forename>
+                            <tei:forename type="male">Nathan P.</tei:forename>
                             <tei:surname>Gibson</tei:surname>
                         </tei:persName>
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID04a7fa2e6546250906da1b20e28ef14f">
-                            <tei:forename type="no-match">David A.</tei:forename>
+                            <tei:forename type="male">David A.</tei:forename>
                             <tei:surname>Michelson</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -397,7 +397,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID85d8ee0698dca49483e2944a50ae9271">
-                            <tei:forename type="no-match">Clara I.</tei:forename>
+                            <tei:forename type="female">Clara I.</tei:forename>
                             <tei:surname>Martínez</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -415,7 +415,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genIDa828d27d13cfbcc6bb586ed3acdbfa50">
-                            <tei:forename type="no-match">Agustín C.</tei:forename>
+                            <tei:forename type="male">Agustín C.</tei:forename>
                             <tei:surname>Caminero</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -451,7 +451,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="http://viaf.org/viaf/312638971">
-                            <tei:forename type="no-match">Matthew Lawrence</tei:forename>
+                            <tei:forename type="male">Matthew Lawrence</tei:forename>
                             <tei:surname>Holford</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -523,7 +523,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID6fee57602759d898c9458be3ff2af12f">
-                            <tei:forename type="no-match">Eugene W.</tei:forename>
+                            <tei:forename type="male">Eugene W.</tei:forename>
                             <tei:surname>Lyman II</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -565,7 +565,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID4bd175502088a1edc63f40823adbc2ba">
-                            <tei:forename type="no-match">A. Charles</tei:forename>
+                            <tei:forename type="male">A. Charles</tei:forename>
                             <tei:surname>Muller</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -601,7 +601,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="http://viaf.org/viaf/73669237">
-                            <tei:forename type="no-match">Brian L.</tei:forename>
+                            <tei:forename type="male">Brian L.</tei:forename>
                             <tei:surname>Pytlik Zillig</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -673,7 +673,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID5b53c4f161024460bd33dbeac96f62d6">
-                            <tei:forename type="no-match">Daniela Monika</tei:forename>
+                            <tei:forename type="female">Daniela Monika</tei:forename>
                             <tei:surname>Schulz</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -733,7 +733,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="http://viaf.org/viaf/200939827">
-                            <tei:forename type="no-match">Toshinori</tei:forename>
+                            <tei:forename type="male">Toshinori</tei:forename>
                             <tei:surname>Uetani</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -775,7 +775,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID9fe0ee1d81e02fcc579be00cd7d90469">
-                            <tei:forename type="no-match">Joseph C.</tei:forename>
+                            <tei:forename type="male">Joseph C.</tei:forename>
                             <tei:surname>Wicentowski</tei:surname>
                         </tei:persName>
                     </tei:person>
@@ -799,7 +799,7 @@
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID55c1be7621e04766d94a3fa709a78d67">
-                            <tei:forename type="no-match">Mary Erica</tei:forename>
+                            <tei:forename type="female">Mary Erica</tei:forename>
                             <tei:surname>Zimmer</tei:surname>
                         </tei:persName>
                     </tei:person>
