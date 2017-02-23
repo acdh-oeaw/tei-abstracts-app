@@ -60,8 +60,7 @@
                </list>
                The only aspect complicating this process was the 1000-request-per-day-for-free-limit set up by <ref target="https://genderize.io/">genderizo.io</ref>, which forced us to split this script in parts.
             </p>
-            <p>As the result of the comparison of our contributor name list to <ref
-                  target="https://genderize.io/">genderize.io</ref> did still not leave us with a
+            <p>As the result of the comparison of our contributor name list to <ref target="https://genderize.io/">genderize.io</ref> did still not leave us with a
                fully meaningful result, we manually compared the still ungendered names to <ref target="http://genderchecker.com/">genderchecker.com</ref>. This website sources its data from the <q>2001 and 2011 UK Census Data, together with multiple online sources and contributions from our 2m website visitors</q> and assigns gender accordingly. What was particularly appealing about this database was that it also considers the possibility of unisex names: <q>If we see just one instance of a name appearing as both male and female, we categorise it as unisex.</q> </p>
                <p>This manual comparison of the last unidentified forenames left us with statistically relevant results and three ungendered names: Kiyonori, Sünna, and Tetsuei.</p>
          </div>

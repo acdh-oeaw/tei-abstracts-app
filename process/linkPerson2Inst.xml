@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
     schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -19,87 +20,87 @@
         <listOrg>
             <item>
                 <surname>Amminger</surname>
-                <org> Salzburg Mozarteum Foundation</org>
+                <org>Salzburg Mozarteum Foundation</org>
             </item>
             <item>
                 <surname>Andorfer</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Andrews</surname>
-                <org> Department of History</org>
+                <org>Department of History</org>
             </item>
             <item>
                 <surname>Armaselu</surname>
-                <org> University of Luxembourg</org>
+                <org>University of Luxembourg</org>
             </item>
             <item>
                 <surname>Bański</surname>
-                <org> Institute for the German Language</org>
+                <org>Institute for the German Language</org>
             </item>
             <item>
                 <surname>Beck Mink</surname>
-                <org> Council of Library and Information ­Resources</org>
+                <org>Council of Library and Information ­Resources</org>
             </item>
             <item>
                 <surname>Beißwenger</surname>
-                <org> Department of German Studies</org>
+                <org>Department of German Studies</org>
             </item>
             <item>
                 <surname>Bermudez Sabel</surname>
-                <org> Departamento de Filoloxía Galega</org>
+                <org>Departamento de Filoloxía Galega</org>
             </item>
             <item>
                 <surname>Bia</surname>
-                <org> Departamento de Estadística</org>
+                <org>Departamento de Estadística</org>
             </item>
             <item>
                 <surname>Bleier</surname>
-                <org> Center for Information Modelling – Austrian Centre for Digital Humanities</org>
+                <org>Center for Information Modelling – Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Boenig</surname>
-                <org> Deutsches Textarchiv</org>
+                <org>Deutsches Textarchiv</org>
             </item>
             <item>
                 <surname>Börner</surname>
-                <org> Department of German Studies</org>
+                <org>Department of German Studies</org>
             </item>
             <item>
                 <surname>Bowers</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Breen</surname>
-                <org> Maynooth University</org>
+                <org>Maynooth University</org>
             </item>
             <item>
                 <surname>Breuil</surname>
-                <org> Centre d’Etudes Supérieures de la Renaissance</org>
+                <org>Centre d’Etudes Supérieures de la Renaissance</org>
             </item>
             <item>
                 <surname>Broughton</surname>
-                <org> Cologne Center for eHumanities</org>
+                <org>Cologne Center for eHumanities</org>
             </item>
             <item>
                 <surname>Cano</surname>
-                <org> Universidad Nacional de Educación a Distancia</org>
+                <org>Universidad Nacional de Educación a Distancia</org>
             </item>
             <item>
                 <surname>Caminero</surname>
-                <org> Universidad Nacional de Educación a ­Distancia</org>
+                <org>Universidad Nacional de Educación a ­Distancia</org>
             </item>
             <item>
                 <surname>Cayless</surname>
-                <org> Duke University Libraries</org>
+                <org>Duke University Libraries</org>
             </item>
             <item>
                 <surname>Chartrand</surname>
-                <org> Open Sky Solutions</org>
+                <org>Open Sky Solutions</org>
             </item>
             <item>
                 <surname>Ciotti</surname>
-                <org> Dipartimento di Studi Filologici</org>
+                <org>Dipartimento di Studi Filologici</org>
             </item>
             <item>
                 <surname> 	 
@@ -108,63 +109,63 @@
             </item>
             <item>
                 <surname>Cummings</surname>
-                <org> IT Services</org>
+                <org>IT Services</org>
             </item>
             <item>
                 <surname>Czmiel</surname>
-                <org> TELOTA</org>
+                <org>TELOTA</org>
             </item>
             <item>
                 <surname>Dalmau</surname>
-                <org> Indiana University Libraries</org>
+                <org>Indiana University Libraries</org>
             </item>
             <item>
                 <surname>De Tienne</surname>
-                <org> School of Liberal Arts</org>
+                <org>School of Liberal Arts</org>
             </item>
             <item>
                 <surname>Declerck</surname>
-                <org> German Research Center for Artificial ­Intelligence</org>
+                <org>German Research Center for Artificial ­Intelligence</org>
             </item>
             <item>
                 <surname>Del Rio Riande</surname>
-                <org> Consejo Nacional de Investigaciones Científicas y Técnicas</org>
+                <org>Consejo Nacional de Investigaciones Científicas y Técnicas</org>
             </item>
             <item>
                 <surname>Duboc</surname>
-                <org> Centre d’Etudes Supérieures de la Renaissance</org>
+                <org>Centre d’Etudes Supérieures de la Renaissance</org>
             </item>
             <item>
                 <surname>Dumont</surname>
-                <org> TELOTA</org>
+                <org>TELOTA</org>
             </item>
             <item>
                 <surname>Ehrhardt</surname>
-                <org> Department of German Studies</org>
+                <org>Department of German Studies</org>
             </item>
             <item>
                 <surname>Erjavec</surname>
-                <org> Department of Knowledge Technologies</org>
+                <org>Department of Knowledge Technologies</org>
             </item>
             <item>
                 <surname>Faghihi</surname>
-                <org> Near and Middle Eastern Department</org>
+                <org>Near and Middle Eastern Department</org>
             </item>
             <item>
                 <surname>Fields III</surname>
-                <org> Department of History and Philosophy of Science and Medicine</org>
+                <org>Department of History and Philosophy of Science and Medicine</org>
             </item>
             <item>
                 <surname>Fischer</surname>
-                <org> Institute for History of Art and Musicology</org>
+                <org>Institute for History of Art and Musicology</org>
             </item>
             <item>
                 <surname>Franzini</surname>
-                <org> Göttingen Centre for Digital Humanities</org>
+                <org>Göttingen Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Funk</surname>
-                <org> Göttingen State and University Library</org>
+                <org>Göttingen State and University Library</org>
             </item>
             <item>
                 <surname>	
@@ -173,11 +174,11 @@
             </item>
             <item>
                 <surname>Gaiffe</surname>
-                <org> Analyse et Traitement Informatique de la Langue Française</org>
+                <org>Analyse et Traitement Informatique de la Langue Française</org>
             </item>
             <item>
                 <surname>Geißler</surname>
-                <org> Cologne Center for eHumanities</org>
+                <org>Cologne Center for eHumanities</org>
             </item>
             <item>
                 <surname> 
@@ -186,55 +187,55 @@
             </item>
             <item>
                 <surname>Gibson</surname>
-                <org> School of Divinity</org>
+                <org>School of Divinity</org>
             </item>
             <item>
                 <surname>González-Blanco</surname>
-                <org> Departamento de Literatura Española y Teoría de la Literatura / Laboratorio de Innovación en Humanidades Digitales</org>
+                <org>Departamento de Literatura Española y Teoría de la Literatura / Laboratorio de Innovación en Humanidades Digitales</org>
             </item>
             <item>
                 <surname>Haaf</surname>
-                <org> Deutsches Textarchiv</org>
+                <org>Deutsches Textarchiv</org>
             </item>
             <item>
                 <surname>Hadden</surname>
-                <org> Maynooth University</org>
+                <org>Maynooth University</org>
             </item>
             <item>
                 <surname>Hannesschläger</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Hebenstreit</surname>
-                <org> Department of German Studies</org>
+                <org>Department of German Studies</org>
             </item>
             <item>
                 <surname>Herberth</surname>
-                <org> Department of German Studies</org>
+                <org>Department of German Studies</org>
             </item>
             <item>
                 <surname>Hernández</surname>
-                <org> Escuela Técnica Superior de Ingeniería ­Informática</org>
+                <org>Escuela Técnica Superior de Ingeniería ­Informática</org>
             </item>
             <item>
                 <surname>Herold</surname>
-                <org> CLARIN-D / Kyoto</org>
+                <org>CLARIN-D / Kyoto</org>
             </item>
             <item>
                 <surname>Holford</surname>
-                <org> Bodleian Library</org>
+                <org>Bodleian Library</org>
             </item>
             <item>
                 <surname>Hooper</surname>
-                <org> Department of the History and Philosophy of ­Science</org>
+                <org>Department of the History and Philosophy of ­Science</org>
             </item>
             <item>
                 <surname>Jocham</surname>
-                <org> Histoire et Littérature</org>
+                <org>Histoire et Littérature</org>
             </item>
             <item>
                 <surname>Jones</surname>
-                <org> Cambridge University Library</org>
+                <org>Cambridge University Library</org>
             </item>
             <item>
                 <surname>	
@@ -243,7 +244,7 @@
             </item>
             <item>
                 <surname>Kampkaspar</surname>
-                <org> Herzog August Bibliothek Wolfenbüttel</org>
+                <org>Herzog August Bibliothek Wolfenbüttel</org>
             </item>
             <item>
                 <surname>  
@@ -252,107 +253,107 @@
             </item>
             <item>
                 <surname>King</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Klugseder</surname>
-                <org> Institute for History of Art and Musicology</org>
+                <org>Institute for History of Art and Musicology</org>
             </item>
             <item>
                 <surname>Kodolányi</surname>
-                <org> Petőfi Literary Museum</org>
+                <org>Petőfi Literary Museum</org>
             </item>
             <item>
                 <surname>Kollatz</surname>
-                <org> Salomon Ludwig Steinheim-Institut für deutsch-­jüdische Geschichte</org>
+                <org>Salomon Ludwig Steinheim-Institut für deutsch-­jüdische Geschichte</org>
             </item>
             <item>
                 <surname>Kovalenko</surname>
-                <org> Institute for Lingustic Studies</org>
+                <org>Institute for Lingustic Studies</org>
             </item>
             <item>
                 <surname>Kraft</surname>
-                <org> Berlin-Brandenburg Academy of Sciences and ­Humanities</org>
+                <org>Berlin-Brandenburg Academy of Sciences and ­Humanities</org>
             </item>
             <item>
                 <surname>Lembi</surname>
-                <org> Department of Judaic Studies</org>
+                <org>Department of Judaic Studies</org>
             </item>
             <item>
                 <surname>Looschen</surname>
-                <org> Institute of Slavic Studies</org>
+                <org>Institute of Slavic Studies</org>
             </item>
             <item>
                 <surname>Lopez</surname>
-                <org> Science Miner</org>
+                <org>Science Miner</org>
             </item>
             <item>
                 <surname>Lüngen</surname>
-                <org> Institute for the German Language</org>
+                <org>Institute for the German Language</org>
             </item>
             <item>
                 <surname>Lyman II</surname>
-                <org> n / a</org>
+                <org>n / a</org>
             </item>
             <item>
                 <surname>Mader</surname>
-                <org> Institute for History of Art and Musicology</org>
+                <org>Institute for History of Art and Musicology</org>
             </item>
             <item>
                 <surname>Martínez</surname>
-                <org> Departamento de Literatura Española y Teoría de la Literatura</org>
+                <org>Departamento de Literatura Española y Teoría de la Literatura</org>
             </item>
             <item>
                 <surname>McAllister</surname>
-                <org> Institute for the Cultural and Intellectual ­History of Asia</org>
+                <org>Institute for the Cultural and Intellectual ­History of Asia</org>
             </item>
             <item>
                 <surname>Meier</surname>
-                <org> eXist solutions</org>
+                <org>eXist solutions</org>
             </item>
             <item>
                 <surname>Meoni</surname>
-                <org> Analyse et Traitement Informatique de la Langue Française</org>
+                <org>Analyse et Traitement Informatique de la Langue Française</org>
             </item>
             <item>
                 <surname>Michelson</surname>
-                <org> Department of Classical Studies</org>
+                <org>Department of Classical Studies</org>
             </item>
             <item>
                 <surname>Mörth</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Morgenstern</surname>
-                <org> Salzburg Mozarteum Foundation</org>
+                <org>Salzburg Mozarteum Foundation</org>
             </item>
             <item>
                 <surname>Mozhaev</surname>
-                <org> Higher School of Economics Moscow</org>
+                <org>Higher School of Economics Moscow</org>
             </item>
             <item>
                 <surname>Mueller</surname>
-                <org> Department of English</org>
+                <org>Department of English</org>
             </item>
             <item>
                 <surname>Muller</surname>
-                <org> Center for Evolving Humanities</org>
+                <org>Center for Evolving Humanities</org>
             </item>
             <item>
                 <surname>Mylonas</surname>
-                <org> University Library Center for Digital Scholarship</org>
+                <org>University Library Center for Digital Scholarship</org>
             </item>
             <item>
                 <surname>Nagasaki</surname>
-                <org> International Institute for Digital Humanities</org>
+                <org>International Institute for Digital Humanities</org>
             </item>
             <item>
                 <surname>Newman</surname>
-                <org> Department of History and Philosophy of Science and Medicine</org>
+                <org>Department of History and Philosophy of Science and Medicine</org>
             </item>
             <item>
                 <surname>Ogrin</surname>
-                <org> Institute of Slovenian Literature and Literary ­Studies</org>
+                <org>Institute of Slovenian Literature and Literary ­Studies</org>
             </item>
             <item>
                 <surname>	 
@@ -361,71 +362,71 @@
             </item>
             <item>
                 <surname>Palmer</surname>
-                <org> Emory Center for Digital Scholarship</org>
+                <org>Emory Center for Digital Scholarship</org>
             </item>
             <item>
                 <surname>Pastor</surname>
-                <org> Departamento de Sistemas de Comunicación y ­Control</org>
+                <org>Departamento de Sistemas de Comunicación y ­Control</org>
             </item>
             <item>
                 <surname>Perathoner</surname>
-                <org> Cologne Center for eHumanities</org>
+                <org>Cologne Center for eHumanities</org>
             </item>
             <item>
                 <surname>Petrus</surname>
-                <org> Institut für Bibliotheks- und Informationswissenschaft</org>
+                <org>Institut für Bibliotheks- und Informationswissenschaft</org>
             </item>
             <item>
                 <surname>Pinche</surname>
-                <org> Centre Interuniversitaire d’Histoire et d’Archéologie Médiévales</org>
+                <org>Centre Interuniversitaire d’Histoire et d’Archéologie Médiévales</org>
             </item>
             <item>
                 <surname>Porte</surname>
-                <org> Centre d'Etudes Supérieures de la Renaissance</org>
+                <org>Centre d'Etudes Supérieures de la Renaissance</org>
             </item>
             <item>
                 <surname>Prag</surname>
-                <org> Classics Faculty</org>
+                <org>Classics Faculty</org>
             </item>
             <item>
                 <surname>Pytlik Zillig</surname>
-                <org> Centre for Digital Research in the Humanities</org>
+                <org>Centre for Digital Research in the Humanities</org>
             </item>
             <item>
                 <surname>Resch</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Robles-Gómez</surname>
-                <org> Departamento de Sistemas de Comunicación y Control</org>
+                <org>Departamento de Sistemas de Comunicación y Control</org>
             </item>
             <item>
                 <surname>Rogers</surname>
-                <org> Bodleian Library</org>
+                <org>Bodleian Library</org>
             </item>
             <item>
                 <surname>Romary</surname>
-                <org> Institut national de recherche dédié au numérique</org>
+                <org>Institut national de recherche dédié au numérique</org>
             </item>
             <item>
                 <surname>Ros</surname>
-                <org> Escuela Técnica Superior de Ingenería Informatica</org>
+                <org>Escuela Técnica Superior de Ingenería Informatica</org>
             </item>
             <item>
                 <surname>Rosenblum</surname>
-                <org> University of Kansas Libraries</org>
+                <org>University of Kansas Libraries</org>
             </item>
             <item>
                 <surname>Satlow</surname>
-                <org> Department of Judaic Studies</org>
+                <org>Department of Judaic Studies</org>
             </item>
             <item>
                 <surname>Schmid</surname>
-                <org> Fachbereich Chemie</org>
+                <org>Fachbereich Chemie</org>
             </item>
             <item>
                 <surname>Schmidt</surname>
-                <org> Institute for the German Language</org>
+                <org>Institute for the German Language</org>
             </item>
             <item>
                 <surname>	
@@ -434,27 +435,27 @@
             </item>
             <item>
                 <surname>Scholger</surname>
-                <org> Center for Information Modelling – Austrian Centre for Digital Humanities</org>
+                <org>Center for Information Modelling – Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Schopper</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Schulz</surname>
-                <org> Historisches Institut</org>
+                <org>Historisches Institut</org>
             </item>
             <item>
                 <surname>Seltmann</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Shimoda</surname>
-                <org> Center for Evolving Humanities</org>
+                <org>Center for Evolving Humanities</org>
             </item>
             <item>
                 <surname>Sievers</surname>
-                <org> Trier Center for Digital Humanities</org>
+                <org>Trier Center for Digital Humanities</org>
             </item>
             <item>
                 <surname>	
@@ -463,11 +464,11 @@
             </item>
             <item>
                 <surname>Skorinkin</surname>
-                <org> Higher School of Economics Moscow</org>
+                <org>Higher School of Economics Moscow</org>
             </item>
             <item>
                 <surname>Söring</surname>
-                <org> Göttingen State and University Library</org>
+                <org>Göttingen State and University Library</org>
             </item>
             <item>
                 <surname> 
@@ -476,7 +477,7 @@
             </item>
             <item>
                 <surname>Stadler</surname>
-                <org> Musikwissenschaftliches Seminar Detmold / Paderborn</org>
+                <org>Musikwissenschaftliches Seminar Detmold / Paderborn</org>
             </item>
             <item>
                 <surname>	 
@@ -485,99 +486,99 @@
             </item>
             <item>
                 <surname>Steiner</surname>
-                <org> Institute of Economics</org>
+                <org>Institute of Economics</org>
             </item>
             <item>
                 <surname>Storrer</surname>
-                <org> Department of German Studies</org>
+                <org>Department of German Studies</org>
             </item>
             <item>
                 <surname>Tezarek</surname>
-                <org> Literary Archives</org>
+                <org>Literary Archives</org>
             </item>
             <item>
                 <surname>Thomas</surname>
-                <org> Deutsches Textarchiv</org>
+                <org>Deutsches Textarchiv</org>
             </item>
             <item>
                 <surname>Tsuda</surname>
-                <org> National Research Institute for Cultural Properties</org>
+                <org>National Research Institute for Cultural Properties</org>
             </item>
             <item>
                 <surname>Turska</surname>
-                <org> IT-Services</org>
+                <org>IT-Services</org>
             </item>
             <item>
                 <surname>Uetani</surname>
-                <org> Centre d’Études Supérieures de la Renaissance</org>
+                <org>Centre d’Études Supérieures de la Renaissance</org>
             </item>
             <item>
                 <surname>Urizar</surname>
-                <org> Universidad Nacional de Educación a Distancia</org>
+                <org>Universidad Nacional de Educación a Distancia</org>
             </item>
             <item>
                 <surname>Veentjer</surname>
-                <org> Göttingen State and University Library</org>
+                <org>Göttingen State and University Library</org>
             </item>
             <item>
                 <surname>Viglianti</surname>
-                <org> Maryland Institute for Technology in the ­Humanities</org>
+                <org>Maryland Institute for Technology in the ­Humanities</org>
             </item>
             <item>
                 <surname>Vignale</surname>
-                <org> Centre de Recherches Historiques de l’Ouest – ­Le Mans</org>
+                <org>Centre de Recherches Historiques de l’Ouest – ­Le Mans</org>
             </item>
             <item>
                 <surname>Voelkel</surname>
-                <org> Beckman Center for the History of Chemistry</org>
+                <org>Beckman Center for the History of Chemistry</org>
             </item>
             <item>
                 <surname>Vogeler</surname>
-                <org> Center for Information Modelling – Austrian Centre for Digital Humanities</org>
+                <org>Center for Information Modelling – Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Walsh</surname>
-                <org> School of Informatics and Computing</org>
+                <org>School of Informatics and Computing</org>
             </item>
             <item>
                 <surname>Wandl-Vogt</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Wang</surname>
-                <org> Institute of History and European Ethnology</org>
+                <org>Institute of History and European Ethnology</org>
             </item>
             <item>
                 <surname>Wicentowski</surname>
-                <org> U.S. Department of State</org>
+                <org>U.S. Department of State</org>
             </item>
             <item>
                 <surname>Windauer</surname>
-                <org> eXist Solutions</org>
+                <org>eXist Solutions</org>
             </item>
             <item>
                 <surname>Wissik</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Witt</surname>
-                <org> Institute for the German Language</org>
+                <org>Institute for the German Language</org>
             </item>
             <item>
                 <surname>Wohlfarter</surname>
-                <org> Austrian Centre for Digital Humanities</org>
+                <org>Austrian Centre for Digital Humanities</org>
             </item>
             <item>
                 <surname>Zielke</surname>
-                <org> Computer and Media Service</org>
+                <org>Computer and Media Service</org>
             </item>
             <item>
                 <surname>Zimmer</surname>
-                <org> Arts &amp; Sciences Writing Program</org>
+                <org>Arts &amp; Sciences Writing Program</org>
             </item>
             <item>
                 <surname>Zolles</surname>
-                <org> Department of German Studies</org>
+                <org>Department of German Studies</org>
             </item>
         </listOrg>
         </body>
