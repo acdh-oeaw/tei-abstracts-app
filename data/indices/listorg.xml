@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -12,560 +12,495 @@
             </publicationStmt>
             <sourceDesc>
                 <p>This list was mostly automatically derived from some manual conftool export and processed further with a python script</p>
+                <p>It was manually edited and corrected according to the index of the printed TEI 2016 Book of Abstracts.</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
             <listOrg>
-    <org>
-        <orgName>Stiftung Mozarteum Salzburg</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>ACDH-OeAW</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Vienna</orgName>
-        <location>
-            <country key="CH">Switzerland</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Luxembourg</orgName>
-        <location>
-            <country key="LU">Luxembourg</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Humboldt-Universität zu Berlin</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>IDS Mannheim</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Austrian Academy of Sciences</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Duisburg-Essen</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Universidade de Santiago de Compostela</orgName>
-        <location>
-            <country key="ES">Spain</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Universidad Miguel Hernández</orgName>
-        <location>
-            <country key="ES">Spain</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Trinity College Dublin</orgName>
-        <location>
-            <country key="IE">Ireland</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Vienna</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Austria Academy of Sciences</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Maynooth University</orgName>
-        <location>
-            <country key="IE">Ireland</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Cologne</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Lou Burnard Consultancy</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Duke University</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Università Roma Tor Vergata</orgName>
-        <location>
-            <country key="IT">Italy</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Oxford</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Austrian Academy of Sciences</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Indiana University</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Indiana University at Indianapolis</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>DFKI GmbH</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Berlin-Brandenburg Academy of Sciences and Humanities</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Jožef Stefan Institute</orgName>
-        <location>
-            <country key="SI">Slovenia</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Cambridge University Library</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Privat</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Georg-August-Universität Göttingen</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>SUB Göttingen</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>ATILF (UMR 7118)</orgName>
-        <location>
-            <country key="FR">France</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Vanderbilt University / Syriaca.org</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>UNED</orgName>
-        <location>
-            <country key="ES">Spain</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Berlin-Brandenburg Academy of Sciences and Humanities</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Maynooth University</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>OEAW-ACDH</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of North Texas</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Vienna</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Vienna</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Bodleian Library</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Collège de France</orgName>
-        <location>
-            <country key="FR">France</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Cambridge University Library</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of North Texas Libraries</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Herzog August Bibliothek, Wolfenbüttel</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>OeAw</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Petőfi Literary Museum</orgName>
-        <location>
-            <country key="HU">Hungary</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Steinheim-Institut</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Russian Academy of Sciences</orgName>
-        <location>
-            <country key="RU">Russian Federation</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Carl von Ossietzky University</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Institut für Deutsche Sprache</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>n/a</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Austrian Academy of Sciences</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Austrian Academy of Sciences</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Stiftung Mozarteum Salzburg</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Higer School of Economics</orgName>
-        <location>
-            <country key="RU">Russian Federation</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Northwestern University</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Brown University</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>International Institute for Digital Humanities / University of Tokyo</orgName>
-        <location>
-            <country key="JP">Japan</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Research Centre of Slovenian Academy of Sciences and Arts</orgName>
-        <location>
-            <country key="SI">Slovenia</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Emory University</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>CIHAM</orgName>
-        <location>
-            <country key="FR">France</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Univ of Nebraska-Lincoln</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>OEAW</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>UNED</orgName>
-        <location>
-            <country key="ES">Spain</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Bodleian Library</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Inria</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Technische Universität Darmstadt</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Graz</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Centre for Information Modelling - Austrian Centre for Digital Humanities,
-            University of Graz</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Austrian Academy of Sciences</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Cologne</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Trier Center for Digital Humanities</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Higher School of Economics (HSE) Moscow</orgName>
-        <location>
-            <country key="RU">Russian Federation</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Goettingen State and University Library</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Paderborn University</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Graz</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Literaturarchiv der Österreichischen Nationalbibliothek</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Oxford</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
-        <location>
-            <country key="FR">France</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Maryland</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Université du Maine</orgName>
-        <location>
-            <country key="FR">France</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Universität Graz</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Indiana University</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Austrian Academy of Sciences (AAS)</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University Innsbruck</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>U.S. Dept of State</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-    <org>
-        <orgName>University of Oxford</orgName>
-        <location>
-            <country key="UK">United Kingdom</country>
-        </location>
-    </org>
-    <org>
-        <orgName>eXist Solutions</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>OEAW-ACDH</orgName>
-        <location>
-            <country key="AT">Austria</country>
-        </location>
-    </org>
-    <org>
-        <orgName>IDS - Institut für Deutsche Sprache</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Humboldt-Universität zu Berlin</orgName>
-        <location>
-            <country key="DE">Germany</country>
-        </location>
-    </org>
-    <org>
-        <orgName>Boston University</orgName>
-        <location>
-            <country key="US">United States of America</country>
-        </location>
-    </org>
-</listOrg>
+                <org>
+                    <orgName>Salzburg Mozarteum Foundation</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of History, University of Vienna</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>University of Luxembourg</orgName>
+                    <location>
+                        <country key="LU">Luxembourg</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Institute for the German Language, Mannheim</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Council of Library and Information Resources, Knox College</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Departamento de Filoloxía Galega, Universidade de Santiago de Compostela</orgName>
+                    <location>
+                        <country key="ES">Spain</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName> Departamento de Estadística, Matemáticas e Informática, Universidad Miguel Hernández</orgName>
+                    <location>
+                        <country key="ES">Spain</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Center for Information Modelling – Austrian Centre for Digital Humanities, University of Graz</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of German Studies, University of Vienna</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Maynooth University</orgName>
+                    <location>
+                        <country key="IE">Ireland</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Centre d’Etudes Supérieures de la Renaissance, Université François-Rabelais, Tours</orgName>
+                    <location>
+                        <country key="FR">France</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Cologne Center for eHumanities, Cologne University</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                    <location>
+                        <country key="ES">Spain</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Duke University Libraries, Duke University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Open Sky Solutions</orgName>
+                    <location>
+                        <country key="CA">Canada</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Dipartimento di Studi Filologici, Linguistici e Letterari, Università Roma Tor Vergata</orgName>
+                    <location>
+                        <country key="IT">Italy</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>IT Services, University of Oxford</orgName>
+                    <location>
+                        <country key="UK">United Kingdom</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>TELOTA, Berlin-Brandenburg Academy of Sciences</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Indiana University Libraries, Indiana University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>School of Liberal Arts, Indiana University at Indianapolis</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>German Research Center for Artificial Intelligence</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Consejo Nacional de Investigaciones Científicas y Técnicas, Universidad de Buenos Aires</orgName>
+                    <location>
+                        <country key="AR">Argentina</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of German Studies, University of Mannheim</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of Knowledge Technologies, Jožef Stefan Institute</orgName>
+                    <location>
+                        <country key="SI">Slovenia</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Near and Middle Eastern Department, Cambridge University Library</orgName>
+                    <location>
+                        <country key="UK">United Kingdom</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of History and Philosophy of Science and Medicine, Indiana University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Institute for History of Art and Musicology, Austrian Academy of Sciences</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Göttingen Centre for Digital Humanities,
+                        Georg-August-Universität Göttingen</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Göttingen State and University Library</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Analyse et Traitement Informatique de la Langue
+                        Française, Université de Lorraine</orgName>
+                    <location>
+                        <country key="FR">France</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>School of Divinity, Vanderbilt University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Maynooth University</orgName>
+                    <location>
+                        <country key="UK">United Kingdom</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>CLARIN-D, Berlin-Brandenburg Academy of Sciences</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Cambridge University Library</orgName>
+                    <location>
+                        <country key="UK">United Kingdom</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Herzog August Bibliothek, Wolfenbüttel</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Petőfi Literary Museum</orgName>
+                    <location>
+                        <country key="HU">Hungary</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>   
+                <org>
+                    <orgName>Institute for Lingustic Studies, Russian Academy of Sciences</orgName>
+                    <location>
+                        <country key="RU">Russian Federation</country>
+                    </location>
+                    
+                </org>
+                <org>
+                    <orgName>Berlin-Brandenburg Academy of Sciences and Humanities</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of Judaic Studies, Brown University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Institute of Slavic Studies, Carl von Ossietzky University</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName> Institute for the Cultural and Intellectual History of Asia, Austrian Academy of Sciences</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>    
+                <org>
+                    <orgName>Science miner</orgName>
+                    <location>
+                        <country key="FR">France</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>eXist Solutions</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>  
+                <org>
+                    <orgName>Department of Classical Studies, Vanderbilt University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Higer School of Economics, Moscow</orgName>
+                    <location>
+                        <country key="RU">Russian Federation</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Department of English, Northwestern University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org> 
+                <org>
+                    <orgName>Center for Evolving Humanites, University of Tokyo</orgName>
+                    <location>
+                        <country key="JP">Japan</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>University Library Center for Digital Scholarship,
+                        Brown University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Institute of Slovenian Literature and Literary Studies, Research Centre of Slovenian Academy of Sciences and Arts</orgName>
+                    <location>
+                        <country key="SI">Slovenia</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>International Institute for Digital Humanities / University of Tokyo</orgName>
+                    <location>
+                        <country key="JP">Japan</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Emory Center for Digital Scholarship, Emory University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Institut für Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Centre Interuniversitaire d’Histoire et d’Archéologie Médiévales</orgName>
+                    <location>
+                        <country key="FR">France</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Classics Faculty, University of Oxford</orgName>
+                    <location>
+                        <country key="UK">United Kingdom</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName> Centre for Digital Research in the Humanities,
+                        University of Nebraska-Lincoln</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Bodleian Library, University of Oxford</orgName>
+                    <location>
+                        <country key="UK">United Kingdom</country>
+                    </location>
+                </org>  
+                <org>
+                    <orgName> Institut national de recherche dédié au numérique</orgName>
+                    <location>
+                        <country key="FR">France</country>
+                    </location>
+                </org> 
+                <org>
+                    <orgName>University of Kansas Libraries, University of Kansas</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Fachbereich Chemie, Technische Universität Darmstadt</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Historisches Institut, University of Cologne</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Trier Center for Digital Humanities, Trier University</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Higher School of Economics Moscow</orgName>
+                    <location>
+                        <country key="RU">Russian Federation</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Musikwissenschaftliches Seminar Detmold / Paderborn, University of Paderborn</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>  
+                <org>
+                    <orgName>Institute of Economics, University of Graz</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Literary Archives, Austrian National Library</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>National Research Institute for Cultural Properties</orgName>
+                    <location>
+                        <country key="JP">Japan</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Maryland Institute for Technology in the Humanities, University of Maryland</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName> Centre de Recherches Historiques de l’Ouest – Le Mans, Université du Maine</orgName>
+                    <location>
+                        <country key="FR">France</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Beckman Center for the History of Chemistry, Chemical Heritage Foundation</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>School of Informatics and Computing, Indiana University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Institute of History and European Ethnology, University of Innsbruck</orgName>
+                    <location>
+                        <country key="AT">Austria</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Computer and Media Service, Humboldt-Universität zu Berlin</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
+                    </location>
+                </org>
+                
+                <org>
+                    <orgName>U.S. Department of State</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName> Arts and Sciences Writing Program, Boston University</orgName>
+                    <location>
+                        <country key="US">United States of America</country>
+                    </location>
+                </org>
+                
+                <org>
+                    <orgName>Histoire et Littérature, Collège de France</orgName>
+                    <location>
+                        <country key="FR">France</country>
+                    </location>
+                </org>
+            </listOrg>
         </body>
     </text>
 </TEI>
