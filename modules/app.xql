@@ -155,8 +155,11 @@ declare function app:listPers($node as node(), $model as map(*)) {
     order by $person//tei:surname
         return
         <tr>
-            <td><a href="{concat($hitHtml,data($person//@key))}">{$person//tei:surname}</a></td>
+            <td><a href="{concat($hitHtml,data($person//@key)[1])}">{$person//tei:surname}</a></td>
             <td>{$person//tei:forename}</td>
+            <td>{data($person//tei:forename/@type)}</td>
+            <td>{$person//tei:orgName}</td>
+            <td>{$person//tei:country}</td>
         </tr>
 };
 
