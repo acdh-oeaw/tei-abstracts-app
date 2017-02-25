@@ -11,7 +11,8 @@
         <script type="text/javascript" src="$app-root/resources/js/bootstrap-3.0.3.min.js"/><!--scroll to top start-->
         <link rel="stylesheet" href="../resources/js/scroll-to-top/css/ap-scroll-top.min.css"/>
         <script src="../resources/js/scroll-to-top/js/ap-scroll-top.min.js"/><!--scroll to top end -->
-        <script type="text/javascript" src="$app-root/resources/js/custom.js"/><!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+        <script type="text/javascript" src="$app-root/resources/js/custom.js"/>
+        <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
         <script type="text/javascript">
                 window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"index.html","theme":"dark-bottom"};
             </script>
@@ -67,6 +68,17 @@
                             </li>
                         </ul>
                     </li>
+                    <li class="dropdown" id="analyze">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Analyze</a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="gender.html">Gender distribution</a>
+                            </li>
+                            <li>
+                                <a href="countries.html">Countries and Organisations</a>
+                            </li>
+                        </ul>
+                    </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documentation</a>
                         <ul class="dropdown-menu">
@@ -75,6 +87,9 @@
                             </li>
                             <li>
                                 <a href="show.html?document=genderize.xml&amp;directory=meta&amp;stylesheet=editions">Matching Forenames to Gender</a>
+                            </li>
+                            <li>
+                                <a href="show.html?document=countries.xml&amp;directory=meta&amp;stylesheet=editions">Institutions: Messy Data Problem</a>
                             </li>
                         </ul>
                     </li>
@@ -162,7 +177,8 @@
                   };
                 $('.socialShare').shareButtons(options);
               });
-            </script><!-- scroll-up-bottom -->
+            </script>
+            <!-- scroll-up-bottom -->
             <script type="text/javascript">
                // http://www.jqueryscript.net/animation/jQuery-Plugin-For-Fixed-Positioned-Scroll-To-Top-Button-ap-scroll-top.html
                // Setup plugin with default settings

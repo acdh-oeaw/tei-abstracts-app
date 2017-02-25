@@ -10,11 +10,11 @@ declare option exist:serialize "method=json media-type=text/javascript";
 
 let $result := <result>{
 for $author in collection(concat($config:app-root, '/data/indices'))//tei:person
-let $affiliation := $author//tei:affiliation//tei:orgName
-group by $affiliation
+let $country := string-join($author//tei:country/text())
+group by $country
 return
     <payload>
-        <name>{normalize-space($affiliation/text())}</name>
+        <name>{$country}</name>
         <amount>{count($author)}</amount>
     </payload>
 }</result>

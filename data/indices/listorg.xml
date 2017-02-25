@@ -68,9 +68,15 @@
                     </location>
                 </org>
                 <org>
-                    <orgName> Departamento de Estadística, Matemáticas e Informática, Universidad Miguel Hernández</orgName>
+                    <orgName>Departamento de Estadística, Matemáticas e Informática, Universidad Miguel Hernández</orgName>
                     <location>
                         <country key="ES">Spain</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>DFKI GMBH</orgName>
+                    <location>
+                        <country key="DE">Germany</country>
                     </location>
                 </org>
                 <org>
@@ -268,6 +274,7 @@
                     </location>
                     
                 </org>
+                
                 <org>
                     <orgName>Berlin-Brandenburg Academy of Sciences and Humanities</orgName>
                     <location>
@@ -376,6 +383,12 @@
                         University of Nebraska-Lincoln</orgName>
                     <location>
                         <country key="US">United States of America</country>
+                    </location>
+                </org>
+                <org>
+                    <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+                    <location>
+                        <country key="FR">France</country>
                     </location>
                 </org>
                 <org>

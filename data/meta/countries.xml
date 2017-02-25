@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Contributors of the TEI 2016 and their affiliations</title>
+                <author>
+                    <persName>
+                        <forename>Peter</forename>
+                        <surname>Andorfer</surname>
+                    </persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>ACDH-OeAW</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2017"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License applies
+                            to this text.</p>
+                        <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Messy Data, messy results</head>
+                <p>
+                    Assigning people to their affiliated organizations seems to be an easy task. Especially when the contributors of the conference were in charge of providing this data. Unfortunately neither the famous <ref target="http://www.conftool.net/">conftool</ref> provides some kind of controlled vocabulary (or automatic norm data linking) of organisations/institutions nor do the single institutions enforce some kine of naming conventions. As a result of this we got e.g. four different names for the <hi>ACDH-OeAW</hi>.
+                </p>
+                <p>
+                    A first consolidation of this mess was done in regards of compiling the book of abstracts. This data was then automatically processed (python) to link the contributors to their organisations. This worked quite well (let's say 75%). The rest of the data/linking was done manually. Anyway we do not claim that the current result is free of errors. Therefore everyone is invited to look into the data and correct any errors. Ideally by fixing the data <hi>data/indices/listorg.xml</hi> and <hi>data/indices/listperson.xml</hi> and making a pull-request to this application's <ref target="https://github.com/acdh-oeaw/tei-abstracts-app">code repo.</ref> 
+                </p>
+                   
+            </div>
+        </body>
+    </text>
+</TEI>

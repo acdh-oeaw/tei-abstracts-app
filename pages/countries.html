@@ -32,13 +32,13 @@
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a data-toggle="collapse" href="#collapse2">Texts by Gender of Contributors' Forenames</a>
+                                    <a data-toggle="collapse" href="#collapse2">Contributors and Institutions</a>
                                 </h4>
                             </div>
                             <div id="collapse2" class="panel-collapse">
                                 <div class="panel-body" id="chart2">Panel Body</div>
                                 <div class="panel-footer">
-                                    <a href="../analyze/text-gender.xql">data source</a>
+                                    <a href="../analyze/author-organisation.xql">data source</a>
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@
             </div>
         </div>
         <div class="panel-footer">
-            <a href="show.html?document=genderize.xml&amp;directory=meta&amp;stylesheet=editions">About the data</a>
+            <a href="show.html?document=countries.xml&amp;directory=meta&amp;stylesheet=editions">About the data</a>
         </div>
     </div>
     
@@ -69,6 +69,46 @@
                 }
                 console.log(newData);
                 $('#chart1').highcharts({
+                chart: {
+                
+                type: 'pie',
+                options3d: {
+                enabled: true,
+                alpha: 45
+                }
+                },
+                title: {
+                text: ""
+                },
+                subtitle: {
+                text: data.header
+                },
+                plotOptions: {
+                pie: {
+                innerSize: 50,
+                depth: 40
+                }
+                },
+                series: [{
+                name: "Authors",
+                data: newData
+                
+                }]
+                });  
+            });
+            
+            $.getJSON( "../analyze/author-organisation.xql", function( data ) {
+                var charts_data = [];
+                var payload = data.payload;
+                var newData = [];
+                for (var i = 0; i &lt; payload.length; i++) {
+                    var item = [];
+                    item.push(payload[i].name);
+                    item.push(parseInt(payload[i].amount));
+                    newData.push(item)
+                }
+                console.log(newData);
+                $('#chart2').highcharts({
                 chart: {
                 
                 type: 'pie',

@@ -16,18 +16,18 @@
     <text>
         <body>
             <div>
-                <listPerson xmlns:tei="http://www.tei-c.org/ns/1.0">
+                <listPerson>
                     <person>
                         <persName key="http://viaf.org/viaf/251032539">
                             <forename type="male">Peter</forename>
                             <surname>Andorfer</surname>
                         </persName>
-                        
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -35,18 +35,23 @@
                             <forename type="male">Dario</forename>
                             <surname>Kampkaspar</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Herzog August Bibliothek, Wolfenbüttel</orgName>
+                            <location>
+                                <country key="DE">Germany</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genIDc0b13dd39c11ccb17a1545fc3945e219">
                             <forename type="female">Florentina</forename>
                             <surname>Armaselu</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>University of Luxembourg</orgName>
                             <location>
-                        <country key="LU">Luxembourg</country>
-                    </location>
+                                <country key="LU">Luxembourg</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -54,11 +59,11 @@
                             <forename type="male">Piotr</forename>
                             <surname>Bański</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -66,39 +71,47 @@
                             <forename type="male">Bertrand</forename>
                             <surname>Gaiffe</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>ATILF (UMR 7118)</orgName>
+                            <location>
+                                <country key="FR">France</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/285739999">
                             <forename type="male">Patrice</forename>
                             <surname>Lopez</surname>
                         </persName>
-                    
                     </person>
                     <person>
                         <persName key="genID573aa0a4ac2bdfc7ff8ec7b5336f7b81">
                             <forename type="male">Simon</forename>
                             <surname>Meoni</surname>
                         </persName>
-                    
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/282014122">
                             <forename type="male">Laurent</forename>
                             <surname>Romary</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Inria</orgName>
+                            <location>
+                                <country key="DE">Germany</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genID2d68bb59e9ce4b04f2d0ca9e2efc5306">
                             <forename type="male">Thomas</forename>
                             <surname>Schmidt</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -106,11 +119,12 @@
                             <forename type="male">Peter</forename>
                             <surname>Stadler</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Musikwissenschaftliches Seminar Detmold / Paderborn, University of Paderborn</orgName>
+                        <affiliation>
+                            <orgName>Musikwissenschaftliches Seminar Detmold / Paderborn, University
+                                of Paderborn</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -118,11 +132,11 @@
                             <forename type="male">Andreas</forename>
                             <surname>Witt</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -130,11 +144,11 @@
                             <forename type="male">Piotr</forename>
                             <surname>Bański</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -142,23 +156,12 @@
                             <forename type="male">Karlheinz</forename>
                             <surname>Mörth</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                        </affiliation>
-                    </person>
-                    <person>
-                        <persName key="http://viaf.org/viaf/36375219">
-                            <forename type="male">Andreas</forename>
-                            <surname>Witt</surname>
-                        </persName>
-                    <affiliation>
-                            <orgName>Institute for the German Language, Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -166,19 +169,12 @@
                             <forename type="male">Michael</forename>
                             <surname>Beißwenger</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
+                        <affiliation>
+                            <orgName>Department of German Studies, University of
+                                Duisburg-Essen</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Vienna</orgName>
-                            <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -186,19 +182,12 @@
                             <forename type="male">Eric</forename>
                             <surname>Ehrhardt</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
+                        <affiliation>
+                            <orgName>Department of German Studies, University of
+                                Duisburg-Essen</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Vienna</orgName>
-                            <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -206,18 +195,24 @@
                             <forename type="male">Axel</forename>
                             <surname>Herold</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Department of German Studies, University of
+                                Duisburg-Essen</orgName>
+                            <location>
+                                <country key="DE">Germany</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key=" http://viaf.org/viaf/310691902">
                             <forename type="male">Harald</forename>
                             <surname>Lüngen</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -225,19 +220,12 @@
                             <forename type="female">Angelika</forename>
                             <surname>Storrer</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
+                        <affiliation>
+                            <orgName>Department of German Studies, University of
+                                Duisburg-Essen</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Vienna</orgName>
-                            <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -245,18 +233,24 @@
                             <forename type="male">Alejandro</forename>
                             <surname>Bia</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Departamento de Estadística, Matemáticas e Informática, Universidad Miguel Hernández</orgName>
+                            <location>
+                                <country key="ES">Spain</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genIDca0f08d12b0a257697f6d4126bac55e7">
                             <forename type="male">Roman</forename>
                             <surname>Bleier</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Center for Information Modelling – Austrian Centre for Digital Humanities, University of Graz</orgName>
+                        <affiliation>
+                            <orgName>Center for Information Modelling – Austrian Centre for Digital
+                                Humanities, University of Graz</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -264,15 +258,11 @@
                             <forename type="male">Richard</forename>
                             <surname>Breen</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Maynooth University</orgName>
                             <location>
-                        <country key="IE">Ireland</country>
-                    </location>
-                            <orgName>Maynooth University</orgName>
-                            <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="IE">Ireland</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -280,15 +270,11 @@
                             <forename type="male">Richard</forename>
                             <surname>Hadden</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Maynooth University</orgName>
                             <location>
-                        <country key="IE">Ireland</country>
-                    </location>
-                            <orgName>Maynooth University</orgName>
-                            <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -296,11 +282,12 @@
                             <forename type="male">Jack Thompson</forename>
                             <surname>Bowers</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -308,18 +295,24 @@
                             <forename type="male">Thierry</forename>
                             <surname>Declerck</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>DFKI GMBH</orgName>
+                            <location>
+                                <country key="DE">Germany</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genIDa52c15d700e84648e628400474bc9b5b">
                             <forename type="female">Melanie</forename>
                             <surname>Seltmann</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -327,11 +320,11 @@
                             <forename type="male">William Michael</forename>
                             <surname>Broughton</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -339,11 +332,11 @@
                             <forename type="male">Hugh</forename>
                             <surname>Cayless</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Duke University Libraries, Duke University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -351,18 +344,24 @@
                             <forename type="male">Raffaele</forename>
                             <surname>Viglianti</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Maryland Institute for Technology in the Humanities, University of Maryland</orgName>
+                            <location>
+                                <country key="US">United States of America</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/227725412">
                             <forename type="male">Fabio</forename>
                             <surname>Ciotti</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Dipartimento di Studi Filologici, Linguistici e Letterari, Università Roma Tor Vergata</orgName>
+                        <affiliation>
+                            <orgName>Dipartimento di Studi Filologici, Linguistici e Letterari,
+                                Università Roma Tor Vergata</orgName>
                             <location>
-                        <country key="IT">Italy</country>
-                    </location>
+                                <country key="IT">Italy</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -370,11 +369,11 @@
                             <forename type="male">James</forename>
                             <surname>Cummings</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>IT Services, University of Oxford</orgName>
                             <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -382,11 +381,11 @@
                             <forename type="male">Jonathan</forename>
                             <surname>Prag</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Classics Faculty, University of Oxford</orgName>
                             <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -394,11 +393,11 @@
                             <forename type="male">James</forename>
                             <surname>Chartrand</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Open Sky Solutions</orgName>
                             <location>
-                        <country key="CA">Canada</country>
-                    </location>
+                                <country key="CA">Canada</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -406,11 +405,11 @@
                             <forename type="female">Michelle</forename>
                             <surname>Dalmau</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Indiana University Libraries, Indiana University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -418,18 +417,24 @@
                             <forename type="female">Meridith</forename>
                             <surname>Beck Mink</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>School of Informatics and Computing, Indiana University</orgName>
+                            <location>
+                                <country key="US">United States of America</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/222855969">
                             <forename type="male">James</forename>
                             <surname>Voelkel</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Beckman Center for the History of Chemistry, Chemical Heritage Foundation</orgName>
+                        <affiliation>
+                            <orgName>Beckman Center for the History of Chemistry, Chemical Heritage
+                                Foundation</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -437,11 +442,12 @@
                             <forename type="male">John A.</forename>
                             <surname>Walsh</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>School of Informatics and Computing, Indiana University</orgName>
+                        <affiliation>
+                            <orgName>School of Informatics and Computing, Indiana
+                                University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -449,18 +455,24 @@
                             <forename type="male">Wallace</forename>
                             <surname>Hooper</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>School of Informatics and Computing, Indiana University</orgName>
+                            <location>
+                                <country key="US">United States of America</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/56700335">
                             <forename type="male">William R.</forename>
                             <surname>Newman</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of History and Philosophy of Science and Medicine, Indiana University</orgName>
+                        <affiliation>
+                            <orgName>Department of History and Philosophy of Science and Medicine,
+                                Indiana University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -468,11 +480,12 @@
                             <forename type="male">Archie</forename>
                             <surname>Fields III</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of History and Philosophy of Science and Medicine, Indiana University</orgName>
+                        <affiliation>
+                            <orgName>Department of History and Philosophy of Science and Medicine,
+                                Indiana University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -480,11 +493,12 @@
                             <forename type="male">André</forename>
                             <surname>De Tienne</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>School of Liberal Arts, Indiana University at Indianapolis</orgName>
+                        <affiliation>
+                            <orgName>School of Liberal Arts, Indiana University at
+                                Indianapolis</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -492,11 +506,11 @@
                             <forename type="male">Stefan</forename>
                             <surname>Dumont</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>TELOTA, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -504,11 +518,12 @@
                             <forename type="female">Susanne</forename>
                             <surname>Haaf</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -516,18 +531,25 @@
                             <forename type="male">Tobias</forename>
                             <surname>Kraft</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
+                                Sciences</orgName>
+                            <location>
+                                <country key="DE">Germany</country>
+                            </location>
+                        </affiliation>
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/40550920">
                             <forename type="male">Alexander</forename>
                             <surname>Czmiel</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>TELOTA, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -535,11 +557,12 @@
                             <forename type="male">Christian</forename>
                             <surname>Thomas</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -547,11 +570,12 @@
                             <forename type="male">Matthias</forename>
                             <surname>Boenig</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -559,11 +583,12 @@
                             <forename type="female">Yasmin</forename>
                             <surname>Faghihi</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Near and Middle Eastern Department, Cambridge University Library</orgName>
+                        <affiliation>
+                            <orgName>Near and Middle Eastern Department, Cambridge University
+                                Library</orgName>
                             <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -571,11 +596,11 @@
                             <forename type="male">Tobias J.</forename>
                             <surname>Jocham</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Histoire et Littérature, Collège de France</orgName>
                             <location>
-                        <country key="FR">France</country>
-                    </location>
+                                <country key="FR">France</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -583,12 +608,12 @@
                             <forename type="female">Greta</forename>
                             <surname>Franzini</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Göttingen Centre for Digital Humanities,
-                        Georg-August-Universität Göttingen</orgName>
+                                Georg-August-Universität Göttingen</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -596,11 +621,11 @@
                             <forename type="male">Stefan E.</forename>
                             <surname>Funk</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -608,18 +633,23 @@
                             <forename type="male">Thomas</forename>
                             <surname>Kollatz</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte</orgName>
+                            <location>
+                                <country key="DE">Germany</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genID01bbfcea9fb2c048edcd5e22f6c5945d">
                             <forename type="male">Oliver</forename>
                             <surname>Schmid</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Fachbereich Chemie, Technische Universität Darmstadt</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -627,11 +657,11 @@
                             <forename type="female">Sibylle</forename>
                             <surname>Söring</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -639,11 +669,11 @@
                             <forename type="male">Ubbo</forename>
                             <surname>Veentjer</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -651,11 +681,11 @@
                             <forename type="male">Nathan P.</forename>
                             <surname>Gibson</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>School of Divinity, Vanderbilt University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -663,11 +693,12 @@
                             <forename type="male">David A.</forename>
                             <surname>Michelson</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of Classical Studies, Vanderbilt University</orgName>
+                        <affiliation>
+                            <orgName>Department of Classical Studies, Vanderbilt
+                                University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -675,32 +706,48 @@
                             <forename type="female">Elena</forename>
                             <surname>González-Blanco</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                            <location>
+                                <country key="ES">Spain Federation</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genID332f850382a244b759ea52c5b11dfe06">
                             <forename type="male">Antonio</forename>
                             <surname>Robles-Gómez</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                            <location>
+                                <country key="ES">Spain Federation</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genIDa8b2c996594e3fc4c1902253da7bd045">
                             <forename type="male">Salvador</forename>
                             <surname>Ros</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                            <location>
+                                <country key="ES">Spain Federation</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/261749100">
                             <forename type="female">Gimena</forename>
                             <surname>Del Rio Riande</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Consejo Nacional de Investigaciones Científicas y Técnicas, Universidad de Buenos Aires</orgName>
+                        <affiliation>
+                            <orgName>Consejo Nacional de Investigaciones Científicas y Técnicas,
+                                Universidad de Buenos Aires</orgName>
                             <location>
-                        <country key="AR">Argentina</country>
-                    </location>
+                                <country key="AR">Argentina</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -708,18 +755,23 @@
                             <forename type="male">Roberto</forename>
                             <surname>Hernández</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                            <location>
+                                <country key="ES">Spain Federation</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/296443412">
                             <forename type="male">Miguel</forename>
                             <surname>Urizar</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                        <country key="ES">Spain</country>
-                    </location>
+                                <country key="ES">Spain</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -727,25 +779,35 @@
                             <forename type="female">Clara I.</forename>
                             <surname>Martínez</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                            <location>
+                                <country key="ES">Spain</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genID933530518f9ff90a7017148989ef1fec">
                             <forename type="male">Rafael</forename>
                             <surname>Pastor</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                            <location>
+                                <country key="ES">Spain</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genID1fb4d2c70f9c34ef1c07b4ea61881fb7">
                             <forename type="male">Jesús</forename>
                             <surname>Cano</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                        <country key="ES">Spain</country>
-                    </location>
+                                <country key="ES">Spain</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -753,18 +815,24 @@
                             <forename type="male">Agustín C.</forename>
                             <surname>Caminero</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Universidad Nacional de Educación a Distancia</orgName>
+                            <location>
+                                <country key="ES">Spain</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/31146030596135862230">
                             <forename type="female">Vanessa</forename>
                             <surname>Hannesschläger</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -772,19 +840,11 @@
                             <forename type="female">Desiree</forename>
                             <surname>Hebenstreit</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                        <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -792,19 +852,11 @@
                             <forename type="male">Arno</forename>
                             <surname>Herberth</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                        <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -812,11 +864,11 @@
                             <forename type="female">Laura</forename>
                             <surname>Tezarek</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Literary Archives, Austrian National Library</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -824,19 +876,11 @@
                             <forename type="male">Christian</forename>
                             <surname>Zolles</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                        <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -844,11 +888,11 @@
                             <forename type="male">Matthew Lawrence</forename>
                             <surname>Holford</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Bodleian Library, University of Oxford</orgName>
                             <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -856,11 +900,11 @@
                             <forename type="male">Huw</forename>
                             <surname>Jones</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Cambridge University Library</orgName>
                             <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -868,11 +912,12 @@
                             <forename type="female">Margaret</forename>
                             <surname>King</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -880,11 +925,11 @@
                             <forename type="male">Brian</forename>
                             <surname>Rosenblum</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>University of Kansas Libraries, University of Kansas</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -892,11 +937,12 @@
                             <forename type="male">Robert</forename>
                             <surname>Klugseder</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Institute for History of Art and Musicology, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Institute for History of Art and Musicology, Austrian Academy
+                                of Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -904,11 +950,11 @@
                             <forename type="male">Christian</forename>
                             <surname>Steiner</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Institute of Economics, University of Graz</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -916,11 +962,11 @@
                             <forename type="female">Judit</forename>
                             <surname>Kodolányi</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Petőfi Literary Museum</orgName>
                             <location>
-                        <country key="HU">Hungary</country>
-                    </location>
+                                <country key="HU">Hungary</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -928,11 +974,11 @@
                             <forename type="female">Gaia</forename>
                             <surname>Lembi</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Department of Judaic Studies, Brown University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -940,12 +986,12 @@
                             <forename type="female">Elli</forename>
                             <surname>Mylonas</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>University Library Center for Digital Scholarship,
-                        Brown University</orgName>
+                        <affiliation>
+                            <orgName>University Library Center for Digital Scholarship, Brown
+                                University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -953,11 +999,11 @@
                             <forename type="male">Michael</forename>
                             <surname>Satlow</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Department of Judaic Studies, Brown University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -965,11 +1011,12 @@
                             <forename type="no-match">Sünna</forename>
                             <surname>Looschen</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Institute of Slavic Studies, Carl von Ossietzky University</orgName>
+                        <affiliation>
+                            <orgName>Institute of Slavic Studies, Carl von Ossietzky
+                                University</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -977,19 +1024,11 @@
                             <forename type="male">Ingo</forename>
                             <surname>Börner</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of German Studies, University of Duisburg-Essen</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                        <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                            <orgName>Department of German Studies, University of Mannheim</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -997,18 +1036,19 @@
                             <forename type="male">Eugene W.</forename>
                             <surname>Lyman II</surname>
                         </persName>
-                    
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/249676043">
                             <forename type="male">Daniel</forename>
                             <surname>Schopper</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1016,18 +1056,23 @@
                             <forename type="male">Patrick</forename>
                             <surname>McAllister</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName> Institute for the Cultural and Intellectual History of Asia, Austrian Academy of Sciences</orgName>
+                            <location>
+                                <country key="AT">Austria</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genIDc66f1c9c6a0b777e4f9226b51c054e84">
                             <forename type="female">Anja</forename>
                             <surname>Morgenstern</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Salzburg Mozarteum Foundation</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1035,11 +1080,11 @@
                             <forename type="female">Agnes</forename>
                             <surname>Amminger</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Salzburg Mozarteum Foundation</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1047,11 +1092,12 @@
                             <forename type="no-match">Kiyonori</forename>
                             <surname>Nagasaki</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>International Institute for Digital Humanities / University of Tokyo</orgName>
+                        <affiliation>
+                            <orgName>International Institute for Digital Humanities / University of
+                                Tokyo</orgName>
                             <location>
-                        <country key="JP">Japan</country>
-                    </location>
+                                <country key="JP">Japan</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1059,11 +1105,11 @@
                             <forename type="no-match">Tetsuei</forename>
                             <surname>Tsuda</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>National Research Institute for Cultural Properties</orgName>
                             <location>
-                        <country key="JP">Japan</country>
-                    </location>
+                                <country key="JP">Japan</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1071,32 +1117,33 @@
                             <forename type="male">A. Charles</forename>
                             <surname>Muller</surname>
                         </persName>
-                    
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/113240825">
                             <forename type="male">Masahiro</forename>
                             <surname>Shimoda</surname>
                         </persName>
-                    
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/66207154">
                             <forename type="male">Matija</forename>
                             <surname>Ogrin</surname>
                         </persName>
-                    
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/10709753">
                             <forename type="male">Tomaž</forename>
                             <surname>Erjavec</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Department of Knowledge Technologies, Jožef Stefan Institute</orgName>
+                        <affiliation>
+                            <orgName>Department of Knowledge Technologies, Jožef Stefan
+                                Institute</orgName>
                             <location>
-                        <country key="SI">Slovenia</country>
-                    </location>
+                                <country key="SI">Slovenia</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1104,11 +1151,12 @@
                             <forename type="female">Sara</forename>
                             <surname>Palmer</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Emory Center for Digital Scholarship, Emory University</orgName>
+                        <affiliation>
+                            <orgName>Emory Center for Digital Scholarship, Emory
+                                University</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1116,11 +1164,12 @@
                             <forename type="female">Ariane</forename>
                             <surname>Pinche</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Centre Interuniversitaire d’Histoire et d’Archéologie Médiévales</orgName>
+                        <affiliation>
+                            <orgName>Centre Interuniversitaire d’Histoire et d’Archéologie
+                                Médiévales</orgName>
                             <location>
-                        <country key="FR">France</country>
-                    </location>
+                                <country key="FR">France</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1128,18 +1177,25 @@
                             <forename type="male">Brian L.</forename>
                             <surname>Pytlik Zillig</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName> Centre for Digital Research in the Humanities,
+                                University of Nebraska-Lincoln</orgName>
+                            <location>
+                                <country key="US">United States of America</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/52846347">
                             <forename type="female">Claudia</forename>
                             <surname>Resch</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1147,11 +1203,12 @@
                             <forename type="female">Eva</forename>
                             <surname>Wohlfarter</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1159,11 +1216,12 @@
                             <forename type="female">Anna</forename>
                             <surname>Mader</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Institute for History of Art and Musicology, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Institute for History of Art and Musicology, Austrian Academy
+                                of Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1171,11 +1229,12 @@
                             <forename type="female">Nora</forename>
                             <surname>Fischer</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Institute for History of Art and Musicology, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Institute for History of Art and Musicology, Austrian Academy
+                                of Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1183,11 +1242,11 @@
                             <forename type="male">Chris</forename>
                             <surname>Rogers</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Bodleian Library, University of Oxford</orgName>
                             <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1195,11 +1254,12 @@
                             <forename type="female">Helena</forename>
                             <surname>Bermudez Sabel</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Departamento de Filoloxía Galega, Universidade de Santiago de Compostela</orgName>
+                        <affiliation>
+                            <orgName>Departamento de Filoloxía Galega, Universidade de Santiago de
+                                Compostela</orgName>
                             <location>
-                        <country key="ES">Spain</country>
-                    </location>
+                                <country key="ES">Spain</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1207,23 +1267,12 @@
                             <forename type="female">Martina</forename>
                             <surname>Scholger</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Center for Information Modelling – Austrian Centre for Digital Humanities, University of Graz</orgName>
+                        <affiliation>
+                            <orgName>Center for Information Modelling – Austrian Centre for Digital
+                                Humanities, University of Graz</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
-                        </affiliation>
-                    </person>
-                    <person>
-                        <persName key="genIDab7306163dd9302fb67b9d731872f0b2">
-                            <forename type="male">Peter</forename>
-                            <surname>Stadler</surname>
-                        </persName>
-                    <affiliation>
-                            <orgName>Musikwissenschaftliches Seminar Detmold / Paderborn, University of Paderborn</orgName>
-                            <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1231,30 +1280,25 @@
                             <forename type="female">Kira</forename>
                             <surname>Kovalenko</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Institute for Lingustic Studies, Russian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Institute for Lingustic Studies, Russian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="RU">Russian Federation</country>
-                    </location>
+                                <country key="RU">Russian Federation</country>
+                            </location>
                         </affiliation>
-                    </person>
-                    <person>
-                        <persName key="http://viaf.org/viaf/186172418">
-                            <forename type="male">Thierry</forename>
-                            <surname>Declerck</surname>
-                        </persName>
-                    
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/306137134">
                             <forename type="female">Eveline</forename>
                             <surname>Wandl-Vogt</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1262,11 +1306,11 @@
                             <forename type="female">Daniela Monika</forename>
                             <surname>Schulz</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Historisches Institut, University of Cologne</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1274,11 +1318,11 @@
                             <forename type="male">Nils</forename>
                             <surname>Geißler</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1286,11 +1330,11 @@
                             <forename type="male">Marcello</forename>
                             <surname>Perathoner</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1298,11 +1342,11 @@
                             <forename type="male">Martin</forename>
                             <surname>Sievers</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Trier Center for Digital Humanities, Trier University</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1310,11 +1354,11 @@
                             <forename type="male">Daniil</forename>
                             <surname>Skorinkin</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Higher School of Economics Moscow</orgName>
                             <location>
-                        <country key="RU">Russian Federation</country>
-                    </location>
+                                <country key="RU">Russian Federation</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1322,11 +1366,11 @@
                             <forename type="male">Evgeny</forename>
                             <surname>Mozhaev</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>Higher School of Economics Moscow</orgName>
                             <location>
-                        <country key="RU">Russian Federation</country>
-                    </location>
+                                <country key="RU">Russian Federation</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1334,32 +1378,35 @@
                             <forename type="female">Magdalena</forename>
                             <surname>Turska</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>IT Services, University of Oxford</orgName>
+                            <location>
+                                <country key="UK">United Kingdom</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genID46be19fa82cd78431b11b56b671bdc7f">
                             <forename type="male">Wolfgang</forename>
                             <surname>Meier</surname>
                         </persName>
-                    
-                    </person>
-                    <person>
-                        <persName key="genIDc7304170658c8617ef98d9c6a5233c8a">
-                            <forename type="female">Magdalena</forename>
-                            <surname>Turska</surname>
-                        </persName>
-                    
+                        <affiliation>
+                            <orgName>eXist Solutions</orgName>
+                            <location>
+                                <country key="DE">Germany</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="genID0bc4cf2cde8ab1075d0d0143323a53ba">
                             <forename type="male">Lars</forename>
                             <surname>Windauer</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>eXist Solutions</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1367,18 +1414,25 @@
                             <forename type="male">Toshinori</forename>
                             <surname>Uetani</surname>
                         </persName>
-                    
+                        <affiliation>
+                            <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+                            <location>
+                                <country key="FR">France</country>
+                            </location>
+                        </affiliation>
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/300847613">
                             <forename type="female">Sandrine</forename>
                             <surname>Breuil</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université François-Rabelais, Tours</orgName>
+                        <affiliation>
+                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
+                                François-Rabelais, Tours</orgName>
                             <location>
-                        <country key="FR">France</country>
-                    </location>
+                                <country key="FR">France</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1386,11 +1440,12 @@
                             <forename type="male">Mathieu</forename>
                             <surname>Duboc</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université François-Rabelais, Tours</orgName>
+                        <affiliation>
+                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
+                                François-Rabelais, Tours</orgName>
                             <location>
-                        <country key="FR">France</country>
-                    </location>
+                                <country key="FR">France</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1398,25 +1453,26 @@
                             <forename type="male">Guillaume</forename>
                             <surname>Porte</surname>
                         </persName>
-                    
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/172241593">
                             <forename type="male">François</forename>
                             <surname>Vignale</surname>
                         </persName>
-                    
+
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/58911587">
                             <forename type="male">Georg</forename>
                             <surname>Vogeler</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Center for Information Modelling – Austrian Centre for Digital Humanities, University of Graz</orgName>
+                        <affiliation>
+                            <orgName>Center for Information Modelling – Austrian Centre for Digital
+                                Humanities, University of Graz</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1424,11 +1480,12 @@
                             <forename type="male">Joseph</forename>
                             <surname>Wang</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Institute of History and European Ethnology, University of Innsbruck</orgName>
+                        <affiliation>
+                            <orgName>Institute of History and European Ethnology, University of
+                                Innsbruck</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1436,11 +1493,11 @@
                             <forename type="male">Joseph C.</forename>
                             <surname>Wicentowski</surname>
                         </persName>
-                    <affiliation>
+                        <affiliation>
                             <orgName>U.S. Department of State</orgName>
                             <location>
-                        <country key="US">United States of America</country>
-                    </location>
+                                <country key="US">United States of America</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1448,11 +1505,12 @@
                             <forename type="female">Tanja</forename>
                             <surname>Wissik</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                        <affiliation>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
-                        <country key="AT">Austria</country>
-                    </location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1460,11 +1518,12 @@
                             <forename type="male">Dennis</forename>
                             <surname>Zielke</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Computer and Media Service, Humboldt-Universität zu Berlin</orgName>
+                        <affiliation>
+                            <orgName>Computer and Media Service, Humboldt-Universität zu
+                                Berlin</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1472,11 +1531,12 @@
                             <forename type="male">Alexander</forename>
                             <surname>Petrus</surname>
                         </persName>
-                    <affiliation>
-                            <orgName>Institut für Bibliotheks- und Informationswissenschaft, Humboldt-Universität zu Berlin</orgName>
+                        <affiliation>
+                            <orgName>Institut für Bibliotheks- und Informationswissenschaft,
+                                Humboldt-Universität zu Berlin</orgName>
                             <location>
-                        <country key="DE">Germany</country>
-                    </location>
+                                <country key="DE">Germany</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -1484,7 +1544,7 @@
                             <forename type="female">Mary Erica</forename>
                             <surname>Zimmer</surname>
                         </persName>
-                    
+
                     </person>
                 </listPerson>
             </div>
