@@ -16,10 +16,9 @@
                 <pubPlace>Wien</pubPlace>
                 <date when="2017"/>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/" notBefore="2016-08-02">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>The Creative Commons Attribution 4.0 International (CC BY 4.0) License applies
                             to this text.</p>
-                        <p>The license was added for the print version of this text on August 2, 2016.</p>
                         <p>The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
@@ -35,25 +34,25 @@
                 <head>General (technical) remarks</head>
                 <p>
                     This web application is mainly driven by data encoded in XML/TEI. Therefore we
-                    decided to build this web application upon the native XML-database <ref target="http://exist-db.org/">eXist-db</ref> and the main server-side
-                    application logic is implemented in xQuery and XSLT whereas client-side
-                    functions are based upon JavaScript.
+                    decided to build it upon the native XML-database <ref target="http://exist-db.org/">eXist-db</ref>. The main server-side
+                    application logic is implemented in xQuery and XSLT, client-side
+                    functions are based on JavaScript.
                 </p>
                 <p>
-                    The code of this application can be found on <ref target="https://github.com/acdh-oeaw/tei-abstracts-app">GitHub</ref>.
+                    The code of this application is available on <ref target="https://github.com/acdh-oeaw/tei-abstracts-app">GitHub</ref>.
                 </p>
                 <p>
-                    Application architecture/layout and core functionalities are based upon <ref target="https://github.com/acdh-oeaw/generic-de-web-app">generic-de-web-app</ref>. Please refer to <ref target="https://howto.acdh.oeaw.ac.at/blog/books/how-to-build-a-digital-edition-web-app/">How to build a digital edition web app</ref> for further information. 
+                    The application architecture, layout and core functionalities are based on <ref target="https://github.com/acdh-oeaw/generic-de-web-app">generic-de-web-app</ref>. Please refer to <ref target="https://howto.acdh.oeaw.ac.at/blog/books/how-to-build-a-digital-edition-web-app/">How to build a digital edition web app</ref> for further information. 
                 </p>
                 <p>
-                    The applications serves some basic purposes.
+                    This application serves several purposes:
                     <list>
                         <item>Publish the XML/TEI documents of the abstracts of the TEI conference 2016</item>
-                        <item>Publish those XML/TEI documents in a reader friendly way, i.e. as nicely rendered HTML pages.</item>
-                        <item>Enable some basic index based (index of authors) search</item>
-                        <item>Provide some full text search with KWIC results.</item>
+                        <item>Publish these XML/TEI documents in a reader friendly way, i.e. as nicely rendered HTML pages</item>
+                        <item>Enable index based search (index of persons, institutions, countries)</item>
+                        <item>Provide some full text search with KWIC results</item>
                     </list>
-                    Beside those basic features the application should also provide some analysis of its underlying data. 
+                    Aside from these basic features, the application also provides analyses of the underlying data. 
                 </p>
             </div>
         </body>
