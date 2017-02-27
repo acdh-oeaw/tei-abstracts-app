@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gender distribution among the contributors the TEI 2016</title>
+            <title>Gender distribution among the contributors to TEI 2016</title>
             <author>
                <persName>
                   <forename>Peter</forename>
@@ -46,7 +46,7 @@
             <p>Finding out the gender commonly associated with a forename is possible when empirical evidence is available - evidence such as lists of names of persons who declared their own gender. We started with <ref target="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/">such a list</ref> provided by <persName>Mark Kantrowitz</persName>, used e.g. in
                the <ref target="http://www.nltk.org/">NLTK package</ref>. Unfortunately, there is
                hardly any documentation available on the decisions to match names to gender in this list. For this reason, we
-               looked for another resource and found <ref target="https://genderize.io/">genderize.io</ref>, a web service to <q>determine the gender of a first name</q>. The <ref target="https://genderize.io/">genderize.io</ref> website states that the data collected there was assembled by scraping data from social network profiles, where people can declare their gender themselves. <ref target="https://genderize.io/">genderizo.io</ref> provides an API to their data, so we went with them.
+               looked for another resource and found <ref target="https://genderize.io/">genderize.io</ref>, a web service to <q>determine the gender of a first name</q>. The <ref target="https://genderize.io/">genderize.io</ref> website states that the data collected there was assembled by scraping data from social network profiles, where people can declare their gender themselves. <ref target="https://genderize.io/">genderize.io</ref> provides an API to their data, so we went with them.
             </p>
             <p>
                Finding the adequate dataset was hard, using it was easy. We did so by writing a simple xQuery script which 
@@ -66,7 +66,7 @@
          </div>
          <div>
             <head>What happened next</head>
-            <p>After enriching our data, the fun part started. First, we wanted to know the gender distribution amongst the author's forenames. This question was answered by <hi>gender-distribution.xql</hi>, a script that also feeds the matching visualization.</p>
+            <p>After enriching our data, the fun part started. First, we wanted to know the gender distribution amongst the authors' forenames. This question was answered by <hi>gender-distribution.xql</hi>, a script that also feeds the matching visualization.</p>
             <p>In addition, we wanted to know which gender the authors' forenames are associated with for each single abstract. This question was answered by the script <hi>text-gender.xql</hi>, which also feeds its matching visualization.</p>
          </div>
          <div>
