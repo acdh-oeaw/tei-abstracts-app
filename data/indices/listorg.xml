@@ -232,12 +232,6 @@
                     </location>
                 </org>
                 <org>
-                    <orgName>Maynooth University</orgName>
-                    <location>
-                        <country key="UK">United Kingdom</country>
-                    </location>
-                </org>
-                <org>
                     <orgName>CLARIN-D, Berlin-Brandenburg Academy of Sciences</orgName>
                     <location>
                         <country key="DE">Germany</country>
@@ -464,7 +458,7 @@
                     </location>
                 </org>
                 <org>
-                    <orgName> Centre de Recherches Historiques de l’Ouest – Le Mans, Université du Maine</orgName>
+                    <orgName>Centre de Recherches Historiques de l’Ouest – Le Mans, Université du Maine</orgName>
                     <location>
                         <country key="FR">France</country>
                     </location>
@@ -505,8 +499,7 @@
                     <location>
                         <country key="US">United States of America</country>
                     </location>
-                </org>
-                
+                </org>               
                 <org>
                     <orgName>Histoire et Littérature, Collège de France</orgName>
                     <location>

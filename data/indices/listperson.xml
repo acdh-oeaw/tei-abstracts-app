@@ -18,6 +18,18 @@
             <div>
                 <listPerson>
                     <person>
+                        <persName key="http://viaf.org/viaf/138797001">
+                            <forename type="female">Tara Lee</forename>
+                            <surname>Andrews</surname>
+                        </persName>
+                        <affiliation>
+                                <orgName>Department of History, University of Vienna</orgName>
+                                <location>
+                                    <country key="AT">Austria</country>
+                                </location>
+                        </affiliation>
+                    </person>
+                    <person>
                         <persName key="http://viaf.org/viaf/251032539">
                             <forename type="male">Peter</forename>
                             <surname>Andorfer</surname>
@@ -72,7 +84,8 @@
                             <surname>Gaiffe</surname>
                         </persName>
                         <affiliation>
-                            <orgName>ATILF (UMR 7118)</orgName>
+                            <orgName>Analyse et Traitement Informatique de la Langue
+                                Française, Université de Lorraine</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
@@ -82,6 +95,12 @@
                         <persName key="http://viaf.org/viaf/285739999">
                             <forename type="male">Patrice</forename>
                             <surname>Lopez</surname>
+                            <affiliation>
+                                <orgName>Science miner</orgName>
+                                <location>
+                                    <country key="FR">France</country>
+                                </location>
+                            </affiliation>
                         </persName>
                     </person>
                     <person>
@@ -89,6 +108,13 @@
                             <forename type="male">Simon</forename>
                             <surname>Meoni</surname>
                         </persName>
+                        <affiliation>
+                            <orgName>Analyse et Traitement Informatique de la Langue
+                                Française, Université de Lorraine</orgName>
+                            <location>
+                                <country key="FR">France</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/282014122">
@@ -96,9 +122,9 @@
                             <surname>Romary</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Inria</orgName>
+                            <orgName> Institut national de recherche dédié au numérique</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="FR">France</country>
                             </location>
                         </affiliation>
                     </person>
@@ -140,18 +166,6 @@
                         </affiliation>
                     </person>
                     <person>
-                        <persName key="http://viaf.org/viaf/295251101">
-                            <forename type="male">Piotr</forename>
-                            <surname>Bański</surname>
-                        </persName>
-                        <affiliation>
-                            <orgName>Institute for the German Language, Mannheim</orgName>
-                            <location>
-                                <country key="DE">Germany</country>
-                            </location>
-                        </affiliation>
-                    </person>
-                    <person>
                         <persName key="http://viaf.org/viaf/311166103">
                             <forename type="male">Karlheinz</forename>
                             <surname>Mörth</surname>
@@ -183,8 +197,7 @@
                             <surname>Ehrhardt</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Department of German Studies, University of
-                                Duisburg-Essen</orgName>
+                            <orgName>Department of German Studies, University of Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                             </location>
@@ -196,8 +209,7 @@
                             <surname>Herold</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Department of German Studies, University of
-                                Duisburg-Essen</orgName>
+                            <orgName>CLARIN-D, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                             </location>
@@ -221,8 +233,7 @@
                             <surname>Storrer</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Department of German Studies, University of
-                                Duisburg-Essen</orgName>
+                            <orgName>Department of German Studies, University of Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                             </location>
@@ -296,7 +307,7 @@
                             <surname>Declerck</surname>
                         </persName>
                         <affiliation>
-                            <orgName>DFKI GMBH</orgName>
+                            <orgName>German Research Center for Artificial Intelligence</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                             </location>
@@ -418,7 +429,7 @@
                             <surname>Beck Mink</surname>
                         </persName>
                         <affiliation>
-                            <orgName>School of Informatics and Computing, Indiana University</orgName>
+                            <orgName>Council of Library and Information Resources, Knox College</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
@@ -456,7 +467,7 @@
                             <surname>Hooper</surname>
                         </persName>
                         <affiliation>
-                            <orgName>School of Informatics and Computing, Indiana University</orgName>
+                            <orgName>Department of History and Philosophy of Science and Medicine, Indiana University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
@@ -532,8 +543,7 @@
                             <surname>Kraft</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
-                                Sciences</orgName>
+                            <orgName>Berlin-Brandenburg Academy of Sciences and Humanities</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                             </location>
@@ -709,7 +719,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain Federation</country>
+                                <country key="ES">Spain</country>
                             </location>
                         </affiliation>
                     </person>
@@ -1036,7 +1046,6 @@
                             <forename type="male">Eugene W.</forename>
                             <surname>Lyman II</surname>
                         </persName>
-
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/249676043">
@@ -1117,21 +1126,36 @@
                             <forename type="male">A. Charles</forename>
                             <surname>Muller</surname>
                         </persName>
-
+                        <affiliation>
+                            <orgName>Center for Evolving Humanites, University of Tokyo</orgName>
+                            <location>
+                                <country key="JP">Japan</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/113240825">
                             <forename type="male">Masahiro</forename>
                             <surname>Shimoda</surname>
                         </persName>
-
+                        <affiliation>
+                            <orgName>Center for Evolving Humanites, University of Tokyo</orgName>
+                            <location>
+                                <country key="JP">Japan</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/66207154">
                             <forename type="male">Matija</forename>
                             <surname>Ogrin</surname>
                         </persName>
-
+                        <affiliation>
+                            <orgName>Institute of Slovenian Literature and Literary Studies, Research Centre of Slovenian Academy of Sciences and Arts</orgName>
+                            <location>
+                                <country key="SI">Slovenia</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/10709753">
@@ -1415,7 +1439,7 @@
                             <surname>Uetani</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Centre National de la Recherche Scientifique (CNRS)</orgName>
+                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université François-Rabelais, Tours</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
@@ -1453,14 +1477,24 @@
                             <forename type="male">Guillaume</forename>
                             <surname>Porte</surname>
                         </persName>
-
+                        <affiliation>
+                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université François-Rabelais, Tours</orgName>
+                            <location>
+                                <country key="FR">France</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/172241593">
                             <forename type="male">François</forename>
                             <surname>Vignale</surname>
                         </persName>
-
+                        <affiliation>
+                            <orgName>Centre de Recherches Historiques de l’Ouest – Le Mans, Université du Maine</orgName>
+                            <location>
+                                <country key="FR">France</country>
+                            </location>
+                        </affiliation>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/58911587">
@@ -1544,7 +1578,12 @@
                             <forename type="female">Mary Erica</forename>
                             <surname>Zimmer</surname>
                         </persName>
-
+                        <affiliation>
+                            <orgName> Arts and Sciences Writing Program, Boston University</orgName>
+                            <location>
+                                <country key="US">United States of America</country>
+                            </location>
+                        </affiliation>
                     </person>
                 </listPerson>
             </div>
