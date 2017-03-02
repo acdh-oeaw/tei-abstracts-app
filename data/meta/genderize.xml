@@ -43,7 +43,9 @@
          </div>
          <div>
             <head>How we genderized the forenames</head>
-            <p>Finding out the gender commonly associated with a forename is possible when empirical evidence is available - evidence such as lists of names of persons who declared their own gender. We started with <ref target="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/">such a list</ref> provided by <persName>Mark Kantrowitz</persName>, used e.g. in
+            <p>Finding out the gender commonly associated with a forename is possible when empirical evidence is available - evidence such as lists of names of persons who declared their own gender. We started with <ref target="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/">such a list</ref> provided by <persName>
+                        <forename>Mark</forename> <surname>Kantrowitz</surname>
+                    </persName>, used e.g. in
                the <ref target="http://www.nltk.org/">NLTK package</ref>. Unfortunately, there is
                hardly any documentation available on the decisions to match names to gender in this list. For this reason, we
                looked for another resource and found <ref target="https://genderize.io/">genderize.io</ref>, a web service to <q>determine the gender of a first name</q>. The <ref target="https://genderize.io/">genderize.io</ref> website states that the data collected there was assembled by scraping data from social network profiles, where people can declare their gender themselves. <ref target="https://genderize.io/">genderize.io</ref> provides an API to their data, so we went with them.

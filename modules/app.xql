@@ -152,6 +152,8 @@ declare function app:listBook($node as node(), $model as map(*)) {
 declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $person in doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:listPerson/tei:person
+    let $ref := data($person/tei:persName/@key)
+    let $viaf := if (starts-with($ref, 'http')) then <a href="{$ref}">{$ref}</a> else 'no viaf yet provided'
     order by $person//tei:surname
         return
         <tr>
@@ -160,6 +162,7 @@ declare function app:listPers($node as node(), $model as map(*)) {
             <td>{data($person//tei:forename/@type)}</td>
             <td>{$person//tei:orgName}</td>
             <td>{$person//tei:country}</td>
+            <td>{$viaf}</td>
         </tr>
 };
 

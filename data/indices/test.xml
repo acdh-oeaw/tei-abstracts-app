@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -21,7 +22,7 @@
                             <tei:forename type="male">Peter</tei:forename>
                             <tei:surname>Andorfer</tei:surname>
                         </tei:persName>
-                        <tei:affiliation></tei:affiliation>
+                        <tei:affiliation/>
                     </tei:person>
                     <tei:person>
                         <tei:persName key="genID4d58d7742d9eee445968ee117a2fdc3a">

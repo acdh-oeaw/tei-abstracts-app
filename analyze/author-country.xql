@@ -9,7 +9,7 @@ declare namespace tei = "http://www.tei-c.org/ns/1.0";
 declare option exist:serialize "method=json media-type=text/javascript";
 
 let $result := <result>{
-for $author in collection(concat($config:app-root, '/data/indices'))//tei:person
+for $author in doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:person
 let $country := string-join($author//tei:country/text())
 group by $country
 return

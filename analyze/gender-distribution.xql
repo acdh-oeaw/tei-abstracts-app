@@ -8,10 +8,10 @@ import module namespace app="http://www.digital-archiv.at/ns/tei-abstracts/templ
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 declare option exist:serialize "method=json media-type=text/javascript";
 
-let $allAuthors := count(collection(concat($config:app-root, '/data/indices'))//tei:forename)
-let $male := collection(concat($config:app-root, '/data/indices'))//tei:forename[@type='male']
-let $female := collection(concat($config:app-root, '/data/indices'))//tei:forename[@type='female']
-let $nomatch := collection(concat($config:app-root, '/data/indices'))//tei:forename[@type='no-match']
+let $allAuthors := count(doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:forename)
+let $male := doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:forename[@type='male']
+let $female := doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:forename[@type='female']
+let $nomatch := doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:forename[@type='no-match']
 return
     <authors>
         <header>Gender Distribution amongst the Forenames of the Authors</header>

@@ -9,12 +9,12 @@ declare namespace tei = "http://www.tei-c.org/ns/1.0";
 declare option exist:serialize "method=json media-type=text/javascript";
 
 let $result := <result>{
-for $author in collection(concat($config:app-root, '/data/indices'))//tei:person
-let $affiliation := $author//tei:affiliation//tei:orgName
+for $author in doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:person
+let $affiliation := $author//tei:affiliation//tei:orgName/text()
 group by $affiliation
 return
     <payload>
-        <name>{normalize-space($affiliation/text())}</name>
+        <name>{normalize-space($affiliation)}</name>
         <amount>{count($author)}</amount>
     </payload>
 }</result>
