@@ -463,9 +463,7 @@
         </xsl:element>
     </xsl:template><!--  Quotes / Zitate -->
     <xsl:template match="tei:q">
-        <xsl:element name="i">
-            <xsl:apply-templates/>
-        </xsl:element>
+        "<xsl:apply-templates/>"
     </xsl:template><!-- Zeilenumbürche   -->
     <xsl:template match="tei:lb">
         <br/>
