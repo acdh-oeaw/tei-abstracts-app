@@ -88,12 +88,21 @@ for $title in collection(concat($config:app-root, '/data/editions'))//tei:TEI[./
  : creates a basic organisation-index derived from the  '/data/indices/listorg.xml'
  :)
 declare function app:listOrg($node as node(), $model as map(*)) {
-    let $hitHtml := "hits.html?searchkey="
+    let $listperson := doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:TEI
     for $org in doc(concat($config:app-root, '/data/indices/listorg.xml'))//tei:listOrg/tei:org
+    let $id := $org/tei:orgName
+    let $doc := document-uri(root($org))
+    let $type := tokenize($doc,'/')[(last() - 1)]
+    let $params := concat("&amp;directory=", $type, "&amp;stylesheet=listorg&amp;id=", $id)
+    let $country := $org//tei:country
+    order by $country
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($org/@xml:id))}">{$org/tei:orgName}</a>
+                <a href="{concat(app:hrefToDoc($listperson),$params)}">{$org/tei:orgName}</a>
+            </td>
+            <td>
+                {$country}
             </td>
         </tr>
 };
