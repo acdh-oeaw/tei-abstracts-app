@@ -23,10 +23,10 @@
                             <surname>Andrews</surname>
                         </persName>
                         <affiliation>
-                                <orgName>Department of History, University of Vienna</orgName>
-                                <location>
-                                    <country key="AT">Austria</country>
-                                </location>
+                            <orgName>Department of History, University of Vienna</orgName>
+                            <location>
+                                <country key="AT">Austria</country>
+                            </location>
                         </affiliation>
                     </person>
                     <person>
@@ -41,6 +41,22 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="FranziniAndorfer.xml">The Digital Editions Catalogue
+                                    App: A web application to browse, curate and analyze digital
+                                    editions</title>
+                            </bibl>
+                            <bibl>
+                                <title key="AndorferKampkaspar.xml">HowTo create your own digital
+                                    edition web app — A blog</title>
+                            </bibl>
+                            <bibl>
+                                <title key="KingAndorferRosenblum.xml">Support for TEI editions in
+                                    academic libraries. An upcoming study of the Library Publishing
+                                    Coalition</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID4d58d7742d9eee445968ee117a2fdc3a">
@@ -53,6 +69,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="AndorferKampkaspar.xml">HowTo create your own digital
+                                    edition web app — A blog</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDc0b13dd39c11ccb17a1545fc3945e219">
@@ -65,6 +87,12 @@
                                 <country key="LU">Luxembourg</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Armaselu.xml">Writing under the Magnifying Glass.
+                                    Encoding the Text in Progress</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/162800591">
@@ -77,6 +105,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/47146029530335821464">
@@ -84,12 +118,18 @@
                             <surname>Gaiffe</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Analyse et Traitement Informatique de la Langue
-                                Française, Université de Lorraine</orgName>
+                            <orgName>Analyse et Traitement Informatique de la Langue Française,
+                                Université de Lorraine</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/285739999">
@@ -102,6 +142,12 @@
                                 </location>
                             </affiliation>
                         </persName>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID573aa0a4ac2bdfc7ff8ec7b5336f7b81">
@@ -109,12 +155,18 @@
                             <surname>Meoni</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Analyse et Traitement Informatique de la Langue
-                                Française, Université de Lorraine</orgName>
+                            <orgName>Analyse et Traitement Informatique de la Langue Française,
+                                Université de Lorraine</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/282014122">
@@ -127,6 +179,16 @@
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                            <bibl>
+                                <title key="banskimorthromarywitt.xml">Lexical information in the
+                                    TEI: modeling and markup</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID2d68bb59e9ce4b04f2d0ca9e2efc5306">
@@ -139,6 +201,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/160626279">
@@ -152,6 +220,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/171746082">
@@ -164,6 +238,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
+                                    up, standOff!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/311166103">
@@ -177,6 +257,20 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="morthschopper.xml">Wiki2TEI: Wikipedias as sources for
+                                    language research</title>
+                            </bibl>
+                            <bibl>
+                                <title key="declerckmorth.xml">Towards a Repository of Senses for
+                                    Use in TEI encoded Dictionaries</title>
+                            </bibl>
+                            <bibl>
+                                <title key="banskimorthromarywitt.xml">Lexical information in the
+                                    TEI: modeling and markup</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/265475928">
@@ -190,6 +284,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="beisswengerehrhardtheroldlungenstorrer.xml">Converting
+                                    and Representing Social Media Corpora into TEI: Schema and best
+                                    practices from CLARIN-D</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID1c9689025a9e0513f5077c5c49c0a85f">
@@ -202,6 +303,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="beisswengerehrhardtheroldlungenstorrer.xml">Converting
+                                    and Representing Social Media Corpora into TEI: Schema and best
+                                    practices from CLARIN-D</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID7ea3c2797f5f9f991739b85d24d4b258">
@@ -214,6 +322,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="beisswengerehrhardtheroldlungenstorrer.xml">Converting
+                                    and Representing Social Media Corpora into TEI: Schema and best
+                                    practices from CLARIN-D</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key=" http://viaf.org/viaf/310691902">
@@ -226,6 +341,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="beisswengerehrhardtheroldlungenstorrer.xml">Converting
+                                    and Representing Social Media Corpora into TEI: Schema and best
+                                    practices from CLARIN-D</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/29663924">
@@ -238,6 +360,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="beisswengerehrhardtheroldlungenstorrer.xml">Converting
+                                    and Representing Social Media Corpora into TEI: Schema and best
+                                    practices from CLARIN-D</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/304323369">
@@ -245,11 +374,18 @@
                             <surname>Bia</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Departamento de Estadística, Matemáticas e Informática, Universidad Miguel Hernández</orgName>
+                            <orgName>Departamento de Estadística, Matemáticas e Informática,
+                                Universidad Miguel Hernández</orgName>
                             <location>
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Bia.xml">TEI document and schema visualization and
+                                    modeling using mindmaps</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDca0f08d12b0a257697f6d4126bac55e7">
@@ -263,6 +399,17 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="BleierBreen.xml">Documenting Transmission: The Analysis
+                                    of the Folk Process using Versioning Machine 5.0</title>
+                            </bibl>
+                            <bibl>
+                                <title key="BleierHadden.xml">Capturing the crowd-sourcing process:
+                                    storing different stages of crowd-sourced transcriptions in
+                                    TEI</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID3c4c619db649b523edce4de51c5cd2eb">
@@ -275,6 +422,12 @@
                                 <country key="IE">Ireland</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="BleierBreen.xml">Documenting Transmission: The Analysis
+                                    of the Folk Process using Versioning Machine 5.0</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/199576452">
@@ -287,6 +440,13 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="BleierHadden.xml">Capturing the crowd-sourcing process:
+                                    storing different stages of crowd-sourced transcriptions in
+                                    TEI</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
@@ -300,6 +460,16 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="BowersSeltmann.xml">Exploring data models for
+                                    heterogenous dialect data: the case of explore.bread.AT!</title>
+                            </bibl>
+                            <bibl>
+                                <title key="BowersDeclerck.xml">TEI and lemon: a comparative study
+                                    on the lexical encoding and interoperability</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/306105656">
@@ -312,6 +482,16 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="declerckmorth.xml">Towards a Repository of Senses for
+                                    Use in TEI encoded Dictionaries</title>
+                            </bibl>
+                            <bibl>
+                                <title key="BowersDeclerck.xml">TEI and lemon: a comparative study
+                                    on the lexical encoding and interoperability</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDa52c15d700e84648e628400474bc9b5b">
@@ -325,6 +505,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="BowersSeltmann.xml">Exploring data models for
+                                    heterogenous dialect data: the case of explore.bread.AT!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDcc75259c3ec8f76ca6db5a5ec6eecca0">
@@ -337,6 +523,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Broughton.xml">Encoding Text as a Nexus of Perspective
+                                    Hierarchies: Case Studies in XML, LMNL, and RDF</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/78316782">
@@ -349,6 +541,12 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="CaylessViglianti.xml">CETEIcean, a JavaScript library
+                                    for isomorphic TEI to HTML transformation</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID0843aa04772d0fda90b691411f799efd">
@@ -356,11 +554,18 @@
                             <surname>Viglianti</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Maryland Institute for Technology in the Humanities, University of Maryland</orgName>
+                            <orgName>Maryland Institute for Technology in the Humanities, University
+                                of Maryland</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="CaylessViglianti.xml">CETEIcean, a JavaScript library
+                                    for isomorphic TEI to HTML transformation</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/227725412">
@@ -374,6 +579,11 @@
                                 <country key="IT">Italy</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Ciotti.xml">We are TEI. You will be assimilated!</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDf5ac59a6048b9b044e204ae067f13378">
@@ -386,6 +596,20 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Cummings.xml">Purifying and Simplifying: Advanced TEI
+                                    Customization</title>
+                            </bibl>
+                            <bibl>
+                                <title key="CummingsPragChartrand.xml">Upconversion and Migration:
+                                    Generating a TEI-EpiDoc Corpus of Sicilian Inscriptions</title>
+                            </bibl>
+                            <bibl>
+                                <title key="HolfordJonesCummings.xml"> at Oxford and
+                                    Cambridge</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/205238621">
@@ -398,6 +622,12 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="CummingsPragChartrand.xml">Upconversion and Migration:
+                                    Generating a TEI-EpiDoc Corpus of Sicilian Inscriptions</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDfa4fc3095017aeaf2e73a8106de7304c">
@@ -410,6 +640,12 @@
                                 <country key="CA">Canada</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="CummingsPragChartrand.xml">Upconversion and Migration:
+                                    Generating a TEI-EpiDoc Corpus of Sicilian Inscriptions</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID7dfe3e7f412051c1744c4ecf98f614be">
@@ -422,6 +658,13 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DalmauMinkVoelkelWalshHooperNewmanIII.xml">The
+                                    Authoritative Bibliography for the Chymistry of Isaac
+                                    Newton</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID4d28a5d96f21b2abf42eb74d86d23985">
@@ -429,11 +672,19 @@
                             <surname>Beck Mink</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Council of Library and Information Resources, Knox College</orgName>
+                            <orgName>Council of Library and Information Resources, Knox
+                                College</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DalmauMinkVoelkelWalshHooperNewmanIII.xml">The
+                                    Authoritative Bibliography for the Chymistry of Isaac
+                                    Newton</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/222855969">
@@ -447,6 +698,13 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DalmauMinkVoelkelWalshHooperNewmanIII.xml">The
+                                    Authoritative Bibliography for the Chymistry of Isaac
+                                    Newton</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID103cf06f10937d6c53c42e11c0b0cca0">
@@ -460,6 +718,13 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DalmauMinkVoelkelWalshHooperNewmanIII.xml">The
+                                    Authoritative Bibliography for the Chymistry of Isaac
+                                    Newton</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID630a8bce3920f3e688b7df3f516a66ff">
@@ -467,11 +732,19 @@
                             <surname>Hooper</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Department of History and Philosophy of Science and Medicine, Indiana University</orgName>
+                            <orgName>Department of History and Philosophy of Science and Medicine,
+                                Indiana University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DalmauMinkVoelkelWalshHooperNewmanIII.xml">The
+                                    Authoritative Bibliography for the Chymistry of Isaac
+                                    Newton</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/56700335">
@@ -485,6 +758,13 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DalmauMinkVoelkelWalshHooperNewmanIII.xml">The
+                                    Authoritative Bibliography for the Chymistry of Isaac
+                                    Newton</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID88e0cde433405b56bf1c47b15a065322">
@@ -498,6 +778,13 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DalmauMinkVoelkelWalshHooperNewmanIII.xml">The
+                                    Authoritative Bibliography for the Chymistry of Isaac
+                                    Newton</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID2e6ae182a5c78bd71c1d4e5a8cc9e285">
@@ -511,6 +798,16 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="deTienne_poster.xml">STEP Transcriptor and STEP Text
+                                    Comparator</title>
+                            </bibl>
+                            <bibl>
+                                <title key="deTienne_demo.xml">STEP Transcriptor: a comprehensive
+                                    TEI-XML compliant transcription app</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/303480271">
@@ -523,6 +820,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DumontHaafKraftCzmielThomasBoenig.xml">Applying Standard
+                                    Formats and Tools: as an Example for the Collective Subsequent
+                                    Use of DTABf and ediarum</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/305928516">
@@ -536,6 +840,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DumontHaafKraftCzmielThomasBoenig.xml">Applying Standard
+                                    Formats and Tools: as an Example for the Collective Subsequent
+                                    Use of DTABf and ediarum</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/205809746">
@@ -549,6 +860,13 @@
                             </location>
                         </affiliation>
 
+                        <listBibl>
+                            <bibl>
+                                <title key="DumontHaafKraftCzmielThomasBoenig.xml">Applying Standard
+                                    Formats and Tools: as an Example for the Collective Subsequent
+                                    Use of DTABf and ediarum</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/40550920">
@@ -561,6 +879,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DumontHaafKraftCzmielThomasBoenig.xml">Applying Standard
+                                    Formats and Tools: as an Example for the Collective Subsequent
+                                    Use of DTABf and ediarum</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID4bee645da5a0fbef20b457da89b9f79a">
@@ -574,6 +899,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DumontHaafKraftCzmielThomasBoenig.xml">Applying Standard
+                                    Formats and Tools: as an Example for the Collective Subsequent
+                                    Use of DTABf and ediarum</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID01c7679f56d8fcea3b206899efa7d34c">
@@ -587,6 +919,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="DumontHaafKraftCzmielThomasBoenig.xml">Applying Standard
+                                    Formats and Tools: as an Example for the Collective Subsequent
+                                    Use of DTABf and ediarum</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID014a63e42a6ac3160bdfff6d522ceb53">
@@ -600,6 +939,13 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="FaghihiJocham.xml">Islamic Manuscripts in Cambridge
+                                    Digital Library &amp; the German-French virtual library project
+                                    Paleocoran</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID33303f3bd5db03e1042d500a9594c12f">
@@ -612,6 +958,13 @@
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="FaghihiJocham.xml">Islamic Manuscripts in Cambridge
+                                    Digital Library &amp; the German-French virtual library project
+                                    Paleocoran</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDe730f3a0bff2829021ff685e8784790e">
@@ -625,6 +978,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="FranziniAndorfer.xml">The Digital Editions Catalogue
+                                    App: A web application to browse, curate and analyze digital
+                                    editions</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDbc7d3c2b2f1b8bfd8a2058076f52af44">
@@ -637,6 +997,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="funkkollatzschmidsoringveentjer.xml">Around the world in
+                                    a TextGrid day. Edit, manage, publish, and explore your TEI data
+                                    with TextGrid and DARIAH-DE</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/311735519">
@@ -644,11 +1011,19 @@
                             <surname>Kollatz</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte</orgName>
+                            <orgName>Salomon Ludwig Steinheim-Institut für deutsch-jüdische
+                                Geschichte</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="funkkollatzschmidsoringveentjer.xml">Around the world in
+                                    a TextGrid day. Edit, manage, publish, and explore your TEI data
+                                    with TextGrid and DARIAH-DE</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID01bbfcea9fb2c048edcd5e22f6c5945d">
@@ -661,6 +1036,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="funkkollatzschmidsoringveentjer.xml">Around the world in
+                                    a TextGrid day. Edit, manage, publish, and explore your TEI data
+                                    with TextGrid and DARIAH-DE</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/818147270494635700004">
@@ -673,6 +1055,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="funkkollatzschmidsoringveentjer.xml">Around the world in
+                                    a TextGrid day. Edit, manage, publish, and explore your TEI data
+                                    with TextGrid and DARIAH-DE</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDe3382c4908c71a57dafaa1d593b00deb">
@@ -685,6 +1074,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="funkkollatzschmidsoringveentjer.xml">Around the world in
+                                    a TextGrid day. Edit, manage, publish, and explore your TEI data
+                                    with TextGrid and DARIAH-DE</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/59147905242279092527">
@@ -697,6 +1093,12 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="GibsonMichelson.xml">Modeling a Body of Literature in
+                                    TEI: Bibliotheca Hagiographica Syriaca Electronica</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID04a7fa2e6546250906da1b20e28ef14f">
@@ -710,6 +1112,12 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="GibsonMichelson.xml">Modeling a Body of Literature in
+                                    TEI: Bibliotheca Hagiographica Syriaca Electronica</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/175982042">
@@ -722,6 +1130,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID332f850382a244b759ea52c5b11dfe06">
@@ -734,6 +1148,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDa8b2c996594e3fc4c1902253da7bd045">
@@ -746,6 +1166,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/261749100">
@@ -759,6 +1185,12 @@
                                 <country key="AR">Argentina</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDfa23e85501651362ef3b32ace2679fd3">
@@ -771,6 +1203,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/296443412">
@@ -783,6 +1221,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID85d8ee0698dca49483e2944a50ae9271">
@@ -795,6 +1239,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID933530518f9ff90a7017148989ef1fec">
@@ -807,6 +1257,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID1fb4d2c70f9c34ef1c07b4ea61881fb7">
@@ -819,6 +1275,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDa828d27d13cfbcc6bb586ed3acdbfa50">
@@ -831,6 +1293,12 @@
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="gonzalez-blancorobles-gomezrosriandehernandezurizarmartinezpastorcanocaminero.xml">TEIScribe: A graphic tool for composing and testing TEI
+                                    documents in the context of the EVI-LINHD environment</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/31146030596135862230">
@@ -844,6 +1312,17 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="reschschopperhannesschlagerwohlfartermaderfischer.xml">Wienerisches Diarium Digital: Unlocking a historic newspaper
+                                    for interdisciplinary studies with the TEI Guidelines</title>
+                            </bibl>
+                            <bibl>
+                                <title key="hannesschlager.xml">Common Creativity international.
+                                    CC-licensing and other options for TEI-based digital editions in
+                                    an international context</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID4c349f0b28b7b2a9710fc4cc590c873e">
@@ -856,6 +1335,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="HebenstreitHerberthTezarekZolles.xml">Andreas Okopenko:
+                                    diaries from the poet’s estate (hybrid edition)</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDcc28d6e542fa7e9831776712fad2c466">
@@ -868,6 +1353,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="HebenstreitHerberthTezarekZolles.xml">Andreas Okopenko:
+                                    diaries from the poet’s estate (hybrid edition)</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/100576375">
@@ -880,6 +1371,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="HebenstreitHerberthTezarekZolles.xml">Andreas Okopenko:
+                                    diaries from the poet’s estate (hybrid edition)</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/296142770">
@@ -892,6 +1389,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="HebenstreitHerberthTezarekZolles.xml">Andreas Okopenko:
+                                    diaries from the poet’s estate (hybrid edition)</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/312638971">
@@ -904,6 +1407,12 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="HolfordJonesCummings.xml"> at Oxford and
+                                    Cambridge</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDcbaaf3be8fd1390a438737c14de79133">
@@ -916,6 +1425,12 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="HolfordJonesCummings.xml"> at Oxford and
+                                    Cambridge</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDab3b6abc53f03e801808eaaf654746d1">
@@ -929,6 +1444,13 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="KingAndorferRosenblum.xml">Support for TEI editions in
+                                    academic libraries. An upcoming study of the Library Publishing
+                                    Coalition</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/220145541821096601211">
@@ -941,6 +1463,13 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="KingAndorferRosenblum.xml">Support for TEI editions in
+                                    academic libraries. An upcoming study of the Library Publishing
+                                    Coalition</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/5254585">
@@ -948,11 +1477,19 @@
                             <surname>Klugseder</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Institute for History of Art and Musicology, Austrian Academy of Sciences</orgName>
+                            <orgName>Institute for History of Art and Musicology, Austrian Academy
+                                of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="KlugsederSteiner.xml">Cantus Network — a semantically
+                                    enriched digital edition of libri ordinarii of the Salzburg
+                                    metropolitan province</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID8678448055e30497ab2ac093f2a7682d">
@@ -965,6 +1502,13 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="KlugsederSteiner.xml">Cantus Network — a semantically
+                                    enriched digital edition of libri ordinarii of the Salzburg
+                                    metropolitan province</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDbdb55642a32858fc997a87c09b691d7a">
@@ -977,6 +1521,12 @@
                                 <country key="HU">Hungary</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="kodolanyi.xml">Móricz Digital Edition — Possibilities
+                                    and connections of a correspondence material</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/64289700">
@@ -989,6 +1539,12 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="LembiMylonasSatlow.xml">Bibliography in the Inscriptions
+                                    of Israel / Palestine Epigraphic Project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/311203805">
@@ -996,11 +1552,18 @@
                             <surname>Mylonas</surname>
                         </persName>
                         <affiliation>
-                            <orgName>University Library Center for Digital Scholarship, Brown University</orgName>
+                            <orgName>University Library Center for Digital Scholarship, Brown
+                                University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="LembiMylonasSatlow.xml">Bibliography in the Inscriptions
+                                    of Israel / Palestine Epigraphic Project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/69143584">
@@ -1013,6 +1576,12 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="LembiMylonasSatlow.xml">Bibliography in the Inscriptions
+                                    of Israel / Palestine Epigraphic Project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID1252f4807ab4fa146dcfa8fb7d0d29e3">
@@ -1020,11 +1589,18 @@
                             <surname>Looschen</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Institute of Slavic Studies, Carl von Ossietzky University</orgName>
+                            <orgName>Institute of Slavic Studies, Carl von Ossietzky
+                                University</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="looschenborner.xml">Database of Belarusian
+                                    Periodicals</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/203147266599235480662">
@@ -1037,12 +1613,24 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="looschenborner.xml">Database of Belarusian
+                                    Periodicals</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID6fee57602759d898c9458be3ff2af12f">
                             <forename type="male">Eugene W.</forename>
                             <surname>Lyman II</surname>
                         </persName>
+                        <listBibl>
+                            <bibl>
+                                <title key="LymanII.xml">The Elwood Markup &amp; Text Analyzer
+                                    (TEMTA)</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/249676043">
@@ -1050,11 +1638,31 @@
                             <surname>Schopper</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="SchopperKovalenkoDeclerckWandl-Vogt.xml"> Encoding a
+                                    Dictionary of Russian Dialects in TEI and linking to LOD
+                                    Resources</title>
+                            </bibl>
+                            <bibl>
+                                <title key="reschschopperhannesschlagerwohlfartermaderfischer.xml">Wienerisches Diarium Digital: Unlocking a historic newspaper
+                                    for interdisciplinary studies with the TEI Guidelines</title>
+                            </bibl>
+                            <bibl>
+                                <title key="ReschSchopper.xml">Encoding crime and punishment: A
+                                    digital collection of historic broadsheets</title>
+                            </bibl>
+                            <bibl>
+                                <title key="morthschopper.xml">Wiki2TEI: Wikipedias as sources for
+                                    language research</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/197982363">
@@ -1062,11 +1670,18 @@
                             <surname>McAllister</surname>
                         </persName>
                         <affiliation>
-                            <orgName> Institute for the Cultural and Intellectual History of Asia, Austrian Academy of Sciences</orgName>
+                            <orgName> Institute for the Cultural and Intellectual History of Asia,
+                                Austrian Academy of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="McAllister.xml">Does this shoe fit? Applying the TEI
+                                    guidelines to Sanskrit philosophical texts</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDc66f1c9c6a0b777e4f9226b51c054e84">
@@ -1079,6 +1694,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="MorgensternAmminger.xml">Biography as compilation: How
+                                    to edit Georg Nikolaus Nissen’s (1828) in TEI</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID9ca45be867443c12e5f7b24c454c15ae">
@@ -1091,6 +1712,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="MorgensternAmminger.xml">Biography as compilation: How
+                                    to edit Georg Nikolaus Nissen’s (1828) in TEI</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/252742522">
@@ -1098,11 +1725,18 @@
                             <surname>Nagasaki</surname>
                         </persName>
                         <affiliation>
-                            <orgName>International Institute for Digital Humanities / University of Tokyo</orgName>
+                            <orgName>International Institute for Digital Humanities / University of
+                                Tokyo</orgName>
                             <location>
                                 <country key="JP">Japan</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="NagasakiTsudaMullerShimoda.xml">Tagging on Buddhist
+                                    Images via IIIF and TEI encoding</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/192915359">
@@ -1115,6 +1749,12 @@
                                 <country key="JP">Japan</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="NagasakiTsudaMullerShimoda.xml">Tagging on Buddhist
+                                    Images via IIIF and TEI encoding</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID4bd175502088a1edc63f40823adbc2ba">
@@ -1127,6 +1767,12 @@
                                 <country key="JP">Japan</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="NagasakiTsudaMullerShimoda.xml">Tagging on Buddhist
+                                    Images via IIIF and TEI encoding</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/113240825">
@@ -1139,6 +1785,12 @@
                                 <country key="JP">Japan</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="NagasakiTsudaMullerShimoda.xml">Tagging on Buddhist
+                                    Images via IIIF and TEI encoding</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/66207154">
@@ -1146,11 +1798,18 @@
                             <surname>Ogrin</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Institute of Slovenian Literature and Literary Studies, Research Centre of Slovenian Academy of Sciences and Arts</orgName>
+                            <orgName>Institute of Slovenian Literature and Literary Studies,
+                                Research Centre of Slovenian Academy of Sciences and Arts</orgName>
                             <location>
                                 <country key="SI">Slovenia</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="OgrinErjavec.xml"> Early Modern Slovenian Manuscripts
+                                    Between Description, Critical Edition and Lexicon</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/10709753">
@@ -1158,11 +1817,18 @@
                             <surname>Erjavec</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Department of Knowledge Technologies, Jožef Stefan Institute</orgName>
+                            <orgName>Department of Knowledge Technologies, Jožef Stefan
+                                Institute</orgName>
                             <location>
                                 <country key="SI">Slovenia</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="OgrinErjavec.xml"> Early Modern Slovenian Manuscripts
+                                    Between Description, Critical Edition and Lexicon</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID088c59a0e8db6a6115ceec5d87a67b23">
@@ -1170,11 +1836,18 @@
                             <surname>Palmer</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Emory Center for Digital Scholarship, Emory University</orgName>
+                            <orgName>Emory Center for Digital Scholarship, Emory
+                                University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Palmer.xml">Creating Digital Critical Editions with
+                                    Readux</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDa166bb8c04fe44d1b253a85b242eb717">
@@ -1182,11 +1855,17 @@
                             <surname>Pinche</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Centre Interuniversitaire d’Histoire et d’Archéologie Médiévales</orgName>
+                            <orgName>Centre Interuniversitaire d’Histoire et d’Archéologie
+                                Médiévales</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Pinche.xml">Hyperdonat, digital edition project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/73669237">
@@ -1194,11 +1873,18 @@
                             <surname>Pytlik Zillig</surname>
                         </persName>
                         <affiliation>
-                            <orgName> Centre for Digital Research in the Humanities, University of Nebraska-Lincoln</orgName>
+                            <orgName> Centre for Digital Research in the Humanities, University of
+                                Nebraska-Lincoln</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="PytlikZillig.xml">Shakespeare's N-grams at 400:
+                                    Comparing Content Themes With Four Contemporaries</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/52846347">
@@ -1206,11 +1892,22 @@
                             <surname>Resch</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="reschschopperhannesschlagerwohlfartermaderfischer.xml">Wienerisches Diarium Digital: Unlocking a historic newspaper
+                                    for interdisciplinary studies with the TEI Guidelines</title>
+                            </bibl>
+                            <bibl>
+                                <title key="ReschSchopper.xml">Encoding crime and punishment: A
+                                    digital collection of historic broadsheets</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDf4c7c1680fd0a3bfe62fd1afb869c00b">
@@ -1218,11 +1915,18 @@
                             <surname>Wohlfarter</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="reschschopperhannesschlagerwohlfartermaderfischer.xml">Wienerisches Diarium Digital: Unlocking a historic newspaper
+                                    for interdisciplinary studies with the TEI Guidelines</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/43734505">
@@ -1236,6 +1940,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="reschschopperhannesschlagerwohlfartermaderfischer.xml">Wienerisches Diarium Digital: Unlocking a historic newspaper
+                                    for interdisciplinary studies with the TEI Guidelines</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID696defac6a310023c5b5ba3bac7a5fc2">
@@ -1243,11 +1953,18 @@
                             <surname>Fischer</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Institute for History of Art and Musicology, Austrian Academy of Sciences</orgName>
+                            <orgName>Institute for History of Art and Musicology, Austrian Academy
+                                of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="reschschopperhannesschlagerwohlfartermaderfischer.xml">Wienerisches Diarium Digital: Unlocking a historic newspaper
+                                    for interdisciplinary studies with the TEI Guidelines</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID6bf61aa867496ab524289d54fffe0b32">
@@ -1260,6 +1977,12 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Rogers.xml">Creating a maintainable cataloging workflow
+                                    and infrastructure using TEI</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID8f2d52d2d3f397782dc04a1073b3a309">
@@ -1267,11 +1990,18 @@
                             <surname>Bermudez Sabel</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Departamento de Filoloxía Galega, Universidade de Santiago de Compostela</orgName>
+                            <orgName>Departamento de Filoloxía Galega, Universidade de Santiago de
+                                Compostela</orgName>
                             <location>
                                 <country key="ES">Spain</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Sabel.xml">Tomayto, tomahto? Encoding variant taxonomies
+                                    in TEI</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/109145541733896601584">
@@ -1279,11 +2009,17 @@
                             <surname>Scholger</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Center for Information Modelling – Austrian Centre for Digital Humanities, University of Graz</orgName>
+                            <orgName>Center for Information Modelling – Austrian Centre for Digital
+                                Humanities, University of Graz</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="ScholgerStadler.xml">TEI2German Translatathon</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID9fa3da2b326008cac7ad8d140eafa2fa">
@@ -1291,11 +2027,19 @@
                             <surname>Kovalenko</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Institute for Lingustic Studies, Russian Academy of Sciences</orgName>
+                            <orgName>Institute for Lingustic Studies, Russian Academy of
+                                Sciences</orgName>
                             <location>
                                 <country key="RU">Russia</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="SchopperKovalenkoDeclerckWandl-Vogt.xml"> Encoding a
+                                    Dictionary of Russian Dialects in TEI and linking to LOD
+                                    Resources</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/306137134">
@@ -1303,11 +2047,19 @@
                             <surname>Wandl-Vogt</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</orgName>
+                            <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
+                                Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="SchopperKovalenkoDeclerckWandl-Vogt.xml"> Encoding a
+                                    Dictionary of Russian Dialects in TEI and linking to LOD
+                                    Resources</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID5b53c4f161024460bd33dbeac96f62d6">
@@ -1320,6 +2072,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="schulzgeisslerperathoner.xml">Building a collaborative
+                                    editorial workbench for legal texts with complex
+                                    structures</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/68770782">
@@ -1332,6 +2091,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="schulzgeisslerperathoner.xml">Building a collaborative
+                                    editorial workbench for legal texts with complex
+                                    structures</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID40e88cf196801d011d30d80621198924">
@@ -1344,6 +2110,13 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="schulzgeisslerperathoner.xml">Building a collaborative
+                                    editorial workbench for legal texts with complex
+                                    structures</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/47401803">
@@ -1356,6 +2129,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Sievers.xml"> T³ – Typesetting TEI Using TeX. A Plea for
+                                    High-quality Typesetting in the Humanities </title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDbd35792abb9bc4d7779b8f948266292b">
@@ -1368,6 +2147,12 @@
                                 <country key="RU">Russia</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="SkorinkinMozhaev.xml">TEI markup for the 90-volume
+                                    edition of Leo Tolstoy’s complete works</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID60b15aa11ba208d959fe91cf815715f0">
@@ -1380,6 +2165,12 @@
                                 <country key="RU">Russia</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="SkorinkinMozhaev.xml">TEI markup for the 90-volume
+                                    edition of Leo Tolstoy’s complete works</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/307490314">
@@ -1392,6 +2183,20 @@
                                 <country key="UK">United Kingdom</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="TurskaWindauer.xml">eXistdb: more than a
+                                    database</title>
+                            </bibl>
+                            <bibl>
+                                <title key="TurskaMeier_demo.xml">Early Print: annotation module for
+                                    TEI</title>
+                            </bibl>
+                            <bibl>
+                                <title key="WicentowskiTurska.xml">Bringing TEI PM to Foggy
+                                    Bottom</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID46be19fa82cd78431b11b56b671bdc7f">
@@ -1404,6 +2209,16 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="TurskaMeier_paper.xml">TEI Processing Model
+                                    Toolbox</title>
+                            </bibl>
+                            <bibl>
+                                <title key="TurskaMeier_demo.xml">Early Print: annotation module for
+                                    TEI</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID0bc4cf2cde8ab1075d0d0143323a53ba">
@@ -1416,6 +2231,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="TurskaWindauer.xml">eXistdb: more than a
+                                    database</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/200939827">
@@ -1423,12 +2244,19 @@
                             <surname>Uetani</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université François-Rabelais, Tours</orgName>
+                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
+                                François-Rabelais, Tours</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
 
+                        <listBibl>
+                            <bibl>
+                                <title key="UetaniBreuilDubocPorte.xml">The BVH in Tours and the
+                                    project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/300847613">
@@ -1442,6 +2270,12 @@
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="UetaniBreuilDubocPorte.xml">The BVH in Tours and the
+                                    project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID8f08c243f3053a0255178117a467dd47">
@@ -1455,6 +2289,12 @@
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="UetaniBreuilDubocPorte.xml">The BVH in Tours and the
+                                    project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID0f3747ce4532f861279266dff127ac15">
@@ -1462,11 +2302,18 @@
                             <surname>Porte</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université François-Rabelais, Tours</orgName>
+                            <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
+                                François-Rabelais, Tours</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="UetaniBreuilDubocPorte.xml">The BVH in Tours and the
+                                    project</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/172241593">
@@ -1474,11 +2321,18 @@
                             <surname>Vignale</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Centre de Recherches Historiques de l’Ouest – Le Mans, Université du Maine</orgName>
+                            <orgName>Centre de Recherches Historiques de l’Ouest – Le Mans,
+                                Université du Maine</orgName>
                             <location>
                                 <country key="FR">France</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Vignale.xml">EuRED: XML-TEI in database
+                                    structure</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/58911587">
@@ -1492,6 +2346,11 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Vogeler.xml">Encoding Text about Things</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID11237979dc945142afee8b752f5bf827">
@@ -1505,6 +2364,11 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Wang.xml">From DOCX via TEI to Literature Map</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID9fe0ee1d81e02fcc579be00cd7d90469">
@@ -1517,6 +2381,12 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="WicentowskiTurska.xml">Bringing TEI PM to Foggy
+                                    Bottom</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/70107717">
@@ -1530,6 +2400,12 @@
                                 <country key="AT">Austria</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Wissik.xml">ACDH Tool Gallery 2.2: TEI Basics – A gentle
+                                    introduction to Text Encoding</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID74a373d257350a109678662cb287b875">
@@ -1543,6 +2419,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="ZielkePetrus.xml">Automating the validation of TEI
+                                    metadata processing</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genIDcfc165fa73a755e549c4c0c44f6f3d41">
@@ -1556,6 +2438,12 @@
                                 <country key="DE">Germany</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="ZielkePetrus.xml">Automating the validation of TEI
+                                    metadata processing</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="genID55c1be7621e04766d94a3fa709a78d67">
@@ -1568,6 +2456,12 @@
                                 <country key="US">United States of America</country>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Zimmer.xml">TEI in the Archives: Unfolding the Bookshops
+                                    in Paul’s Cross Churchyard</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                 </listPerson>
             </div>

@@ -5,9 +5,11 @@
         <create qname="tei:term" type="xs:string"/>
         <create qname="tei:persName" type="xs:string"/>
         <create qname="tei:placeName" type="xs:string"/>
+        <create qname="@key" type="xs:string"/>
+        <create qname="@ref" type="xs:string"/>
+        
         <lucene>
             <text qname="tei:p"/>
-            <text qname="tei:msDesc"/>
         </lucene>
     </index>
 </collection>
