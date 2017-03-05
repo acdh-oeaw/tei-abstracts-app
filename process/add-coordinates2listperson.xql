@@ -7,6 +7,9 @@ import module namespace config="http://www.digital-archiv.at/ns/tei-abstracts/co
 import module namespace app="http://www.digital-archiv.at/ns/tei-abstracts/templates" at "../modules/app.xql";
 declare namespace tei = "http://www.tei-c.org/ns/1.0";
 
-let $searchkey := "http://viaf.org/viaf/265475928"
-for $title in collection(concat($config:app-root, '/data/editions'))//tei:TEI[.//tei:author[.//*[@*=$searchkey]]]
-return $title
+for $location in doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:location
+let $key := "country_"||data($location/tei:country/@key)
+let $geo := doc(concat($config:app-root, '/data/indices/listplace.xml'))//tei:place[@xml:id=$key]/tei:location/tei:geo
+where count($geo/text()) gt 0
+return 
+    update insert $geo into $location

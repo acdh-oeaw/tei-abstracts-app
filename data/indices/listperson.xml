@@ -9,7 +9,7 @@
                 <p/>
             </publicationStmt>
             <sourceDesc>
-                <p>automatically derived with create-pers-list.xql</p>
+                <p>automatically derived with create-pers-list.xql and further processed with add-gender-genderize-listpers.xql, addBibl2listperson.xql and add-coordinates2listperson.xql</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -26,6 +26,7 @@
                             <orgName>Department of History, University of Vienna</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                     </person>
@@ -39,6 +40,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -67,6 +69,7 @@
                             <orgName>Herzog August Bibliothek, Wolfenbüttel</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -85,6 +88,7 @@
                             <orgName>University of Luxembourg</orgName>
                             <location>
                                 <country key="LU">Luxembourg</country>
+                                <geo>6.1667, 49.75</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -103,6 +107,7 @@
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -122,6 +127,7 @@
                                 Université de Lorraine</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -139,6 +145,7 @@
                                 <orgName>Science miner</orgName>
                                 <location>
                                     <country key="FR">France</country>
+                                    <geo>2, 46</geo>
                                 </location>
                             </affiliation>
                         </persName>
@@ -159,6 +166,7 @@
                                 Université de Lorraine</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -177,6 +185,7 @@
                             <orgName> Institut national de recherche dédié au numérique</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -199,6 +208,7 @@
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -218,6 +228,7 @@
                                 of Paderborn</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -236,6 +247,7 @@
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -255,6 +267,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -282,6 +295,7 @@
                                 Duisburg-Essen</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -301,6 +315,7 @@
                             <orgName>Department of German Studies, University of Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -320,6 +335,7 @@
                             <orgName>CLARIN-D, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -339,6 +355,7 @@
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -358,6 +375,7 @@
                             <orgName>Department of German Studies, University of Mannheim</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -378,6 +396,7 @@
                                 Universidad Miguel Hernández</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -397,6 +416,7 @@
                                 Humanities, University of Graz</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -420,6 +440,7 @@
                             <orgName>Maynooth University</orgName>
                             <location>
                                 <country key="IE">Ireland</country>
+                                <geo>-8, 53</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -438,6 +459,7 @@
                             <orgName>Maynooth University</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -458,6 +480,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -480,6 +503,7 @@
                             <orgName>German Research Center for Artificial Intelligence</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -503,6 +527,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -521,6 +546,7 @@
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -539,6 +565,7 @@
                             <orgName>Duke University Libraries, Duke University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -558,6 +585,7 @@
                                 of Maryland</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -577,6 +605,7 @@
                                 Università Roma Tor Vergata</orgName>
                             <location>
                                 <country key="IT">Italy</country>
+                                <geo>12.8333, 42.8333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -594,6 +623,7 @@
                             <orgName>IT Services, University of Oxford</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -620,6 +650,7 @@
                             <orgName>Classics Faculty, University of Oxford</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -656,6 +687,7 @@
                             <orgName>Indiana University Libraries, Indiana University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -676,6 +708,7 @@
                                 College</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -696,6 +729,7 @@
                                 Foundation</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -716,6 +750,7 @@
                                 University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -736,6 +771,7 @@
                                 Indiana University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -756,6 +792,7 @@
                                 Indiana University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -776,6 +813,7 @@
                                 Indiana University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -796,6 +834,7 @@
                                 Indianapolis</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -818,6 +857,7 @@
                             <orgName>TELOTA, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -838,6 +878,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -857,6 +898,7 @@
                             <orgName>Berlin-Brandenburg Academy of Sciences and Humanities</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
 
@@ -877,6 +919,7 @@
                             <orgName>TELOTA, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -897,6 +940,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -917,6 +961,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -937,6 +982,7 @@
                                 Library</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -956,6 +1002,7 @@
                             <orgName>Histoire et Littérature, Collège de France</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -976,6 +1023,7 @@
                                 Georg-August-Universität Göttingen</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -995,6 +1043,7 @@
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1015,6 +1064,7 @@
                                 Geschichte</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1034,6 +1084,7 @@
                             <orgName>Fachbereich Chemie, Technische Universität Darmstadt</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1053,6 +1104,7 @@
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1072,6 +1124,7 @@
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1091,6 +1144,7 @@
                             <orgName>School of Divinity, Vanderbilt University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1110,6 +1164,7 @@
                                 University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1128,6 +1183,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1146,6 +1202,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1164,6 +1221,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1201,6 +1259,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1219,6 +1278,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1237,6 +1297,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1255,6 +1316,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1273,6 +1335,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1291,6 +1354,7 @@
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1310,6 +1374,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1333,6 +1398,7 @@
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1351,6 +1417,7 @@
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1369,6 +1436,7 @@
                             <orgName>Literary Archives, Austrian National Library</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1387,6 +1455,7 @@
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1405,6 +1474,7 @@
                             <orgName>Bodleian Library, University of Oxford</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1423,6 +1493,7 @@
                             <orgName>Cambridge University Library</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1442,6 +1513,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1461,6 +1533,7 @@
                             <orgName>University of Kansas Libraries, University of Kansas</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1481,6 +1554,7 @@
                                 of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1500,6 +1574,7 @@
                             <orgName>Institute of Economics, University of Graz</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1519,6 +1594,7 @@
                             <orgName>Petőfi Literary Museum</orgName>
                             <location>
                                 <country key="HU">Hungary</country>
+                                <geo>20, 47</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1537,6 +1613,7 @@
                             <orgName>Department of Judaic Studies, Brown University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1556,6 +1633,7 @@
                                 University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1574,6 +1652,7 @@
                             <orgName>Department of Judaic Studies, Brown University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1593,6 +1672,7 @@
                                 University</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1611,6 +1691,7 @@
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1642,6 +1723,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1674,6 +1756,7 @@
                                 Austrian Academy of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1692,6 +1775,7 @@
                             <orgName>Salzburg Mozarteum Foundation</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1710,6 +1794,7 @@
                             <orgName>Salzburg Mozarteum Foundation</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1729,6 +1814,7 @@
                                 Tokyo</orgName>
                             <location>
                                 <country key="JP">Japan</country>
+                                <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1747,6 +1833,7 @@
                             <orgName>National Research Institute for Cultural Properties</orgName>
                             <location>
                                 <country key="JP">Japan</country>
+                                <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1765,6 +1852,7 @@
                             <orgName>Center for Evolving Humanites, University of Tokyo</orgName>
                             <location>
                                 <country key="JP">Japan</country>
+                                <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1783,6 +1871,7 @@
                             <orgName>Center for Evolving Humanites, University of Tokyo</orgName>
                             <location>
                                 <country key="JP">Japan</country>
+                                <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1802,6 +1891,7 @@
                                 Research Centre of Slovenian Academy of Sciences and Arts</orgName>
                             <location>
                                 <country key="SI">Slovenia</country>
+                                <geo>15.1667, 46.25</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1821,6 +1911,7 @@
                                 Institute</orgName>
                             <location>
                                 <country key="SI">Slovenia</country>
+                                <geo>15.1667, 46.25</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1840,6 +1931,7 @@
                                 University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1859,6 +1951,7 @@
                                 Médiévales</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1877,6 +1970,7 @@
                                 Nebraska-Lincoln</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1896,6 +1990,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1919,6 +2014,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1938,6 +2034,7 @@
                                 of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1957,6 +2054,7 @@
                                 of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1975,6 +2073,7 @@
                             <orgName>Bodleian Library, University of Oxford</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1994,6 +2093,7 @@
                                 Compostela</orgName>
                             <location>
                                 <country key="ES">Spain</country>
+                                <geo>-4, 40</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2013,6 +2113,7 @@
                                 Humanities, University of Graz</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2031,6 +2132,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="RU">Russia</country>
+                                <geo>47, 60</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2051,6 +2153,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2070,6 +2173,7 @@
                             <orgName>Historisches Institut, University of Cologne</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2089,6 +2193,7 @@
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2108,6 +2213,7 @@
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2127,6 +2233,7 @@
                             <orgName>Trier Center for Digital Humanities, Trier University</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2145,6 +2252,7 @@
                             <orgName>Higher School of Economics Moscow</orgName>
                             <location>
                                 <country key="RU">Russia</country>
+                                <geo>47, 60</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2163,6 +2271,7 @@
                             <orgName>Higher School of Economics Moscow</orgName>
                             <location>
                                 <country key="RU">Russia</country>
+                                <geo>47, 60</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2181,6 +2290,7 @@
                             <orgName>IT Services, University of Oxford</orgName>
                             <location>
                                 <country key="UK">United Kingdom</country>
+                                <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2207,6 +2317,7 @@
                             <orgName>eXist Solutions</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2229,6 +2340,7 @@
                             <orgName>eXist Solutions</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2248,6 +2360,7 @@
                                 François-Rabelais, Tours</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
 
@@ -2268,6 +2381,7 @@
                                 François-Rabelais, Tours</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2287,6 +2401,7 @@
                                 François-Rabelais, Tours</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2306,6 +2421,7 @@
                                 François-Rabelais, Tours</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2325,6 +2441,7 @@
                                 Université du Maine</orgName>
                             <location>
                                 <country key="FR">France</country>
+                                <geo>2, 46</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2344,6 +2461,7 @@
                                 Humanities, University of Graz</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2362,6 +2480,7 @@
                                 Innsbruck</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2379,6 +2498,7 @@
                             <orgName>U.S. Department of State</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2398,6 +2518,7 @@
                                 Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
+                                <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2417,6 +2538,7 @@
                                 Berlin</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2436,6 +2558,7 @@
                                 Humboldt-Universität zu Berlin</orgName>
                             <location>
                                 <country key="DE">Germany</country>
+                                <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -2454,6 +2577,7 @@
                             <orgName> Arts and Sciences Writing Program, Boston University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
+                                <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
                         <listBibl>
