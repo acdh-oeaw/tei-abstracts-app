@@ -6,8 +6,8 @@
                 <title>About</title>
                 <author>
                     <persName>
-                        <forename/>
-                        <surname/>
+                        <forename>Vanessa</forename>
+                        <surname>Hannesschläger</surname>
                     </persName>
                 </author>
             </titleStmt>
@@ -31,8 +31,9 @@
     <text>
         <body>
             <div>
-                <head>some head</head>
-                <p>lorem ipsum</p>
+                <head>About this website</head>
+                <p>This website is part of the <ref target="https://acdh.oeaw.ac.at/">Austrian Centre for Digital Humanities</ref>' efforts to document the TEI Conference and Members' Meeting 2016 (visit the <ref target="http://tei2016.acdh.oeaw.ac.at/">conference website</ref>), which was hosted by the Centre at the <ref target="http://www.oeaw.ac.at/">Austrian Academy of Sciences</ref> in Vienna, with a digital humanities-comformant approach.</p>
+                <p>This website was created by Peter Andorfer with the support of Vanessa Hannesschläger in order to provide a user-friendly interface for the XML/TEI versions of the abstracts of the TEI Conference and Members' Meeting 2016 as well as several visualisations of the data the abstracts came with. These files were provided by Vanessa Hannesschläger and Daniel Schopper and are available on <ref target="https://github.com/acdh-oeaw/TEI2016abstracts/tree/master/TEI">Github</ref>. They were created from the original printed Book of Abstracts (see the <ref target="http://tei2016.acdh.oeaw.ac.at/sites/default/files/TEIconf2016_BookOfAbstracts.pdf">PDF</ref>), which was edited by Claudia Resch, Vanessa Hannesschläger and Tanja Wissik.</p>
             </div>
         </body>
     </text>
