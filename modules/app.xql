@@ -185,7 +185,8 @@ declare function app:toc($node as node(), $model as map(*)) {
     let $title := $doc//tei:titleStmt/tei:title[1]
     let $type := $doc//tei:keywords[1]/tei:term[1]
     let $keywords := string-join($doc//tei:keywords[2]/tei:term, ' | ')
-    
+    let $sortKey := $authors[1]/tei:surname/text()
+    order by $sortKey
         return
         <tr>
             <td>{for $x in $authors return <li class="list-unstyled">{$x}</li>}</td>
