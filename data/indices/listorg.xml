@@ -312,7 +312,7 @@
                     </location>
                 </org>
                 <org>
-                    <orgName>Higer School of Economics, Moscow</orgName>
+                    <orgName>Higher School of Economics, Moscow</orgName>
                     <location>
                         <country key="RU">Russia</country>
                     </location>
@@ -419,12 +419,6 @@
                     <orgName>Trier Center for Digital Humanities, Trier University</orgName>
                     <location>
                         <country key="DE">Germany</country>
-                    </location>
-                </org>
-                <org>
-                    <orgName>Higher School of Economics Moscow</orgName>
-                    <location>
-                        <country key="RU">Russia</country>
                     </location>
                 </org>
                 <org>

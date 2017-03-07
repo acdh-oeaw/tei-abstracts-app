@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Contributors of the TEI 2016 and their affiliations</title>
+                <title>Contributors to the TEI Conference and Members' Meeting 2016 and their affiliations</title>
                 <author>
                     <persName>
                         <forename>Peter</forename>
@@ -33,10 +33,10 @@
             <div>
                 <head>Messy Data, messy results</head>
                 <p>
-                    Assigning people to their affiliated organizations seems to be an easy task. Especially when the contributors of the conference were in charge of providing this data. Unfortunately neither the famous <ref target="http://www.conftool.net/">conftool</ref> provides some kind of controlled vocabulary (or automatic norm data linking) of organisations/institutions nor do the single institutions enforce some kine of naming conventions. As a result of this we got e.g. four different names for the <hi>ACDH-OeAW</hi>.
+                    Assigning people to their affiliated organizations seems to be an easy task, especially when the contributors to the conference were in charge of providing the data on their affiliations themselves. Unfortunately, neither does <ref target="http://www.conftool.net/">ConfTool</ref>, the software that was used to manage conference contributions and registrations, provide a controlled vocabulary (or automatic norm data linking) of organisations / institutions, nor do the individual institutions enforce the use of normalized names. Due to this situation, we found e.g. four different names for the <hi>ACDH-OeAW</hi> when trying to provide a list of contributors' affiliations.
                 </p>
                 <p>
-                    A first consolidation of this mess was done in regards of compiling the book of abstracts. This data was then automatically processed (python) to link the contributors to their organisations. This worked quite well (let's say 75%). The rest of the data/linking was done manually. Anyway we do not claim that the current result is free of errors. Therefore everyone is invited to look into the data and correct any errors. Ideally by fixing the data <hi>data/indices/listorg.xml</hi> and <hi>data/indices/listperson.xml</hi> and making a pull-request to this application's <ref target="https://github.com/acdh-oeaw/tei-abstracts-app">code repo.</ref> 
+                    A first consolidation of this clutter of names happened when the printed Book of Abstracts and its index was prepared (see the <ref target="http://tei2016.acdh.oeaw.ac.at/sites/default/files/TEIconf2016_BookOfAbstracts.pdf">PDF</ref>). We used these data to prepare the institution list, which were then processed automatically (using python) in order to link the contributors to their organisations. This worked quite well (about 75% success rate). The rest of the data and linking was added manually. Still, we cannot claim that the current result is free of errors. Therefore, everyone is invited to look into the data and correct any errors they might find, ideally by editing the files <hi>data/indices/listorg.xml</hi> and <hi>data/indices/listperson.xml</hi> and making a pull-request to this application's <ref target="https://github.com/acdh-oeaw/tei-abstracts-app">code repo</ref>.
                 </p>
                    
             </div>
