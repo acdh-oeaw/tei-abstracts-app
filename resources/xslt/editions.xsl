@@ -9,7 +9,8 @@
         <div class="page-header" align="center">
             <h2>
                 <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title">
-                    <xsl:value-of select="."/>
+                    <xsl:apply-templates/>
+                    <!--<xsl:value-of select="."/>-->
                     <br/>
                 </xsl:for-each>
             </h2>
@@ -211,6 +212,11 @@
     ###  Formatierung ###
     #####################
 -->
+    <xsl:template match="tei:gi">
+        <code>
+            <xsl:apply-templates/>
+        </code>
+    </xsl:template>
     <xsl:template match="tei:list">
         <ul>
             <xsl:apply-templates/>

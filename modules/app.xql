@@ -191,7 +191,7 @@ declare function app:toc($node as node(), $model as map(*)) {
             <td>{for $x in $authors return <li class="list-unstyled">{$x}</li>}</td>
             <td>
                 <a href="{concat(app:hrefToDoc($doc),'&amp;directory=',$collection,'&amp;stylesheet=',$collection)}">
-                    {$title/text()}
+                    {$title//text()}
                 </a>
             </td>
             <td>
