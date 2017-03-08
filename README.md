@@ -1,6 +1,6 @@
 # Web App to publish the Abstracts of TEI-2016
 
-The purpose of this application is to publish the in XML/TEI encoded abstracts of the [TEI-Conference 2016}(http://tei2016.acdh.oeaw.ac.at/). The abstracts were taken from the GitHub-Repo [TEI2016abstracts](https://github.com/acdh-oeaw/TEI2016abstracts). 
+The purpose of this application is to publish the in XML/TEI encoded abstracts of the [TEI-Conference 2016](http://tei2016.acdh.oeaw.ac.at/). The abstracts were taken from the GitHub-Repo [TEI2016abstracts](https://github.com/acdh-oeaw/TEI2016abstracts). 
 The application is based upon **[generec-de-web-app](https://github.com/acdh-oeaw/generic-de-web-app)**.
 
 ## Install
