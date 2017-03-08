@@ -108,29 +108,19 @@ declare function app:listOrg($node as node(), $model as map(*)) {
 };
  
 (:~
- : creates a basic bibl-index derived from the  '/data/indices/listbibl.xml'
- :)
-declare function app:listBibl($node as node(), $model as map(*)) {
-    let $hitHtml := "hits.html?searchkey="
-    for $bibl in doc(concat($config:app-root, '/data/indices/listbibl.xml'))//tei:item
-        return
-        <tr>
-            <td>
-                <a href="{concat($hitHtml,$bibl/tei:label)}">{$bibl}</a>
-            </td>
-        </tr>
-};
- 
-(:~
  : creates a basic place-index derived from the  '/data/indices/listplace.xml'
  :)
 declare function app:listPlace($node as node(), $model as map(*)) {
-    let $hitHtml := "hits.html?searchkey=pla:"
+    let $listperson := doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:TEI
     for $place in doc(concat($config:app-root, '/data/indices/listplace.xml'))//tei:listPlace/tei:place
+    let $id := $place/tei:placeName
+    let $doc := document-uri(root($place))
+    let $type := tokenize($doc,'/')[(last() - 1)]
+    let $params := concat("&amp;directory=", $type, "&amp;stylesheet=listplace&amp;id=", $id)
         return
         <tr>
             <td>
-                <a href="{concat($hitHtml,data($place/@xml:id))}">{$place/tei:placeName}</a>
+                <a href="{concat(app:hrefToDoc($listperson),$params)}">{$id}</a>
             </td>
             <td>{$place//tei:idno}</td>
             <td><geo>{replace($place//tei:geo/text(),',','|')}</geo></td>

@@ -59,6 +59,48 @@
         $.tablesorter.setFilters( $('table'), [ fetched_param], true );
         $('table').trigger('search', true);
         }
+        $("#mapid").remove()
+        $("#parentMap").append("&lt;div id='mapid'&gt;&lt;/div&gt;");
+        $( "#mapid").css("height", "500px");
+        var map = L.map('mapid').setView([44, 20], 2); 
+        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        attribution: 'Map data &lt;a href="http://openstreetmap.org"&gt;OpenStreetMap&lt;/a&gt; contributors, &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/"&gt;CC-BY-SA&lt;/a&gt;, Imagery © &lt;a href="http://mapbox.com"&gt;Mapbox&lt;/a&gt;',
+        maxZoom: 18,
+        id: 'mapbox.light',
+        accessToken: 'pk.eyJ1Ijoic2VubmllcmVyIiwiYSI6ImNpbHk1YWV0bDAwZnB2dW01d2l1Y3phdmkifQ.OljQLEhqeAygai2y6VoSwQ'
+        }).addTo(map);
+        
+        var rows = $("tr:visible").has( "geo" );
+        
+        places = []
+        rows.each(function (index, value) {
+        var place_name = $(value).find('li').first().text().trim();
+        var coordinates = $(value).find('geo').first().text().trim().split('|');
+        //alert(coordinates);
+        var lng_value = (coordinates[1]);
+        var lat_value = (coordinates[0]);
+        //alert(lng_value);
+        var getty_id = $(value).find('idno').first().text().trim();
+        var place = {
+        orig_name : place_name,
+        lng : lng_value,
+        lat : lat_value,
+        getty :getty_id
+        };
+        places.push(place);
+        });
+        var markerClusters = L.markerClusterGroup();
+        $(places).each(function (index, value){
+        if (value.lng)
+        {
+        var popup = value.orig_name
+        var m = L.marker( [value.lng, value.lat] ).bindPopup( popup );
+        markerClusters.addLayer( m );
+        }
+        });
+        map.addLayer( markerClusters );
+        console.log(places);
+       // History.pushState({searchstring: "place"}, "looking for "+searchstring, "?place="+searchstring);   
         $("td input").bind("keyup", function(e) {
         var all_rows = $("tr").length -2;
         var col_id = $(this).parent().attr('data-column');
@@ -71,7 +113,7 @@
         $("#mapid").remove()
         $("#parentMap").append("&lt;div id='mapid'&gt;&lt;/div&gt;");
         $( "#mapid").css("height", "500px");
-        var map = L.map('mapid').setView([44, 20], 3); 
+        var map = L.map('mapid').setView([44, 20], 2); 
         L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
         attribution: 'Map data &lt;a href="http://openstreetmap.org"&gt;OpenStreetMap&lt;/a&gt; contributors, &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/"&gt;CC-BY-SA&lt;/a&gt;, Imagery © &lt;a href="http://mapbox.com"&gt;Mapbox&lt;/a&gt;',
         maxZoom: 18,
