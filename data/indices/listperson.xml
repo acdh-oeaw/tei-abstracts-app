@@ -29,6 +29,11 @@
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
+                        <listBibl>
+                            <bibl>
+                                <title key="Andrews.xml">Freeing our Texts from their (Digital Tool) chains</title>
+                            </bibl>
+                        </listBibl>
                     </person>
                     <person>
                         <persName key="http://viaf.org/viaf/251032539">
