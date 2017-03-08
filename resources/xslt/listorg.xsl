@@ -26,6 +26,7 @@
                                <div id="collapse2" class="panel-collapse">
                                    <div class="panel-body" id="chart2">
                                        <xsl:for-each select=".//tei:person[normalize-space(.//tei:orgName[1]//text()[1])=$id]">
+                                           <xsl:sort select=".//tei:surname"/>
                                            <strong>
                                                <xsl:value-of select="./tei:persName"/>
                                            </strong>

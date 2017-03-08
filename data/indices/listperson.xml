@@ -139,7 +139,8 @@
                     <person>
                         <persName key="http://viaf.org/viaf/285739999">
                             <forename type="male">Patrice</forename>
-                            <surname>Lopez</surname></persName>
+                            <surname>Lopez</surname>
+                        </persName>
                             <affiliation>
                                 <orgName>Science miner</orgName>
                                 <location>
