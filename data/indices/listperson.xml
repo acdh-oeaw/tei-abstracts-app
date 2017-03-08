@@ -18,8 +18,8 @@
             <div>
                 <listPerson>
                     <person>
-                        <persName key="http://viaf.org/viaf/138797001">
-                            <forename type="female">Tara Lee</forename>
+                        <persName ref="http://viaf.org/viaf/138797001" key="http://viaf.org/viaf/138797001">
+                            <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tara Lee</forename>
                             <surname>Andrews</surname>
                         </persName>
                         <affiliation>
@@ -123,8 +123,7 @@
                             <surname>Gaiffe</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Analyse et Traitement Informatique de la Langue Française,
-                                Université de Lorraine</orgName>
+                            <orgName>Analyse et Traitement Informatique de la Langue Française, Université de Lorraine</orgName>
                             <location>
                                 <country key="FR">France</country>
                                 <geo>2, 46</geo>
@@ -140,7 +139,7 @@
                     <person>
                         <persName key="http://viaf.org/viaf/285739999">
                             <forename type="male">Patrice</forename>
-                            <surname>Lopez</surname>
+                            <surname>Lopez</surname></persName>
                             <affiliation>
                                 <orgName>Science miner</orgName>
                                 <location>
@@ -148,7 +147,7 @@
                                     <geo>2, 46</geo>
                                 </location>
                             </affiliation>
-                        </persName>
+                        
                         <listBibl>
                             <bibl>
                                 <title key="banskigaiffelopezmeoniromaryschmidtstadlerwitt.xml">Wake
@@ -162,8 +161,7 @@
                             <surname>Meoni</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Analyse et Traitement Informatique de la Langue Française,
-                                Université de Lorraine</orgName>
+                            <orgName>Analyse et Traitement Informatique de la Langue Française, Université de Lorraine</orgName>
                             <location>
                                 <country key="FR">France</country>
                                 <geo>2, 46</geo>
@@ -182,7 +180,7 @@
                             <surname>Romary</surname>
                         </persName>
                         <affiliation>
-                            <orgName> Institut national de recherche dédié au numérique</orgName>
+                            <orgName>Institut national de recherche dédié au numérique</orgName>
                             <location>
                                 <country key="FR">France</country>
                                 <geo>2, 46</geo>
@@ -1019,8 +1017,7 @@
                             <surname>Franzini</surname>
                         </persName>
                         <affiliation>
-                            <orgName>Göttingen Centre for Digital Humanities,
-                                Georg-August-Universität Göttingen</orgName>
+                            <orgName>Göttingen Centre for Digital Humanities, Georg-August-Universität Göttingen</orgName>
                             <location>
                                 <country key="DE">Germany</country>
                                 <geo>10.5, 51.5</geo>
@@ -1629,8 +1626,7 @@
                             <surname>Mylonas</surname>
                         </persName>
                         <affiliation>
-                            <orgName>University Library Center for Digital Scholarship, Brown
-                                University</orgName>
+                            <orgName>University Library Center for Digital Scholarship, Brown University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
@@ -1752,8 +1748,7 @@
                             <surname>McAllister</surname>
                         </persName>
                         <affiliation>
-                            <orgName> Institute for the Cultural and Intellectual History of Asia,
-                                Austrian Academy of Sciences</orgName>
+                            <orgName>Institute for the Cultural and Intellectual History of Asia, Austrian Academy of Sciences</orgName>
                             <location>
                                 <country key="AT">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
@@ -1966,8 +1961,7 @@
                             <surname>Pytlik Zillig</surname>
                         </persName>
                         <affiliation>
-                            <orgName> Centre for Digital Research in the Humanities, University of
-                                Nebraska-Lincoln</orgName>
+                            <orgName>Centre for Digital Research in the Humanities, University of Nebraska-Lincoln</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
@@ -2574,7 +2568,7 @@
                             <surname>Zimmer</surname>
                         </persName>
                         <affiliation>
-                            <orgName> Arts and Sciences Writing Program, Boston University</orgName>
+                            <orgName>Arts and Sciences Writing Program, Boston University</orgName>
                             <location>
                                 <country key="US">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
