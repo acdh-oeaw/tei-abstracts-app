@@ -162,7 +162,7 @@ declare function app:listPers($node as node(), $model as map(*)) {
     let $hitHtml := "hits.html?searchkey="
     for $person in doc(concat($config:app-root, '/data/indices/listperson.xml'))//tei:listPerson/tei:person
     let $ref := data($person/tei:persName/@key)
-    let $viaf := if (starts-with($ref, 'http')) then <a href="{$ref}">{$ref}</a> else 'no viaf yet provided'
+    let $viaf := if (starts-with($ref, 'http')) then <a href="{$ref}">{$ref}</a> else 'no VIAF ID found'
     order by $person//tei:surname
         return
         <tr>
