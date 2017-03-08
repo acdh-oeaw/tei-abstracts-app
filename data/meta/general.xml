@@ -35,7 +35,7 @@
                 <p>
                     This web application is mainly driven by data encoded in XML/TEI. Therefore we
                     decided to build it upon the native XML-database <ref target="http://exist-db.org/">eXist-db</ref>. The main server-side
-                    application logic is implemented in xQuery and XSLT, client-side
+                    application logic is implemented in XQuery and XSLT, client-side
                     functions are based on JavaScript.
                 </p>
                 <p>
