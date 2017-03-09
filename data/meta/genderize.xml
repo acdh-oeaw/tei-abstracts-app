@@ -38,7 +38,7 @@
       <body>
          <div>
             <head>Gender distribution among the contributors to TEI 2016</head>
-            <p>We took an interest in the gender distribution among the contributors to the TEI 2016 Conference and Members' Meeting. However, as we had not collected information on the gender the conference contributors identified with, we were confronted with a lack of data.</p>
+            <p>We took an interest in the gender distribution among the contributors to the TEI 2016 Conference and Members' Meeting. However, as we had not collected information on the gender the conference contributors identified with, we were confronted with a lack of data. </p>
             <p>Luckily, we had tagged the authors' forenames in the XML TEI version of the abstracts. Therefore, we decided to deduce the contributors' genders from their forenames - or, to be more precise, to deduce the gender that the respective forename is most commonly associated with. To be very clear: We did not make assumptions about the gender of the contributors themselves, but much rather analyzed the gender of the forenames of the contributors.</p>
          </div>
          <div>
@@ -60,10 +60,10 @@
                   <item>parses the response,</item>
                   <item>and adds the parsed response in form of a type attribute to the forename attribute.</item>
                </list>
-               The only aspect complicating this process was the 1000-request-per-day-for-free-limit set up by <ref target="https://genderize.io/">genderize.io</ref>, which forced us to split this script in parts.
+               The only aspect complicating this process was the 1000-request-per-day-for-free-limit set up by <ref target="https://genderize.io/">genderizo.io</ref>, which forced us to split this script in parts.
             </p>
             <p>As the result of the comparison of our contributor name list to <ref target="https://genderize.io/">genderize.io</ref> did still not leave us with a
-               fully meaningful result, we manually compared the still ungendered names to <ref target="http://genderchecker.com/">genderchecker.com</ref>. This website sources its data from the <q>2001 and 2011 UK Census Data, together with multiple online sources and contributions from our 2m website visitors</q> and assigns gender accordingly. What was particularly appealing about this database was that it also considers the possibility of unisex names: <q>If we see just one instance of a name appearing as both male and female, we categorise it as unisex.</q></p>
+               fully meaningful result, we manually compared the still ungendered names to <ref target="http://genderchecker.com/">genderchecker.com</ref>. This website sources its data from the <q>2001 and 2011 UK Census Data, together with multiple online sources and contributions from our 2m website visitors</q> and assigns gender accordingly. What was particularly appealing about this database was that it also considers the possibility of unisex names: <q>If we see just one instance of a name appearing as both male and female, we categorise it as unisex.</q> </p>
                <p>This manual comparison of the last unidentified forenames left us with statistically relevant results and three ungendered names: Kiyonori, Sünna, and Tetsuei.</p>
          </div>
          <div>
@@ -74,7 +74,7 @@
          <div>
             <head>What happens now</head>
             <p>We invite you to draw your own conclusions about the state of gender equality within the TEI community in 2016 from the graphs we provide.</p>
-            <p>If you are a contributor to the TEI 2016 Conference and Members' Meeting and disagree with the gender you were assigned, we invite you to edit the data on <ref target="https://github.com/acdh-oeaw/tei-abstracts-app">GitHub</ref>.</p>
+            <p>If you are a contributor to the TEI 2016 Conference and Members' Meeting and disagree with the gender you were assigned, we invite you to edit the data on <ref target="https://github.com/acdh-oeaw/tei-abstracts-app">Github</ref>.</p>
          </div>
       </body>
    </text>
