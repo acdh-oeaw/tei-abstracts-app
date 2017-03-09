@@ -97,4 +97,10 @@
         
         
     </xsl:template>
+    <xsl:template match="tei:gi">
+        <code>
+            <xsl:apply-templates/>
+        </code>
+    </xsl:template>
+    
 </xsl:stylesheet>

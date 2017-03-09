@@ -640,7 +640,8 @@
                                     Generating a TEI-EpiDoc Corpus of Sicilian Inscriptions</title>
                             </bibl>
                             <bibl>
-                                <title key="HolfordJonesCummings.xml"> at Oxford and
+                                <title key="HolfordJonesCummings.xml">
+                                    <gi>msDesc</gi> at Oxford and
                                     Cambridge</title>
                             </bibl>
                         </listBibl>
@@ -1482,7 +1483,8 @@
                         </affiliation>
                         <listBibl>
                             <bibl>
-                                <title key="HolfordJonesCummings.xml"> at Oxford and
+                                <title key="HolfordJonesCummings.xml">
+                                    <gi>msDesc</gi> at Oxford and
                                     Cambridge</title>
                             </bibl>
                         </listBibl>
@@ -1501,7 +1503,8 @@
                         </affiliation>
                         <listBibl>
                             <bibl>
-                                <title key="HolfordJonesCummings.xml"> at Oxford and
+                                <title key="HolfordJonesCummings.xml">
+                                    <gi>msDesc</gi> at Oxford and
                                     Cambridge</title>
                             </bibl>
                         </listBibl>
