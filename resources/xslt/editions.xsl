@@ -10,7 +10,6 @@
             <h2>
                 <xsl:for-each select="//tei:fileDesc/tei:titleStmt/tei:title">
                     <xsl:apply-templates/>
-                    <!--<xsl:value-of select="."/>-->
                     <br/>
                 </xsl:for-each>
             </h2>
@@ -212,6 +211,20 @@
     ###  Formatierung ###
     #####################
 -->
+    <xsl:template match="tei:figure">
+        <div style="text-align:center;">
+            <img align="middle" width="75%">
+                <xsl:attribute name="src">
+                    <xsl:value-of select="concat('../data/facs/', (tokenize(./tei:graphic/@url, '/'))[2])"/>
+                </xsl:attribute>
+            </img>
+            <br/>
+            <small>
+                <xsl:value-of select="./tei:head"/>
+            </small>
+        </div>
+        
+    </xsl:template>
     <xsl:template match="tei:gi">
         <code>
             <xsl:apply-templates/>
