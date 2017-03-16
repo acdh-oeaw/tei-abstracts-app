@@ -6,12 +6,30 @@ declare namespace util = "http://exist-db.org/xquery/util";
 import module namespace templates="http://exist-db.org/xquery/templates" ;
 import module namespace config="http://www.digital-archiv.at/ns/tei-abstracts/config" at "config.xqm";
 import module namespace kwic = "http://exist-db.org/xquery/kwic" at "resource:org/exist/xquery/lib/kwic.xql";
+
+declare function functx:escape-for-regex
+  ( $arg as xs:string? )  as xs:string {
+
+   replace($arg,
+           '(\.|\[|\]|\\|\||\-|\^|\$|\?|\*|\+|\{|\}|\(|\))','\\$1')
+ } ;
+
 declare function functx:substring-after-last
   ( $arg as xs:string? ,
     $delim as xs:string )  as xs:string {
     replace ($arg,concat('^.*',$delim),'')
  };
 
+declare function functx:substring-before-last
+  ( $arg as xs:string? ,
+    $delim as xs:string )  as xs:string {
+
+   if (matches($arg, functx:escape-for-regex($delim)))
+   then replace($arg,
+            concat('^(.*)', functx:escape-for-regex($delim),'.*'),
+            '$1')
+   else ''
+ } ;
 
 (:~
  : This is a sample templating function. It will be called by the templating module if
