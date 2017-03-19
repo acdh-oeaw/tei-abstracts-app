@@ -37,6 +37,7 @@
         <script type="text/javascript" src="$app-root/resources/js/cool-share/plugin.js"/><!--  End of cool-share  -->
     </head>
     <body id="body">
+        <header>
         <nav class="navbar navbar-default" role="navigation">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
@@ -121,7 +122,8 @@
                                 <a href="../analyze/author-organisation.xql">Authors and Organisation</a>
                             </li>
                             <li>
-                                <a href="../data/editions">Text as XML</a>
+                                <!--<a href="../data/editions">Text as XML</a>-->
+                                <a href="../../../../exist/restxq/tei-abstracts/editions/xml">Text as XML</a>
                             </li>
                         </ul>
                     </li>
@@ -138,6 +140,9 @@
                 </div>
             </div>
         </nav>
+        </header>
+        
+        
         <section class="main-content">
             <div id="content" class="container"/>
             <span class="socialShare"><!-- The share buttons will be inserted here --></span>
