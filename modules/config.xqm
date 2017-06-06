@@ -33,6 +33,8 @@ declare %templates:wrap function config:app-description($node as node(), $model 
     $config:repo-descriptor/repo:description/text()
 };
 
+declare variable $config:app-name := doc(concat($config:app-root, "/repo.xml"))//repo:target/text();
+
 declare variable $config:data-root := $config:app-root || "/data";
 
 declare variable $config:repo-descriptor := doc(concat($config:app-root, "/repo.xml"))/repo:meta;

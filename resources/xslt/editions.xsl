@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei" version="2.0"><!-- <xsl:strip-space elements="*"/>-->
+    <xsl:param name="document"/>
+    <xsl:param name="app-name"/>
+    <xsl:param name="collection-name"/>
+    <xsl:param name="path2source"/>
     <xsl:param name="ref"/><!--
 ##################################
 ### Seitenlayout und -struktur ###
@@ -111,7 +115,12 @@
                     </table>
                     <div class="panel-footer">
                         <p style="text-align:center;">
-                            <a id="link_to_source"/>
+                            <a>
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="$path2source"/>
+                                </xsl:attribute>
+                                see the TEI source of this document
+                            </a>
                         </p>
                     </div>
                 </div>
@@ -183,29 +192,6 @@
                 </div>
             </div>
         </div>
-        <script type="text/javascript">
-            // creates a link to the xml version of the current docuemnt available via eXist-db's REST-API
-            var params={};
-            window.location.search
-            .replace(/[?&amp;]+([^=&amp;;]+)=([^&amp;;]*)/gi, function(str,key,value) {
-            params[key] = value;
-            }
-            );
-            var collection;
-            //alert(params['directory'])
-            if (params['directory'] === "undefined"  || params['directory'] === "") {
-            collection = 'editions';
-            } else {
-            collection = params['directory']
-            }
-            var path = window.location.origin+window.location.pathname;
-            var replaced = path.replace("exist/apps/", "exist/rest/db/apps/");
-            current_html = window.location.pathname.substring(window.location.pathname.lastIndexOf("/") + 1)
-            var source_dokument = replaced.replace("pages/"+current_html, "data/"+collection+"/"+params['document']);
-            // console.log(source_dokument)
-            $( "#link_to_source" ).attr('href',source_dokument);
-            $( "#link_to_source" ).text(source_dokument);
-        </script>
     </xsl:template><!--
     #####################
     ###  Formatierung ###

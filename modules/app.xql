@@ -221,11 +221,16 @@ let $xmlPath := concat(xs:string(request:get-parameter("directory", "editions"))
 let $xml := doc(replace(concat($config:app-root,'/data/', $xmlPath, $ref), '/exist/', '/db/'))
 let $xslPath := concat(xs:string(request:get-parameter("stylesheet", "editions")), '.xsl')
 let $xsl := doc(replace(concat($config:app-root,'/resources/xslt/', $xslPath), '/exist/', '/db/'))
+let $collection := functx:substring-after-last(util:collection-name($xml), '/')
+let $path2source := string-join(('../../../restxq', $config:app-name, $collection, $ref, 'xml'), '/')
 let $params := 
 <parameters>
+    <param name="app-name" value="{$config:app-name}"/>
+    <param name="collection-name" value="{$collection}"/>
+    <param name="path2source" value="{$path2source}"/>
    {for $p in request:get-parameter-names()
     let $val := request:get-parameter($p,())
-    where  not($p = ("document","directory","stylesheet"))
+   (: where  not($p = ("document","directory","stylesheet")):)
     return
        <param name="{$p}"  value="{$val}"/>
    }
