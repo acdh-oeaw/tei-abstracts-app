@@ -222,7 +222,7 @@ let $xml := doc(replace(concat($config:app-root,'/data/', $xmlPath, $ref), '/exi
 let $xslPath := concat(xs:string(request:get-parameter("stylesheet", "editions")), '.xsl')
 let $xsl := doc(replace(concat($config:app-root,'/resources/xslt/', $xslPath), '/exist/', '/db/'))
 let $collection := functx:substring-after-last(util:collection-name($xml), '/')
-let $path2source := string-join(('../../../restxq', $config:app-name, $collection, $ref, 'xml'), '/')
+let $path2source := string-join(('../../exist/restxq', $config:app-name, $collection, $ref, 'xml'), '/')
 let $params := 
 <parameters>
     <param name="app-name" value="{$config:app-name}"/>
