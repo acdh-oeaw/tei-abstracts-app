@@ -1,48 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
                 <author>
                     <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Jack Thompson</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jack Thompson</forename>
                         <surname>Bowers</surname>
                     </persName>
                     <persName key="genIDa52c15d700e84648e628400474bc9b5b">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Melanie</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Melanie</forename>
                         <surname>Seltmann</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -65,11 +64,11 @@
                         <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
                         <author>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Jack Thompson</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jack Thompson</forename>
                                 <surname>Bowers</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Melanie</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Melanie</forename>
                                 <surname>Seltmann</surname>
                             </persName>
                         </author>
@@ -77,26 +76,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -190,13 +189,13 @@
                         <author>
                             <persName>
                                 <surname>Bowers</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jack</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jack</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Romary</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Laurent</forename>
                             </persName>
                         </author>
                         <title>Deep encoding of etymological information in TEI</title>
@@ -214,7 +213,7 @@
                         <author>
                             <persName>
                                 <surname>Romary</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Laurent</forename>
                             </persName>
                         </author>
                         <title>TBX goes TEI: Implementing a TBX basic extension for the Text Encoding
@@ -233,19 +232,19 @@
                         <author>
                             <persName>
                                 <surname>Schopper</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Daniel</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Bowers</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jack</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jack</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Wandl-Vogt</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eveline</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Eveline</forename>
                             </persName>
                         </author>
                         <title>dboe@TEI: remodelling a database of dialects into a rich LOD

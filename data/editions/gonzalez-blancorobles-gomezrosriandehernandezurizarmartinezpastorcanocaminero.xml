@@ -1,80 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>TEIScribe: A graphic tool for composing and testing TEI documents in the context of the EVI-LINHD environment</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/175982042" key="http://viaf.org/viaf/175982042">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Elena</forename>
                         <surname>González-Blanco</surname>
                     </persName>
                     <persName key="genID332f850382a244b759ea52c5b11dfe06">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Antonio</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Antonio</forename>
                         <surname>Robles-Gómez</surname>
                     </persName>
                     <persName key="genIDa8b2c996594e3fc4c1902253da7bd045">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Salvador</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Salvador</forename>
                         <surname>Ros</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/261749100" key="http://viaf.org/viaf/261749100">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gimena</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Gimena</forename>
                         <surname>Del Rio Riande</surname>
                     </persName>
                     <persName key="genIDfa23e85501651362ef3b32ace2679fd3">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Roberto</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Roberto</forename>
                         <surname>Hernández</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/296443412" key="http://viaf.org/viaf/296443412">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Miguel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Miguel</forename>
                         <surname>Urizar</surname>
                     </persName>
                     <persName key="genID85d8ee0698dca49483e2944a50ae9271">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Clara I.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Clara I.</forename>
                         <surname>Martínez</surname>
                     </persName>
                     <persName key="genID933530518f9ff90a7017148989ef1fec">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Rafael</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Rafael</forename>
                         <surname>Pastor</surname>
                     </persName>
                     <persName key="genID1fb4d2c70f9c34ef1c07b4ea61881fb7">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jesús</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jesús</forename>
                         <surname>Cano</surname>
                     </persName>
                     <persName key="genIDa828d27d13cfbcc6bb586ed3acdbfa50">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Agustín C.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Agustín C.</forename>
                         <surname>Caminero</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -97,43 +96,43 @@
                         <title>TEIScribe: A graphic tool for composing and testing TEI documents in the context of the EVI-LINHD environment</title>
                         <author>
                             <persName ref="http://viaf.org/viaf/175982042">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Elena</forename>
                                 <surname>González-Blanco</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Antonio</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Antonio</forename>
                                 <surname>Robles-Gómez</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Salvador</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Salvador</forename>
                                 <surname>Ros</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/261749100">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gimena</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Gimena</forename>
                                 <surname>Del Rio Riande</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Roberto</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Roberto</forename>
                                 <surname>Hernández</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/296443412">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Miguel</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Miguel</forename>
                                 <surname>Urizar</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Clara I.</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Clara I.</forename>
                                 <surname>Martínez</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Rafael</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Rafael</forename>
                                 <surname>Pastor</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jesús</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jesús</forename>
                                 <surname>Cano</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Agustín C.</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Agustín C.</forename>
                                 <surname>Caminero</surname>
                             </persName>
                         </author>
@@ -141,26 +140,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -262,7 +261,7 @@
                             <persName>
                                 <surname>Baranda
                         Leturio</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Nieves</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Nieves</forename>
                             </persName>
                         </author>
                         <title>BIESES project. BIografía de EScritoras ESpañolas</title>
@@ -277,13 +276,13 @@
                         <author>
                             <persName>
                                 <surname>Carusi</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Annamaria</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Annamaria</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Reimer</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Torsten</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Torsten</forename>
                             </persName>
                         </author>
                         <title>Virtual Research Environment Collaborative Landscape Study. A JISC funded
@@ -301,7 +300,7 @@
                         <author>
                             <persName>
                                 <surname>González-Blanco</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Elena</forename>
                             </persName>
                         </author>
                         <title>Un nuevo camino hacia las humanidades digitales. El laboratorio de
@@ -323,7 +322,7 @@
                             <persName>
                                 <surname>Del Río
                         Riande</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gimena</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Gimena</forename>
                             </persName>
                         </author>
                         <title>Humanidades Digitales. Construcciones locales en contextos globales</title>
@@ -343,27 +342,27 @@
                             <persName>
                                 <surname>Del Río
                         Riande</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gimena</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Gimena</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>González-Blanco
                            García</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Elena</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Martínez
                         Cantón</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Clara</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Clara</forename>
                             </persName>
                         </author>
                         <author>
                             <persName>
                                 <surname>Escribano</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">J.</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">J.</forename>
                             </persName>
                         </author>
                         <title>EVI-LINHD. A Virtual Research Environment for the Spanish-speaking
@@ -381,7 +380,7 @@
                         <author>
                             <persName>
                                 <surname>Spadini</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Elena</forename>
                             </persName>
                         </author>
                         <title>TEI and web-based editing tools</title>

@@ -1,48 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Database of Belarusian Periodicals</title>
                 <author>
                     <persName key="genID1252f4807ab4fa146dcfa8fb7d0d29e3">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sünna</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sünna</forename>
                         <surname>Looschen</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/203147266599235480662" key="http://viaf.org/viaf/203147266599235480662">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ingo</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Ingo</forename>
                         <surname>Börner</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname> and  
             </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -65,11 +64,11 @@
                         <title>Database of Belarusian Periodicals</title>
                         <author>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sünna</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sünna</forename>
                                 <surname>Looschen</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/203147266599235480662">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ingo</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Ingo</forename>
                                 <surname>Börner</surname>
                             </persName>
                         </author>
@@ -77,26 +76,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
@@ -192,7 +191,7 @@
                         <author>
                             <persName>
                                 <surname>Bourdieu</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Pierre</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Pierre</forename>
                             </persName>
                         </author>
                         <title>The rules of art: genesis and structure of the literary field</title>
@@ -209,7 +208,7 @@
                         <author>
                             <persName>
                                 <surname>Kohler</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gun-Britt</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Gun-Britt</forename>
                             </persName>
                         </author>
                         <title>Westbelarussische Literatur und Belarussisches Literaturfeld (1921-1939).
@@ -229,7 +228,7 @@
                             <persName>
                                 <surname>Van
                      Rees</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Kees</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Kees</forename>
                             </persName>
                         </author>
                         <title>Field, Capital and Habitus: A Relational Approach to ‘Small‘
@@ -239,20 +238,20 @@
                         <editor>
                             <persName>
                                 <surname>Kohler</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gun-Britt</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Gun-Britt</forename>
                             </persName>
                         </editor>
                         <editor>
                             <persName>
                                 <surname>Navumenka</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Pavel
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Pavel
                         I.</forename>
                             </persName>
                         </editor>
                         <editor>
                             <persName>
                                 <surname>Grüttemeier</surname>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ralf</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Ralf</forename>
                             </persName>
                         </editor>
                         <title>Kleinheit als Spezifik: Beiträge zu einer feldtheoretischen Analyse der

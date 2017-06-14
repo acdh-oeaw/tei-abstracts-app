@@ -1,55 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Andreas Okopenko: diaries from the poet’s estate (hybrid edition)</title>
                 <author>
                     <persName key="genID4c349f0b28b7b2a9710fc4cc590c873e">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Desiree</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Desiree</forename>
                         <surname>Hebenstreit</surname>
                     </persName>
                     <persName key="genIDcc28d6e542fa7e9831776712fad2c466">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Arno</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Arno</forename>
                         <surname>Herberth</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/100576375" key="http://viaf.org/viaf/100576375">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Laura</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Laura</forename>
                         <surname>Tezarek</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/296142770" key="http://viaf.org/viaf/296142770">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Christian</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Christian</forename>
                         <surname>Zolles</surname>
                     </persName>
                 </author>
                 <editor>
                     <persName ref="http://viaf.org/viaf/52846347">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" xml:id="vany">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                 </editor>
                 <editor>
                     <persName ref="http://viaf.org/viaf/70107717">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                         <surname>Wissik</surname>
                     </persName>
                 </editor>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/31146030596135862230">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                         <surname>Hannesschläger</surname> and </persName>
                 </respStmt>
                 <respStmt>
                     <resp>Encoded by </resp>
                     <persName ref="http://viaf.org/viaf/249676043" xml:id="dani">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                 </respStmt>
@@ -74,19 +73,19 @@
                         <title>Andreas Okopenko: diaries from the poet’s estate (hybrid edition)</title>
                         <author>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Desiree</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Desiree</forename>
                                 <surname>Hebenstreit</surname>
                             </persName>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Arno</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Arno</forename>
                                 <surname>Herberth</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/100576375">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Laura</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Laura</forename>
                                 <surname>Tezarek</surname>
                             </persName>
                             <persName ref="http://viaf.org/viaf/296142770">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Christian</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Christian</forename>
                                 <surname>Zolles</surname>
                             </persName>
                         </author>
@@ -94,26 +93,26 @@
                     <monogr>
                         <editor>
                             <persName ref="http://viaf.org/viaf/52846347">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
                                 <surname>Resch</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/31146030596135862230">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
                                 <surname>Hannesschläger</surname>
                             </persName>
                         </editor>
                         <editor>
                             <persName ref="http://viaf.org/viaf/70107717">
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Tanja</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tanja</forename>
                                 <surname>Wissik</surname>
                             </persName>
                         </editor>
                         <respStmt>
                             <resp>Layout and Graphic Design </resp>
                             <persName>
-                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandra</forename>
+                                <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sandra</forename>
                                 <surname>Lehecka</surname>
                             </persName>
                         </respStmt>
