@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>The Elwood Markup &amp; Text Analyzer (TEMTA)</title>
                 <author>
                     <persName key="genID6fee57602759d898c9458be3ff2af12f">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Eugene W.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Eugene W.</forename>
                         <surname>Lyman II</surname>
                     </persName>
                 </author>

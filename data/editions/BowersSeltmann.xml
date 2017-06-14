@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Exploring data models for heterogenous dialect data: the case of explore.bread.AT!</title>
                 <author>
                     <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jack Thompson</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jack Thompson</forename>
                         <surname>Bowers</surname>
                     </persName>
                     <persName key="genIDa52c15d700e84648e628400474bc9b5b">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Melanie</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Melanie</forename>
                         <surname>Seltmann</surname>
                     </persName>
                 </author>

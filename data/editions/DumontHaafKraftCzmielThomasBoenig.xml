@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -7,27 +8,27 @@
                ediarum</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/303480271" key="http://viaf.org/viaf/303480271">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Stefan</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Stefan</forename>
                         <surname>Dumont</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/305928516" key="http://viaf.org/viaf/305928516">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Susanne</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Susanne</forename>
                         <surname>Haaf</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/205809746" key="http://viaf.org/viaf/205809746">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tobias</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Tobias</forename>
                         <surname>Kraft</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/40550920" key="http://viaf.org/viaf/40550920">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Alexander</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Alexander</forename>
                         <surname>Czmiel</surname>
                     </persName>
                     <persName key="genID4bee645da5a0fbef20b457da89b9f79a">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Christian</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Christian</forename>
                         <surname>Thomas</surname>
                     </persName>
                     <persName key="genID01c7679f56d8fcea3b206899efa7d34c">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Matthias</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Matthias</forename>
                         <surname>Boenig</surname>
                     </persName>
                 </author>

@@ -1,23 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Tagging on Buddhist Images via IIIF and TEI encoding</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/252742522" key="http://viaf.org/viaf/252742522">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Kiyonori</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Kiyonori</forename>
                         <surname>Nagasaki</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/192915359" key="http://viaf.org/viaf/192915359">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Tetsuei</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Tetsuei</forename>
                         <surname>Tsuda</surname>
                     </persName>
                     <persName key="genID4bd175502088a1edc63f40823adbc2ba">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">A. Charles</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">A. Charles</forename>
                         <surname>Muller</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/113240825" key="http://viaf.org/viaf/113240825">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Masahiro</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Masahiro</forename>
                         <surname>Shimoda</surname>
                     </persName>
                 </author>

@@ -1,29 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>The BVH in Tours and the <q>Bibliotheques françoises</q> project</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/200939827" key="http://viaf.org/viaf/200939827">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Toshinori</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Toshinori</forename>
                         <surname>Uetani</surname>
                     </persName>
                 </author>
                 <author>
                     <persName ref="http://viaf.org/viaf/300847613" key="http://viaf.org/viaf/300847613">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sandrine</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sandrine</forename>
                         <surname>Breuil</surname>
                     </persName>
                 </author>
                 <author>
                     <persName key="genID8f08c243f3053a0255178117a467dd47">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Mathieu</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Mathieu</forename>
                         <surname>Duboc</surname>
                     </persName>
                 </author>
                 <author>
                     <persName key="genID0f3747ce4532f861279266dff127ac15">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Guillaume</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Guillaume</forename>
                         <surname>Porte</surname>
                     </persName>
                 </author>

@@ -1,47 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>TEIScribe: A graphic tool for composing and testing TEI documents in the context of the EVI-LINHD environment</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/175982042" key="http://viaf.org/viaf/175982042">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Elena</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Elena</forename>
                         <surname>González-Blanco</surname>
                     </persName>
                     <persName key="genID332f850382a244b759ea52c5b11dfe06">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Antonio</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Antonio</forename>
                         <surname>Robles-Gómez</surname>
                     </persName>
                     <persName key="genIDa8b2c996594e3fc4c1902253da7bd045">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Salvador</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Salvador</forename>
                         <surname>Ros</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/261749100" key="http://viaf.org/viaf/261749100">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Gimena</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Gimena</forename>
                         <surname>Del Rio Riande</surname>
                     </persName>
                     <persName key="genIDfa23e85501651362ef3b32ace2679fd3">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Roberto</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Roberto</forename>
                         <surname>Hernández</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/296443412" key="http://viaf.org/viaf/296443412">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Miguel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Miguel</forename>
                         <surname>Urizar</surname>
                     </persName>
                     <persName key="genID85d8ee0698dca49483e2944a50ae9271">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Clara I.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Clara I.</forename>
                         <surname>Martínez</surname>
                     </persName>
                     <persName key="genID933530518f9ff90a7017148989ef1fec">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Rafael</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Rafael</forename>
                         <surname>Pastor</surname>
                     </persName>
                     <persName key="genID1fb4d2c70f9c34ef1c07b4ea61881fb7">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jesús</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jesús</forename>
                         <surname>Cano</surname>
                     </persName>
                     <persName key="genIDa828d27d13cfbcc6bb586ed3acdbfa50">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Agustín C.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Agustín C.</forename>
                         <surname>Caminero</surname>
                     </persName>
                 </author>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>STEP Transcriptor and STEP Text Comparator</title>
                 <author>
                     <persName key="genID2e6ae182a5c78bd71c1d4e5a8cc9e285">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">André</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">André</forename>
                         <surname>De Tienne</surname>
                     </persName>
                 </author>

@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>eXistdb: more than a database</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/307490314" key="http://viaf.org/viaf/307490314">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Magdalena</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Magdalena</forename>
                         <surname>Turska</surname>
                     </persName>
                     <persName key="genID0bc4cf2cde8ab1075d0d0143323a53ba">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Lars</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Lars</forename>
                         <surname>Windauer</surname>
                     </persName>
                 </author>

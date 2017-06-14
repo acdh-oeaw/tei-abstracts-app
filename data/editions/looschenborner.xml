@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Database of Belarusian Periodicals</title>
                 <author>
                     <persName key="genID1252f4807ab4fa146dcfa8fb7d0d29e3">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sünna</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="no-match">Sünna</forename>
                         <surname>Looschen</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/203147266599235480662" key="http://viaf.org/viaf/203147266599235480662">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Ingo</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ingo</forename>
                         <surname>Börner</surname>
                     </persName>
                 </author>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,19 +7,19 @@
                Resources</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/249676043" key="http://viaf.org/viaf/249676043">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Daniel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                     <persName key="genID9fa3da2b326008cac7ad8d140eafa2fa">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Kira</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Kira</forename>
                         <surname>Kovalenko</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/186172418" key="http://viaf.org/viaf/186172418">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Thierry</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="">Thierry</forename>
                         <surname>Declerck</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/306137134" key="http://viaf.org/viaf/306137134">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Eveline</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eveline</forename>
                         <surname>Wandl-Vogt</surname>
                     </persName>
                 </author>

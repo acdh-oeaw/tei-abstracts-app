@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,27 +7,27 @@
                interdisciplinary studies with the TEI Guidelines</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/52846347" key="http://viaf.org/viaf/52846347">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Claudia</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Claudia</forename>
                         <surname>Resch</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/249676043" key="http://viaf.org/viaf/249676043">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Daniel</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Daniel</forename>
                         <surname>Schopper</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/31146030596135862230" key="http://viaf.org/viaf/31146030596135862230">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Vanessa</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>
                     <persName key="genIDf4c7c1680fd0a3bfe62fd1afb869c00b">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Eva</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Eva</forename>
                         <surname>Wohlfarter</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/43734505" key="http://viaf.org/viaf/43734505">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Anna</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Anna</forename>
                         <surname>Mader</surname>
                     </persName>
                     <persName key="genID696defac6a310023c5b5ba3bac7a5fc2">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Nora</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Nora</forename>
                         <surname>Fischer</surname>
                     </persName>
                 </author>

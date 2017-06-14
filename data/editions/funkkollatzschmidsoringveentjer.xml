@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,23 +7,23 @@
                data with TextGrid and DARIAH-DE</title>
                 <author>
                     <persName key="genIDbc7d3c2b2f1b8bfd8a2058076f52af44">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Stefan E.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Stefan E.</forename>
                         <surname>Funk</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/311735519" key="http://viaf.org/viaf/311735519">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Thomas</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thomas</forename>
                         <surname>Kollatz</surname>
                     </persName>
                     <persName key="genID01bbfcea9fb2c048edcd5e22f6c5945d">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Oliver</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Oliver</forename>
                         <surname>Schmid</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/818147270494635700004" key="http://viaf.org/viaf/818147270494635700004">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Sibylle</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Sibylle</forename>
                         <surname>Söring</surname>
                     </persName>
                     <persName key="genIDe3382c4908c71a57dafaa1d593b00deb">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Ubbo</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Ubbo</forename>
                         <surname>Veentjer</surname>
                     </persName>
                 </author>

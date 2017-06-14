@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,11 +7,11 @@
                   W. A. Mozart’s</q> (1828) in TEI</title>
                 <author>
                     <persName key="genIDc66f1c9c6a0b777e4f9226b51c054e84">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Anja</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Anja</forename>
                         <surname>Morgenstern</surname>
                     </persName>
                     <persName key="genID9ca45be867443c12e5f7b24c454c15ae">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Agnes</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Agnes</forename>
                         <surname>Amminger</surname>
                     </persName>
                 </author>

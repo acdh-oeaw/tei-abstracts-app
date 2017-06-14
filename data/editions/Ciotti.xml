@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>We are TEI. You will be assimilated!</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/227725412" key="http://viaf.org/viaf/227725412">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Fabio</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Fabio</forename>
                         <surname>Ciotti</surname>
                     </persName>
                 </author>

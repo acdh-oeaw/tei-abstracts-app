@@ -1,39 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Wake up, standOff!</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/162800591" key="http://viaf.org/viaf/162800591">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Piotr</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Piotr</forename>
                         <surname>Bański</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/47146029530335821464" key="http://viaf.org/viaf/47146029530335821464">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Bertrand</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Bertrand</forename>
                         <surname>Gaiffe</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/285739999" key="http://viaf.org/viaf/285739999">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Patrice</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Patrice</forename>
                         <surname>Lopez</surname>
                     </persName>
                     <persName key="genID573aa0a4ac2bdfc7ff8ec7b5336f7b81">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Simon</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Simon</forename>
                         <surname>Meoni</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/282014122" key="http://viaf.org/viaf/282014122">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Laurent</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Laurent</forename>
                         <surname>Romary</surname>
                     </persName>
                     <persName key="genID2d68bb59e9ce4b04f2d0ca9e2efc5306">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Thomas</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thomas</forename>
                         <surname>Schmidt</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/160626279" key="http://viaf.org/viaf/160626279">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Peter</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Peter</forename>
                         <surname>Stadler</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/171746082" key="http://viaf.org/viaf/171746082">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Andreas</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Andreas</forename>
                         <surname>Witt</surname>
                     </persName>
                 </author>

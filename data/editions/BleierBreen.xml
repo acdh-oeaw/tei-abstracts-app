@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Documenting Transmission: The Analysis of the Folk Process using Versioning Machine 5.0</title>
                 <author>
                     <persName key="genIDca0f08d12b0a257697f6d4126bac55e7">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Roman</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Roman</forename>
                         <surname>Bleier</surname>
                     </persName>
                     <persName key="genID3c4c619db649b523edce4de51c5cd2eb">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Richard</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Richard</forename>
                         <surname>Breen</surname>
                     </persName>
                 </author>

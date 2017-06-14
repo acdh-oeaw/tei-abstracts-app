@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Automating the validation of TEI metadata processing</title>
                 <author>
                     <persName key="genID74a373d257350a109678662cb287b875">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Dennis</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Dennis</forename>
                         <surname>Zielke</surname>
                     </persName>
                     <persName key="genIDcfc165fa73a755e549c4c0c44f6f3d41">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Alexander</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Alexander</forename>
                         <surname>Petrus</surname>
                     </persName>
                 </author>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Writing under the Magnifying Glass. Encoding the Text in Progress</title>
                 <author>
                     <persName key="genIDc0b13dd39c11ccb17a1545fc3945e219">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Florentina</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Florentina</forename>
                         <surname>Armaselu</surname>
                     </persName>
                 </author>

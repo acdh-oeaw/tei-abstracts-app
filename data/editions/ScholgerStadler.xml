@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>TEI2German Translatathon</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/109145541733896601584" key="http://viaf.org/viaf/109145541733896601584">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Martina</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Martina</forename>
                         <surname>Scholger</surname>
                     </persName>
                     <persName key="genIDab7306163dd9302fb67b9d731872f0b2">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Peter</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="">Peter</forename>
                         <surname>Stadler</surname>
                     </persName>
                 </author>

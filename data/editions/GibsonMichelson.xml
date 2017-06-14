@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,11 +7,11 @@
                Electronica</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/59147905242279092527" key="http://viaf.org/viaf/59147905242279092527">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Nathan P.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Nathan P.</forename>
                         <surname>Gibson</surname>
                     </persName>
                     <persName key="genID04a7fa2e6546250906da1b20e28ef14f">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">David A.</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">David A.</forename>
                         <surname>Michelson</surname>
                     </persName>
                 </author>

@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Encoding Text about Things</title>
                 <author>
                     <persName ref="http://viaf.org/viaf/58911587" key="http://viaf.org/viaf/58911587">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Georg</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Georg</forename>
                         <surname>Vogeler</surname>
                     </persName>
                 </author>

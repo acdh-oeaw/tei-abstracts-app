@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Tomayto, tomahto? Encoding variant taxonomies in TEI</title>
                 <author>
                     <persName key="genID8f2d52d2d3f397782dc04a1073b3a309">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Helena</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Helena</forename>
                         <surname>Bermudez Sabel</surname>
                     </persName>
                 </author>

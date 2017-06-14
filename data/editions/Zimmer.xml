@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>TEI in the Archives: Unfolding the Bookshops in Paul’s Cross Churchyard</title>
                 <author>
                     <persName key="genID55c1be7621e04766d94a3fa709a78d67">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Mary Erica</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Mary Erica</forename>
                         <surname>Zimmer</surname>
                     </persName>
                 </author>

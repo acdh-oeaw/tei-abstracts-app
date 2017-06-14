@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -6,11 +7,11 @@
                interoperability</title>
                 <author>
                     <persName key="genIDab0f4ba43c7cebb7fa320976680cc8d4">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Jack Thompson</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Jack Thompson</forename>
                         <surname>Bowers</surname>
                     </persName>
                     <persName ref="http://viaf.org/viaf/306105656" key="http://viaf.org/viaf/306105656">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Thierry</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Thierry</forename>
                         <surname>Declerck</surname>
                     </persName>
                 </author>
