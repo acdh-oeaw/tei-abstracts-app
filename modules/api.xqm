@@ -75,17 +75,20 @@ declare %private function api:list-collection-content($collection as xs:string, 
         let $base := functx:substring-before-last($self,'/')
         let $docs := collection($config:app-root||'/data/'||$collection)//tei:TEI
         let $all := count($docs)
-        let $docs := subsequence($docs, $pageNumber, $pageSize)
+        let $docs := subsequence($docs, ($pageNumber - 1)*$pageSize, $pageSize)
         let $first := $self||'?page[number]='||1
         let $prev := if ($pageNumber gt 1) then $pageNumber - 1 else $pageNumber
         let $prev := $self||'?page[number]='||$prev
-        let $last := round($all div $pageSize)
+        let $last := ceiling($all div $pageSize)
         let $next:= if ($pageNumber lt $last) then $pageNumber + 1 else $pageNumber
         let $next := $self||'?page[number]='||$next
         let $last := $self||'?page[number]='||$last
        
         let $result := 
             <result>
+                <meta>
+                    <hits>{$all}</hits>
+                </meta>
                 <links>
                     <self>{$self}</self>
                     <first>{$first}</first>
@@ -105,6 +108,8 @@ declare %private function api:list-collection-content($collection as xs:string, 
                             <id>{$id}</id>
                             <attributes>
                                 <title>{normalize-space(string-join($doc//tei:title[1]//text(), ' '))}</title>
+                                <created>{xmldb:created($path, $id)}</created>
+                                <modified>{xmldb:last-modified($path, $id)}</modified>
                             </attributes>
                             <links>
                                 <self>{$path2me}</self>
