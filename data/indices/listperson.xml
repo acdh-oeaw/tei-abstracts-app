@@ -25,7 +25,7 @@
                         <affiliation>
                             <orgName>Department of History, University of Vienna</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -44,7 +44,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -73,7 +73,7 @@
                         <affiliation>
                             <orgName>Herzog August Bibliothek, Wolfenbüttel</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -92,7 +92,7 @@
                         <affiliation>
                             <orgName>University of Luxembourg</orgName>
                             <location>
-                                <country key="LU">Luxembourg</country>
+                                <country key="LU" ref="#place_920d0c66f3d2ad926a6d590a5d244bd9">Luxembourg</country>
                                 <geo>6.1667, 49.75</geo>
                             </location>
                         </affiliation>
@@ -111,7 +111,7 @@
                         <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -130,7 +130,7 @@
                         <affiliation>
                             <orgName>Analyse et Traitement Informatique de la Langue Française, Université de Lorraine</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -149,7 +149,7 @@
                             <affiliation>
                                 <orgName>Science miner</orgName>
                                 <location>
-                                    <country key="FR">France</country>
+                                    <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                     <geo>2, 46</geo>
                                 </location>
                             </affiliation>
@@ -169,7 +169,7 @@
                         <affiliation>
                             <orgName>Analyse et Traitement Informatique de la Langue Française, Université de Lorraine</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -188,7 +188,7 @@
                         <affiliation>
                             <orgName>Institut national de recherche dédié au numérique</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -211,7 +211,7 @@
                         <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -231,7 +231,7 @@
                             <orgName>Musikwissenschaftliches Seminar Detmold / Paderborn, University
                                 of Paderborn</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -250,7 +250,7 @@
                         <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -270,7 +270,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -298,7 +298,7 @@
                             <orgName>Department of German Studies, University of
                                 Duisburg-Essen</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -318,7 +318,7 @@
                         <affiliation>
                             <orgName>Department of German Studies, University of Mannheim</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -338,7 +338,7 @@
                         <affiliation>
                             <orgName>CLARIN-D, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -358,7 +358,7 @@
                         <affiliation>
                             <orgName>Institute for the German Language, Mannheim</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -378,7 +378,7 @@
                         <affiliation>
                             <orgName>Department of German Studies, University of Mannheim</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -399,7 +399,7 @@
                             <orgName>Departamento de Estadística, Matemáticas e Informática,
                                 Universidad Miguel Hernández</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -419,7 +419,7 @@
                             <orgName>Center for Information Modelling – Austrian Centre for Digital
                                 Humanities, University of Graz</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -443,7 +443,7 @@
                         <affiliation>
                             <orgName>Maynooth University</orgName>
                             <location>
-                                <country key="IE">Ireland</country>
+                                <country key="IE" ref="#place_d2cb7bbc0d23f34c4255d924076e902f">Ireland</country>
                                 <geo>-8, 53</geo>
                             </location>
                         </affiliation>
@@ -462,7 +462,7 @@
                         <affiliation>
                             <orgName>Maynooth University</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -483,7 +483,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -506,7 +506,7 @@
                         <affiliation>
                             <orgName>German Research Center for Artificial Intelligence</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -530,7 +530,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -549,7 +549,7 @@
                         <affiliation>
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -568,7 +568,7 @@
                         <affiliation>
                             <orgName>Duke University Libraries, Duke University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -588,7 +588,7 @@
                             <orgName>Maryland Institute for Technology in the Humanities, University
                                 of Maryland</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -608,7 +608,7 @@
                             <orgName>Dipartimento di Studi Filologici, Linguistici e Letterari,
                                 Università Roma Tor Vergata</orgName>
                             <location>
-                                <country key="IT">Italy</country>
+                                <country key="IT" ref="#place_cd32106bcb6de321930cf34574ea388c">Italy</country>
                                 <geo>12.8333, 42.8333</geo>
                             </location>
                         </affiliation>
@@ -626,7 +626,7 @@
                         <affiliation>
                             <orgName>IT Services, University of Oxford</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -654,7 +654,7 @@
                         <affiliation>
                             <orgName>Classics Faculty, University of Oxford</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -673,7 +673,7 @@
                         <affiliation>
                             <orgName>Open Sky Solutions</orgName>
                             <location>
-                                <country key="CA">Canada</country>
+                                <country key="CA" ref="#place_3e8d115eb4b32b9e9479f387dbe14ee1">Canada</country>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -691,7 +691,7 @@
                         <affiliation>
                             <orgName>Indiana University Libraries, Indiana University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -712,7 +712,7 @@
                             <orgName>Council of Library and Information Resources, Knox
                                 College</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -733,7 +733,7 @@
                             <orgName>Beckman Center for the History of Chemistry, Chemical Heritage
                                 Foundation</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -754,7 +754,7 @@
                             <orgName>School of Informatics and Computing, Indiana
                                 University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -775,7 +775,7 @@
                             <orgName>Department of History and Philosophy of Science and Medicine,
                                 Indiana University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -796,7 +796,7 @@
                             <orgName>Department of History and Philosophy of Science and Medicine,
                                 Indiana University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -817,7 +817,7 @@
                             <orgName>Department of History and Philosophy of Science and Medicine,
                                 Indiana University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -838,7 +838,7 @@
                             <orgName>School of Liberal Arts, Indiana University at
                                 Indianapolis</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -861,7 +861,7 @@
                         <affiliation>
                             <orgName>TELOTA, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -882,7 +882,7 @@
                             <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -902,7 +902,7 @@
                         <affiliation>
                             <orgName>Berlin-Brandenburg Academy of Sciences and Humanities</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -923,7 +923,7 @@
                         <affiliation>
                             <orgName>TELOTA, Berlin-Brandenburg Academy of Sciences</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -944,7 +944,7 @@
                             <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -965,7 +965,7 @@
                             <orgName>Deutsches Textarchiv, Berlin-Brandenburg Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -986,7 +986,7 @@
                             <orgName>Near and Middle Eastern Department, Cambridge University
                                 Library</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -1006,7 +1006,7 @@
                         <affiliation>
                             <orgName>Histoire et Littérature, Collège de France</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -1026,7 +1026,7 @@
                         <affiliation>
                             <orgName>Göttingen Centre for Digital Humanities, Georg-August-Universität Göttingen</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -1046,7 +1046,7 @@
                         <affiliation>
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -1067,7 +1067,7 @@
                             <orgName>Salomon Ludwig Steinheim-Institut für deutsch-jüdische
                                 Geschichte</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -1087,7 +1087,7 @@
                         <affiliation>
                             <orgName>Fachbereich Chemie, Technische Universität Darmstadt</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -1107,7 +1107,7 @@
                         <affiliation>
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -1127,7 +1127,7 @@
                         <affiliation>
                             <orgName>Göttingen State and University Library</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -1147,7 +1147,7 @@
                         <affiliation>
                             <orgName>School of Divinity, Vanderbilt University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1167,7 +1167,7 @@
                             <orgName>Department of Classical Studies, Vanderbilt
                                 University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1186,7 +1186,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1205,7 +1205,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1224,7 +1224,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1244,7 +1244,7 @@
                             <orgName>Consejo Nacional de Investigaciones Científicas y Técnicas,
                                 Universidad de Buenos Aires</orgName>
                             <location>
-                                <country key="AR">Argentina</country>
+                                <country key="AR" ref="#place_5b61a1b298a0d06efa6933a97e68d763">Argentina</country>
                             </location>
                         </affiliation>
                         <listBibl>
@@ -1262,7 +1262,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1281,7 +1281,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1300,7 +1300,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1319,7 +1319,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1338,7 +1338,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1357,7 +1357,7 @@
                         <affiliation>
                             <orgName>Universidad Nacional de Educación a Distancia</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -1377,7 +1377,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1401,7 +1401,7 @@
                         <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1420,7 +1420,7 @@
                         <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1439,7 +1439,7 @@
                         <affiliation>
                             <orgName>Literary Archives, Austrian National Library</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1458,7 +1458,7 @@
                         <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1477,7 +1477,7 @@
                         <affiliation>
                             <orgName>Bodleian Library, University of Oxford</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -1497,7 +1497,7 @@
                         <affiliation>
                             <orgName>Cambridge University Library</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -1518,7 +1518,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1538,7 +1538,7 @@
                         <affiliation>
                             <orgName>University of Kansas Libraries, University of Kansas</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1559,7 +1559,7 @@
                             <orgName>Institute for History of Art and Musicology, Austrian Academy
                                 of Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1579,7 +1579,7 @@
                         <affiliation>
                             <orgName>Institute of Economics, University of Graz</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1599,7 +1599,7 @@
                         <affiliation>
                             <orgName>Petőfi Literary Museum</orgName>
                             <location>
-                                <country key="HU">Hungary</country>
+                                <country key="HU" ref="#place_35b5282113b88c2fe23dcbec9f0258c1">Hungary</country>
                                 <geo>20, 47</geo>
                             </location>
                         </affiliation>
@@ -1618,7 +1618,7 @@
                         <affiliation>
                             <orgName>Department of Judaic Studies, Brown University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1637,7 +1637,7 @@
                         <affiliation>
                             <orgName>University Library Center for Digital Scholarship, Brown University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1656,7 +1656,7 @@
                         <affiliation>
                             <orgName>Department of Judaic Studies, Brown University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1676,7 +1676,7 @@
                             <orgName>Institute of Slavic Studies, Carl von Ossietzky
                                 University</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -1695,7 +1695,7 @@
                         <affiliation>
                             <orgName>Department of German Studies, University of Vienna</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1727,7 +1727,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1759,7 +1759,7 @@
                         <affiliation>
                             <orgName>Institute for the Cultural and Intellectual History of Asia, Austrian Academy of Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1778,7 +1778,7 @@
                         <affiliation>
                             <orgName>Salzburg Mozarteum Foundation</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1797,7 +1797,7 @@
                         <affiliation>
                             <orgName>Salzburg Mozarteum Foundation</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -1817,7 +1817,7 @@
                             <orgName>International Institute for Digital Humanities / University of
                                 Tokyo</orgName>
                             <location>
-                                <country key="JP">Japan</country>
+                                <country key="JP" ref="#place_24d22e03afb23edb45c6c8cfa16a280e">Japan</country>
                                 <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
@@ -1836,7 +1836,7 @@
                         <affiliation>
                             <orgName>National Research Institute for Cultural Properties</orgName>
                             <location>
-                                <country key="JP">Japan</country>
+                                <country key="JP" ref="#place_24d22e03afb23edb45c6c8cfa16a280e">Japan</country>
                                 <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
@@ -1855,7 +1855,7 @@
                         <affiliation>
                             <orgName>Center for Evolving Humanites, University of Tokyo</orgName>
                             <location>
-                                <country key="JP">Japan</country>
+                                <country key="JP" ref="#place_24d22e03afb23edb45c6c8cfa16a280e">Japan</country>
                                 <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
@@ -1874,7 +1874,7 @@
                         <affiliation>
                             <orgName>Center for Evolving Humanites, University of Tokyo</orgName>
                             <location>
-                                <country key="JP">Japan</country>
+                                <country key="JP" ref="#place_24d22e03afb23edb45c6c8cfa16a280e">Japan</country>
                                 <geo>139.75309, 35.68536</geo>
                             </location>
                         </affiliation>
@@ -1894,7 +1894,7 @@
                             <orgName>Institute of Slovenian Literature and Literary Studies,
                                 Research Centre of Slovenian Academy of Sciences and Arts</orgName>
                             <location>
-                                <country key="SI">Slovenia</country>
+                                <country key="SI" ref="#place_ce774d9cab3ae0bdf522cd0839bed364">Slovenia</country>
                                 <geo>15.1667, 46.25</geo>
                             </location>
                         </affiliation>
@@ -1914,7 +1914,7 @@
                             <orgName>Department of Knowledge Technologies, Jožef Stefan
                                 Institute</orgName>
                             <location>
-                                <country key="SI">Slovenia</country>
+                                <country key="SI" ref="#place_ce774d9cab3ae0bdf522cd0839bed364">Slovenia</country>
                                 <geo>15.1667, 46.25</geo>
                             </location>
                         </affiliation>
@@ -1934,7 +1934,7 @@
                             <orgName>Emory Center for Digital Scholarship, Emory
                                 University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1954,7 +1954,7 @@
                             <orgName>Centre Interuniversitaire d’Histoire et d’Archéologie
                                 Médiévales</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -1972,7 +1972,7 @@
                         <affiliation>
                             <orgName>Centre for Digital Research in the Humanities, University of Nebraska-Lincoln</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -1992,7 +1992,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2016,7 +2016,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2036,7 +2036,7 @@
                             <orgName>Institute for History of Art and Musicology, Austrian Academy
                                 of Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2056,7 +2056,7 @@
                             <orgName>Institute for History of Art and Musicology, Austrian Academy
                                 of Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2075,7 +2075,7 @@
                         <affiliation>
                             <orgName>Bodleian Library, University of Oxford</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -2095,7 +2095,7 @@
                             <orgName>Departamento de Filoloxía Galega, Universidade de Santiago de
                                 Compostela</orgName>
                             <location>
-                                <country key="ES">Spain</country>
+                                <country key="ES" ref="#place_04c19fa1e772ab66f0aad2efe61f25cd">Spain</country>
                                 <geo>-4, 40</geo>
                             </location>
                         </affiliation>
@@ -2115,7 +2115,7 @@
                             <orgName>Center for Information Modelling – Austrian Centre for Digital
                                 Humanities, University of Graz</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2134,7 +2134,7 @@
                             <orgName>Institute for Lingustic Studies, Russian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="RU">Russia</country>
+                                <country key="RU" ref="#place_f9308c5d059650ee40cab30bad1e96d0">Russia</country>
                                 <geo>47, 60</geo>
                             </location>
                         </affiliation>
@@ -2155,7 +2155,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2175,7 +2175,7 @@
                         <affiliation>
                             <orgName>Historisches Institut, University of Cologne</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2195,7 +2195,7 @@
                         <affiliation>
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2215,7 +2215,7 @@
                         <affiliation>
                             <orgName>Cologne Center for eHumanities, Cologne University</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2235,7 +2235,7 @@
                         <affiliation>
                             <orgName>Trier Center for Digital Humanities, Trier University</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2254,7 +2254,7 @@
                         <affiliation>
                             <orgName>Higher School of Economics, Moscow</orgName>
                             <location>
-                                <country key="RU">Russia</country>
+                                <country key="RU" ref="#place_f9308c5d059650ee40cab30bad1e96d0">Russia</country>
                                 <geo>47, 60</geo>
                             </location>
                         </affiliation>
@@ -2273,7 +2273,7 @@
                         <affiliation>
                             <orgName>Higher School of Economics, Moscow</orgName>
                             <location>
-                                <country key="RU">Russia</country>
+                                <country key="RU" ref="#place_f9308c5d059650ee40cab30bad1e96d0">Russia</country>
                                 <geo>47, 60</geo>
                             </location>
                         </affiliation>
@@ -2292,7 +2292,7 @@
                         <affiliation>
                             <orgName>IT Services, University of Oxford</orgName>
                             <location>
-                                <country key="UK">United Kingdom</country>
+                                <country key="UK" ref="#place_76423d8352c9e8fc8d7d65f62c55eae9">United Kingdom</country>
                                 <geo>-4.5, 54</geo>
                             </location>
                         </affiliation>
@@ -2319,7 +2319,7 @@
                         <affiliation>
                             <orgName>eXist Solutions</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2342,7 +2342,7 @@
                         <affiliation>
                             <orgName>eXist Solutions</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2362,7 +2362,7 @@
                             <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
                                 François-Rabelais, Tours</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -2383,7 +2383,7 @@
                             <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
                                 François-Rabelais, Tours</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -2403,7 +2403,7 @@
                             <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
                                 François-Rabelais, Tours</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -2423,7 +2423,7 @@
                             <orgName>Centre d’Etudes Supérieures de la Renaissance, Université
                                 François-Rabelais, Tours</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -2443,7 +2443,7 @@
                             <orgName>Centre de Recherches Historiques de l’Ouest – Le Mans,
                                 Université du Maine</orgName>
                             <location>
-                                <country key="FR">France</country>
+                                <country key="FR" ref="#place_11aedd0e432747c2bcd97b82808d24a0">France</country>
                                 <geo>2, 46</geo>
                             </location>
                         </affiliation>
@@ -2463,7 +2463,7 @@
                             <orgName>Center for Information Modelling – Austrian Centre for Digital
                                 Humanities, University of Graz</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2482,7 +2482,7 @@
                             <orgName>Institute of History and European Ethnology, University of
                                 Innsbruck</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2500,7 +2500,7 @@
                         <affiliation>
                             <orgName>U.S. Department of State</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
@@ -2520,7 +2520,7 @@
                             <orgName>Austrian Centre for Digital Humanities, Austrian Academy of
                                 Sciences</orgName>
                             <location>
-                                <country key="AT">Austria</country>
+                                <country key="AT" ref="#place_fa868488740aa25870ced6b9169951fb">Austria</country>
                                 <geo>13.3333, 47.3333</geo>
                             </location>
                         </affiliation>
@@ -2540,7 +2540,7 @@
                             <orgName>Computer and Media Service, Humboldt-Universität zu
                                 Berlin</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2560,7 +2560,7 @@
                             <orgName>Institut für Bibliotheks- und Informationswissenschaft,
                                 Humboldt-Universität zu Berlin</orgName>
                             <location>
-                                <country key="DE">Germany</country>
+                                <country key="DE" ref="#place_3a52f3c22ed6fcde5bf696a6c02c9e73">Germany</country>
                                 <geo>10.5, 51.5</geo>
                             </location>
                         </affiliation>
@@ -2579,7 +2579,7 @@
                         <affiliation>
                             <orgName>Arts and Sciences Writing Program, Boston University</orgName>
                             <location>
-                                <country key="US">United States of America</country>
+                                <country key="US" ref="#place_7516fd43adaa5e0b8a65a672c39845d2">United States of America</country>
                                 <geo>-98.5, 39.76</geo>
                             </location>
                         </affiliation>
