@@ -33,13 +33,14 @@ declare %templates:wrap function config:app-description($node as node(), $model 
     $config:repo-descriptor/repo:description/text()
 };
 
-declare variable $config:app-name := doc(concat($config:app-root, "/repo.xml"))//repo:target/text();
-
 declare variable $config:data-root := $config:app-root || "/data";
-
 declare variable $config:repo-descriptor := doc(concat($config:app-root, "/repo.xml"))/repo:meta;
-
+declare variable $config:repo-description := doc(concat($config:app-root, "/repo.xml"))/repo:meta/repo:description;
 declare variable $config:expath-descriptor := doc(concat($config:app-root, "/expath-pkg.xml"))/expath:package;
+declare variable $config:expath-ns := doc(concat($config:app-root, "/expath-pkg.xml"))/expath:package/@name;
+declare variable $config:app-name := doc(concat($config:app-root, "/repo.xml"))//repo:target/text();
+declare variable $config:app-title := $config:expath-descriptor/expath:title/text();
+declare variable $config:app-authors := $config:repo-descriptor/repo:author;
 
 (:~
  : Resolve the given path using the current application context.
