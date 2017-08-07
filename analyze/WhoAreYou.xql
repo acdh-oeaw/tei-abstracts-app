@@ -24,27 +24,28 @@ let $RDF :=
     xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
     xml:base="https://id.acdh.oeaw.ac.at/">
     
-        <acdh:Project rdf:about="{concat($baseID, $config:app-name)}">
-            <dc:title>{$config:app-title}</dc:title>
-            <dc:description>{$config:repo-description/text()}</dc:description>
-            <dct:contributor>
-            <foaf:Agent rdf:about="{concat($baseID, 'pandorfer')}">
-                <dc:title>Peter Andorfer</dc:title>
-                <foaf:name>Peter Andorfer</foaf:name>
-            </foaf:Agent>
-            </dct:contributor>
-        </acdh:Project>
+        <acdh:Collection rdf:about="{concat($baseID, $config:app-name)}">
+            <acdh:hasTitle>{$config:app-title}</acdh:hasTitle>
+            <acdh:hasDescription>{$config:repo-description/text()}</acdh:hasDescription>
+            <acdh:hasContributor>
+            <acdh:Person rdf:about="{concat($baseID, 'pandorfer')}">
+                <acdh:hasTitle>Peter Andorfer</acdh:hasTitle>
+                <acdh:hasLastName>Andorfer</acdh:hasLastName>
+                <acdh:hasFirstName>Peter</acdh:hasFirstName>
+            </acdh:Person>
+            </acdh:hasContributor>
+        </acdh:Collection>
         <acdh:Collection rdf:about="{concat($baseID, string-join(($config:app-name, 'data'), '/'))}">
-            <dc:title>{string-join(($config:app-name, 'data'), '/')}</dc:title>
-            <dct:isPartOf rdf:resource="{concat($baseID,$config:app-name)}"/>
+            <acdh:hasTitle>{string-join(($config:app-name, 'data'), '/')}</acdh:hasTitle>
+            <acdh:isPartOf rdf:resource="{concat($baseID,$config:app-name)}"/>
         </acdh:Collection>
 
         {
             for $x in xmldb:get-child-collections($config:data-root) 
                 return
                     <acdh:Collection rdf:about="{concat($baseID,string-join(($config:app-name, 'data', $x), '/'))}">
-                        <dc:title>{string-join(($config:app-name, 'data', $x), '/')}</dc:title>
-                        <dct:isPartOf rdf:resource="{concat($baseID, string-join(($config:app-name, 'data'), '/'))}"/>
+                        <acdh:hasTitle>{string-join(($config:app-name, 'data', $x), '/')}</acdh:hasTitle>
+                        <acdh:isPartOf rdf:resource="{concat($baseID, string-join(($config:app-name, 'data'), '/'))}"/>
                     </acdh:Collection>
         }
         {
@@ -57,15 +58,41 @@ let $RDF :=
                     }
                 let $filename := string-join(($config:app-name, 'data', $x, $doc), '/')
                 let $title := try {
-                        <dc:title>{normalize-space(string-join($node//tei:titleStmt/tei:title//text(), ' '))}</dc:title>
+                        <acdh:hasTitle>{normalize-space(string-join($node//tei:titleStmt/tei:title//text(), ' '))}</acdh:hasTitle>
                     } catch * {
-                        <dc:title>{tokenize($filename, '/')[last()]}</dc:title>
+                        <acdh:hasTitle>{tokenize($filename, '/')[last()]}</acdh:hasTitle>
                     }
+                let $authors := try {
+                        
+                            for $y in $node//tei:titleStmt//tei:author//tei:persName
+                                let $uri := if(starts-with(data($y/@key), 'http')) 
+                                    then $y/@key
+                                    else "https://id.acdh.oeaw.ac.at/tei-abstracts/"||data($y/@key)
+                            
+                                return
+                                    <acdh:hasAuthor>
+                                <acdh:Person rdf:about="{$uri}">
+                                    <acdh:hasTitle>"remove this constraint"</acdh:hasTitle>
+                                    <acdh:hasLastName>
+                                        {$y/tei:surname/text()}
+                                    </acdh:hasLastName>
+                                    <acdh:hasFirstName>
+                                        {$y/tei:forename/text()}
+                                    </acdh:hasFirstName>
+                                </acdh:Person>
+                                </acdh:hasAuthor>
+                            
+                        
+                } catch * {()}
+
+                
                 let $filename := string-join(($config:app-name, 'data', $x, $doc), '/')
                 return
                     <acdh:Resource rdf:about="{concat($baseID, $filename)}">
                         {$title}
-                        <dct:isPartOf rdf:resource="{concat($baseID, (string-join(($config:app-name, 'data', $x), '/')))}"/>
+                        {$authors}
+                        <acdh:isPartOf rdf:resource="{concat($baseID, (string-join(($config:app-name, 'data', $x), '/')))}"/>
+                        
                     </acdh:Resource>
         }
 
