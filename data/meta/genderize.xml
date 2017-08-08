@@ -5,13 +5,13 @@
          <titleStmt>
             <title>Gender distribution among the contributors to TEI 2016</title>
             <author>
-               <persName>
+               <persName ref="http://viaf.org/viaf/251032539" key="http://viaf.org/viaf/251032539">
                   <forename>Peter</forename>
                   <surname>Andorfer</surname>
                </persName>
             </author>
             <author>
-               <persName>
+               <persName key="http://viaf.org/viaf/31146030596135862230" ref="http://viaf.org/viaf/31146030596135862230">
                   <forename>Vanessa</forename>
                   <surname>Hannesschläger</surname>
                </persName>

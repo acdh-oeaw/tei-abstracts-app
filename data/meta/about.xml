@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>About</title>
                 <author>
-                    <persName>
+                    <persName key="http://viaf.org/viaf/31146030596135862230" ref="http://viaf.org/viaf/31146030596135862230">
                         <forename>Vanessa</forename>
                         <surname>Hannesschläger</surname>
                     </persName>

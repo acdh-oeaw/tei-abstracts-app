@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>Contributors to the TEI Conference and Members' Meeting 2016 and their affiliations</title>
                 <author>
-                    <persName>
+                    <persName ref="http://viaf.org/viaf/251032539" key="http://viaf.org/viaf/251032539">
                         <forename>Peter</forename>
                         <surname>Andorfer</surname>
                     </persName>
