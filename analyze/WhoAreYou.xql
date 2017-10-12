@@ -11,31 +11,78 @@ let $baseID := 'https://id.acdh.oeaw.ac.at/'
 let $RDF := 
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:dct="http://purl.org/dc/terms/"
-    xmlns:owl="http://www.w3.org/2002/07/owl#"
-    xmlns:xml="http://www.w3.org/XML/1998/namespace"
-    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/#"
+    xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#"
     xmlns:acdhi="https://id.acdh.oeaw.ac.at/"
     xmlns:foaf="http://xmlns.com/foaf/spec/#"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:ebucore="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
     xml:base="https://id.acdh.oeaw.ac.at/">
+
+<!-- define involved Organisations -->
+        
+        <acdh:Organisation rdf:about="http://www.stiftung-fte.at/">
+            <acdh:hasTitle>Nationalstiftung</acdh:hasTitle>
+        </acdh:Organisation>
+
+<!-- define involved Persons -->
     
+        <acdh:Person rdf:about="http://viaf.org/viaf/31146030596135862230">
+            <acdh:hasLastName>Hannesschläger</acdh:hasLastName>
+            <acdh:hasFirstName>Vanessa</acdh:hasFirstName>
+        </acdh:Person>
+        <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846">
+            <acdh:hasLastName>Andorfer</acdh:hasLastName>
+            <acdh:hasFirstName>Peter</acdh:hasFirstName>
+        </acdh:Person>
+    
+<!-- define involved Project(s) -->        
+
+        <acdh:Project rdf:about="{concat($baseID,'project/', $config:app-name)}">
+            <acdh:hasTitle>TEI 2016 Abstracts</acdh:hasTitle>
+            <acdh:language>eng</acdh:language>
+            <acdh:hasContact>
+                <acdh:Person rdf:about="http://viaf.org/viaf/31146030596135862230"/>
+            </acdh:hasContact>
+            <acdh:hasDescription>
+                A collection of abstracts of contributions to the TEI conference 2016.
+            </acdh:hasDescription>
+            <acdh:hasUrl>https://tei2016app.acdh.oeaw.ac.at/</acdh:hasUrl>
+            <acdh:hasStartDate>2017-01-23</acdh:hasStartDate>
+            <acdh:hasEndDate>2017-06-23</acdh:hasEndDate>
+            <acdh:hasPrincipalInvestigator>
+                <acdh:Person rdf:about="http://viaf.org/viaf/31146030596135862230"/>
+            </acdh:hasPrincipalInvestigator>
+            <acdh:hasContributor>
+                <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+            </acdh:hasContributor>
+            <acdh:hasFunder>
+                <acdh:Organisation rdf:about="http://www.stiftung-fte.at/"/>
+            </acdh:hasFunder>
+            <acdh:hasRelatedCollection rdf:about="{concat($baseID, $config:app-name)}"/>
+        </acdh:Project>
+
         <acdh:Collection rdf:about="{concat($baseID, $config:app-name)}">
+            <acdh:hasRelatedProject>
+                <acdh:Project rdf:about="{concat($baseID,'project/', $config:app-name)}"/>
+            </acdh:hasRelatedProject>
             <acdh:hasTitle>{$config:app-title}</acdh:hasTitle>
             <acdh:hasDescription>{$config:repo-description/text()}</acdh:hasDescription>
             <acdh:hasContributor>
-            <acdh:Person rdf:about="{concat($baseID, 'pandorfer')}">
-                <acdh:hasTitle>Peter Andorfer</acdh:hasTitle>
-                <acdh:hasLastName>Andorfer</acdh:hasLastName>
-                <acdh:hasFirstName>Peter</acdh:hasFirstName>
-            </acdh:Person>
+                <acdh:Person rdf:about="http://viaf.org/viaf/31146030596135862230"/>
             </acdh:hasContributor>
+            <acdh:hasContributor>
+                <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+            </acdh:hasContributor>
+            <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
         </acdh:Collection>
+        
         <acdh:Collection rdf:about="{concat($baseID, string-join(($config:app-name, 'data'), '/'))}">
+            <acdh:hasContributor>
+                <acdh:Person rdf:about="http://viaf.org/viaf/31146030596135862230"/>
+            </acdh:hasContributor>
+            <acdh:hasContributor>
+                <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+            </acdh:hasContributor>
+            <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
             <acdh:hasTitle>{string-join(($config:app-name, 'data'), '/')}</acdh:hasTitle>
             <acdh:isPartOf rdf:resource="{concat($baseID,$config:app-name)}"/>
         </acdh:Collection>
@@ -46,6 +93,13 @@ let $RDF :=
                     <acdh:Collection rdf:about="{concat($baseID,string-join(($config:app-name, 'data', $x), '/'))}">
                         <acdh:hasTitle>{string-join(($config:app-name, 'data', $x), '/')}</acdh:hasTitle>
                         <acdh:isPartOf rdf:resource="{concat($baseID, string-join(($config:app-name, 'data'), '/'))}"/>
+                        <acdh:hasContributor>
+                            <acdh:Person rdf:about="http://viaf.org/viaf/31146030596135862230"/>
+                        </acdh:hasContributor>
+                        <acdh:hasContributor>
+                            <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
+                        </acdh:hasContributor>
+                        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
                     </acdh:Collection>
         }
         {
@@ -72,7 +126,6 @@ let $RDF :=
                                 return
                                     <acdh:hasAuthor>
                                 <acdh:Person rdf:about="{$uri}">
-                                    <acdh:hasTitle>"remove this constraint"</acdh:hasTitle>
                                     <acdh:hasLastName>
                                         {$y/tei:surname/text()}
                                     </acdh:hasLastName>
@@ -92,7 +145,7 @@ let $RDF :=
                         {$title}
                         {$authors}
                         <acdh:isPartOf rdf:resource="{concat($baseID, (string-join(($config:app-name, 'data', $x), '/')))}"/>
-                        
+                        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
                     </acdh:Resource>
         }
 
