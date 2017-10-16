@@ -5,7 +5,7 @@
             <titleStmt>
                 <title>HowTo create your own digital edition web app — A blog</title>
                 <author>
-                    <persName ref="http://viaf.org/viaf/251032539" key="http://viaf.org/viaf/251032539">
+                    <persName ref="http://d-nb.info/gnd/1043833846" key="http://d-nb.info/gnd/1043833846">
                         <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Peter</forename>
                         <surname>Andorfer</surname>
                     </persName>
@@ -66,7 +66,7 @@
                     <analytic>
                         <title>HowTo create your own digital edition web app — A blog</title>
                         <author>
-                            <persName ref="http://viaf.org/viaf/251032539">
+                            <persName ref="http://d-nb.info/gnd/1043833846">
                                 <forename xmlns:tei="http://www.tei-c.org/ns/1.0">Peter</forename>
                                 <surname>Andorfer</surname>
                             </persName>
