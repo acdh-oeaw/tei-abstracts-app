@@ -55,6 +55,7 @@
                         <p part="N">The CC BY 4.0 License also applies to this TEI XML file.</p>
                     </licence>
                 </availability>
+            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/11022/0000-0007-C1FA-5</tei:idno>
             </publicationStmt>
             <sourceDesc default="false">
                 <biblStruct default="false" status="draft">
