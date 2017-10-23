@@ -11,13 +11,12 @@
     <link rel="stylesheet" type="text/css" href="$app-root/resources/js/leaflet/MarkerCluster.Default.css"/><!-- history.js -->
     <script src="$app-root/resources/js/historyjs/jquery.history.js"/><!-- history.js END-->
     <script type="text/javascript" src="$app-root/resources/js/leaflet/markercluster_not_official.js"/>
-    <script> $(function() { 
+    <script>$(function() { 
         $("table").tablesorter(
         { theme : "bootstrap", widthFixed: false,
         headerTemplate : '{content} {icon}', widgets : [ "uitheme", "filter", "zebra" ], filter_cssFilter: "form-control"}
         );
-        }); 
-    </script><!--     https://mottie.github.io/tablesorter/docs/index.html#api Event: tablesorter-initialized-->
+        });</script><!--     https://mottie.github.io/tablesorter/docs/index.html#api Event: tablesorter-initialized-->
     <div class="panel panel-default">
         <div class="panel-heading" style="text-align:center;">
             <h1>
@@ -35,20 +34,15 @@
                         <th class="header">
                             country
                         </th>
-                        <th>
-                            getty ID
-                        </th>
-                        <th>
-                            GPS
-                        </th>
+                        <th>getty ID</th>
+                        <th>GPS</th>
                     </tr>
                 </thead>
                 <tr data-template="app:listPlace"/>
             </table>
         </div>
     </div>
-    <script>
-        $( document ).ready(function() {
+    <script>$( document ).ready(function() {
         var all_rows = $("tr").slice( 2 ) ;
         $('#amount').text(all_rows.length);
         
@@ -77,8 +71,8 @@
         var place_name = $(value).find('li').first().text().trim();
         var coordinates = $(value).find('geo').first().text().trim().split('|');
         //alert(coordinates);
-        var lng_value = (coordinates[1]);
-        var lat_value = (coordinates[0]);
+        var lng_value = (coordinates[0]);
+        var lat_value = (coordinates[1]);
         //alert(lng_value);
         var getty_id = $(value).find('idno').first().text().trim();
         var place = {
@@ -128,8 +122,8 @@
         var place_name = $(value).find('li').first().text().trim();
         var coordinates = $(value).find('geo').first().text().trim().split('|');
         //alert(coordinates);
-        var lng_value = (coordinates[1]);
-        var lat_value = (coordinates[0]);
+        var lng_value = (coordinates[0]);
+        var lat_value = (coordinates[1]);
         //alert(lng_value);
         var getty_id = $(value).find('idno').first().text().trim();
         var place = {
@@ -153,6 +147,5 @@
         console.log(places);
         History.pushState({searchstring: "place"}, "looking for "+searchstring, "?place="+searchstring);   
         });
-        });
-    </script>
+        });</script>
 </div>

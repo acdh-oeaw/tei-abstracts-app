@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>List of places </title>
+                <title>List of places</title>
             </titleStmt>
             <publicationStmt>
                 <p>Publication Information</p>
-            <tei:idno xmlns:tei="http://www.tei-c.org/ns/1.0" type="URI">http://hdl.handle.net/11022/0000-0007-C22E-B</tei:idno>
+                <p>
+                    <idno type="URI">http://hdl.handle.net/11022/0000-0007-C22E-B</idno>
+                </p>
             </publicationStmt>
             <sourceDesc>
                 <p>This list was mostly automatically derived from some manual conftool export and processed further with a python script</p>
@@ -22,36 +22,36 @@
                 <place xml:id="country_AT">
                     <placeName>Austria</placeName>
                     <location>
-                        <geo>13.3333, 47.3333</geo>
+                        <geo>47.3333, 13.3333</geo>
                     </location>
                     <idno type="getty">1000062</idno>
                 </place>
                 <place xml:id="country_CH">
                     <placeName>Switzerland</placeName>
                     <location>
-                        <geo>8, 47</geo>
+                        <geo>47, 8</geo>
                     </location>
                     <idno type="getty">7011731</idno>
                 </place>
                 <place xml:id="country_LU">
                     <placeName>Luxembourg</placeName>
                     <location>
-                        <geo>6.1667, 49.75</geo>
+                        <geo>49.75, 6.1667</geo>
                     </location>
                     <idno type="getty">7003514</idno>
                 </place>
                 <place xml:id="country_DE">
                     <placeName>Germany</placeName>
                     <location>
-                        <geo>10.5, 51.5</geo>
+                        <geo>51.5, 10.5</geo>
                     </location>
                     <idno type="getty">7000084</idno>
                 </place>
-               
+                
                 <place xml:id="country_ES">
                     <placeName>Spain</placeName>
                     <location>
-                        <geo>-4, 40</geo>
+                        <geo>40, -4</geo>
                     </location>
                     <idno type="getty">1000062</idno>
                 </place>
@@ -59,15 +59,15 @@
                 <place xml:id="country_IE">
                     <placeName>Ireland</placeName>
                     <location>
-                        <geo>-8, 53</geo>
+                        <geo>53, -8</geo>
                     </location>
                     <idno type="getty">1000078</idno>
                 </place>
-               
+                
                 <place xml:id="country_UK">
                     <placeName>United Kingdom</placeName>
                     <location>
-                        <geo>-4.5, 54</geo>
+                        <geo>54, -4.5</geo>
                     </location>
                     <idno type="getty">7008591</idno>
                 </place>
@@ -75,21 +75,21 @@
                 <place xml:id="country_US">
                     <placeName>United States of America</placeName>
                     <location>
-                        <geo>-98.5, 39.76</geo>
+                        <geo>39.76, -98.5</geo>
                     </location>
                     <idno type="getty">7012149</idno>
                 </place>
                 <place xml:id="country_IT">
                     <placeName>Italy</placeName>
                     <location>
-                        <geo>12.8333, 42.8333</geo>
+                        <geo>42.8333, 12.8333</geo>
                     </location>
                     <idno type="getty">1000080</idno>
                 </place>
                 <place xml:id="country_SI">
                     <placeName>Slovenia</placeName>
                     <location>
-                        <geo>15.1667, 46.25</geo>
+                        <geo>46.25, 15.1667</geo>
                     </location>
                     <idno type="getty">7006670</idno>
                 </place>
@@ -97,29 +97,29 @@
                 <place xml:id="country_FR">
                     <placeName>France</placeName>
                     <location>
-                        <geo>2, 46</geo>
+                        <geo>46, 2</geo>
                     </location>
                     <idno type="getty">1000070</idno>
                 </place>
-              
+                
                 <place xml:id="country_HU">
                     <placeName>Hungary</placeName>
                     <location>
-                        <geo>20, 47</geo>
+                        <geo>47, 20</geo>
                     </location>
                     <idno type="getty">7006278</idno>
                 </place>
                 <place xml:id="country_RU">
                     <placeName>Russia</placeName>
                     <location>
-                        <geo>47, 60</geo>
+                        <geo>60, 47</geo>
                     </location>
                     <idno type="getty">7002435</idno>
                 </place>
                 <place xml:id="country_JP">
                     <placeName>Japan</placeName>
                     <location>
-                        <geo>139.75309, 35.68536</geo>
+                        <geo>35.68536, 139.75309</geo>
                     </location>
                     <idno type="getty">2059221</idno>
                 </place>

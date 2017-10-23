@@ -137,7 +137,10 @@ let $RDF :=
                             
                         
                 } catch * {()}
-
+                let $idno := try {
+                    $node//tei:publicationStmt/tei:idno/text()
+                } catch * {()}
+                let $pid := if ($idno) then $idno else 'create some'
                 
                 let $filename := string-join(($config:app-name, 'data', $x, $doc), '/')
                 return
@@ -146,6 +149,7 @@ let $RDF :=
                         {$authors}
                         <acdh:isPartOf rdf:resource="{concat($baseID, (string-join(($config:app-name, 'data', $x), '/')))}"/>
                         <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+                        <acdh:hasPid>{$pid}</acdh:hasPid>
                     </acdh:Resource>
         }
 
