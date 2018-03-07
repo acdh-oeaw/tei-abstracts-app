@@ -110,12 +110,24 @@ let $RDF :=
                     } catch * {
                         false()
                     }
+                let $currentPath :=  string-join(($config:app-name, 'data', $x), '/')
                 let $filename := string-join(($config:app-name, 'data', $x, $doc), '/')
                 let $title := try {
                         <acdh:hasTitle>{normalize-space(string-join($node//tei:titleStmt/tei:title//text(), ' '))}</acdh:hasTitle>
                     } catch * {
                         <acdh:hasTitle>{tokenize($filename, '/')[last()]}</acdh:hasTitle>
                     }
+                    
+                let $diss := if (ends-with($currentPath, 'editions'))
+                    then
+                        (
+                            <acdh:hasSchema rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/tei-epidoc.rng"/>,
+                            <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>,
+                            <acdh:hasCustomXSL rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc2html.xsl"/>
+                        )
+                    else
+                        ()
+                    
                 let $authors := try {
                         
                             for $y in $node//tei:titleStmt//tei:author//tei:persName
@@ -150,6 +162,7 @@ let $RDF :=
                         <acdh:isPartOf rdf:resource="{concat($baseID, (string-join(($config:app-name, 'data', $x), '/')))}"/>
                         <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
                         <acdh:hasPid>{$pid}</acdh:hasPid>
+                        {$diss}
                     </acdh:Resource>
         }
 

@@ -6,7 +6,7 @@
                 <title>TEI Processing Model Toolbox</title>
                 <author>
                     <persName key="genIDc7304170658c8617ef98d9c6a5233c8a">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="">Magdalena</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="female">Magdalena</forename>
                         <surname>Turska</surname>
                     </persName>
                     <persName key="genID46be19fa82cd78431b11b56b671bdc7f">

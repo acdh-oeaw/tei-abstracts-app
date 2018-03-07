@@ -33,7 +33,7 @@
                                            <ul class="list-unstyled">
                                                <xsl:for-each select=".//tei:title">
                                                    <li>
-                                                       <xsl:apply-templates/>&#160;
+                                                       <xsl:apply-templates/> 
                                                        <a target="_blank">
                                                            <xsl:attribute name="href">
                                                                <xsl:value-of select="concat('show.html?document=',./@key)"/>
