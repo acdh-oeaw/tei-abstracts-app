@@ -10,7 +10,7 @@
                         <surname>Scholger</surname>
                     </persName>
                     <persName key="genIDab7306163dd9302fb67b9d731872f0b2">
-                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="">Peter</forename>
+                        <forename xmlns:tei="http://www.tei-c.org/ns/1.0" type="male">Peter</forename>
                         <surname>Stadler</surname>
                     </persName>
                 </author>
