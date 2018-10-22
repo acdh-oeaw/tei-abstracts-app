@@ -72,7 +72,7 @@ let $RDF :=
             <acdh:hasContributor>
                 <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
             </acdh:hasContributor>
-            <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+            <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         </acdh:Collection>
         
         <acdh:Collection rdf:about="{concat($baseID, string-join(($config:app-name, 'data'), '/'))}">
@@ -82,7 +82,7 @@ let $RDF :=
             <acdh:hasContributor>
                 <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
             </acdh:hasContributor>
-            <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+            <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
             <acdh:hasTitle>{string-join(($config:app-name, 'data'), '/')}</acdh:hasTitle>
             <acdh:isPartOf rdf:resource="{concat($baseID,$config:app-name)}"/>
         </acdh:Collection>
@@ -99,7 +99,7 @@ let $RDF :=
                         <acdh:hasContributor>
                             <acdh:Person rdf:about="http://d-nb.info/gnd/1043833846"/>
                         </acdh:hasContributor>
-                        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+                        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
                     </acdh:Collection>
         }
         {
@@ -160,7 +160,7 @@ let $RDF :=
                         {$title}
                         {$authors}
                         <acdh:isPartOf rdf:resource="{concat($baseID, (string-join(($config:app-name, 'data', $x), '/')))}"/>
-                        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/"/>
+                        <acdh:hasLicense rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
                         <acdh:hasPid>{$pid}</acdh:hasPid>
                         {$diss}
                     </acdh:Resource>
